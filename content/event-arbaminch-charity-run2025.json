@@ -1,0 +1,107 @@
+{
+  "slug": "event-arbaminch-charity-run2025",
+  "title": "Arbaminch-Charity-Run 2025 - Mary Joy Ethiopia",
+  "metaDescription": "ARBAMINCH Charity RUN 2025 21/June/2025 Mary Joy Charity Run event is a heartwarming that brings together individuals, families, and businesses to make a positive impact.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/08/Arbaminch-Run-3.jpg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/08/Arbaminch-Run-1.jpg",
+      "heading": "ARBAMINCH",
+      "subheading": "Charity RUN 2025"
+    },
+    {
+      "type": "dateChange",
+      "kicker": "※Date Changed to ↓",
+      "dates": ["21/June/2025", "17/May/2025"]
+    },
+    {
+      "type": "gallery",
+      "heading": "",
+      "columns": 3,
+      "images": [
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/08/Arbaminch-Run-3-1024x682.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/08/Arbaminch-Run-4-1024x682.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/08/Arbaminch-Run-5-1024x682.jpg"
+      ]
+    },
+    {
+      "type": "dateChange",
+      "kicker": "※Date Changed to ↓",
+      "heading": "CHARITY RUN 2025",
+      "dates": ["21 JUNE 2025 (Sat)", "17 MAY 2025 (Sat)", "ARBAMINCH"]
+    },
+    {
+      "type": "text",
+      "heading": "",
+      "body": [
+        "Mary Joy Charity Run event is a heartwarming that brings together individuals, families, and businesses to make a positive impact in the lives of underprivileged children and elder in Addis Ababa. Our event is not just about running and walking; it is about coming together as a community to uplift and empower the most vulnerable among us."
+      ]
+    },
+    {
+      "type": "slogan",
+      "text": "LET YOUR FOOTSTEPS ECHO THE KINDNESS IN YOUR HEART"
+    },
+    {
+      "type": "text",
+      "heading": "",
+      "body": [
+        "By participating in the Mary Joy Charity Run, you are not only promoting health and fitness but also contributing to a brighter future for children who deserve a chance at a better life. Through this positively impact the lives of underprivileged children and elders even, we aim to create a plat promote health and fitness and contributes to compassion, unity, and social responsibility."
+      ]
+    },
+    {
+      "type": "slogan",
+      "text": "TO MAKE RUNNING A LIFESTYLE FOR EVERYONE."
+    },
+    {
+      "type": "text",
+      "heading": "",
+      "body": [
+        "The 2023 Mary Joy charity run in Addis Ababa was a monumental success, attracting an impressive 5000 participants who enthusiastically completed the 5km course. The city's energy was palpable, and the event brought together people from all walks of life, united by a shared passion for fitness and a spirit of community, all in support of a worthy cause."
+      ]
+    },
+    {
+      "type": "infoList",
+      "heading": "Charity Run 2025 Information",
+      "items": [
+        { "label": "Start&Goal", "value": "Dinguza square" },
+        { "label": "Turning Point", "value": "Bekelle mola" },
+        { "label": "Expected Participant", "value": "3,000 people" }
+      ],
+      "body": [
+        "Fun, purpose-led events with a race designed for any age, experience level and ability. Also includes, Music & Entertainment, Water sprinkles, Games, Circus, Other. . .",
+        "The 2023 Mary Joy charity run in Arbaminch showcased the spirit of resilience and determination, with 2,000 participants taking on the challenge. Despite the challenging terrain, participants persevered, proving that nothing could stop them from achieving their goals, all while supporting a charitable cause. The community came together to support the event, making it a truly heartwarming experience."
+      ]
+    },
+    {
+      "type": "infoList",
+      "heading": "Time Schedule (Event day)",
+      "items": [
+        { "label": "Date", "value": "21 June 2025 (Sat) 17 May 2025 (Sat)" },
+        { "label": "Open time", "value": "AM7:00 (GMT+3) / 1:00 (Ethiopian time)" },
+        { "label": "Start time", "value": "AM8:00 (GMT+3) / 2:00 (Ethiopian time)" },
+        { "label": "Close time", "value": "AM12:00 (GMT+3) / 6:00 (Ethiopian time)" }
+      ]
+    },
+    {
+      "type": "infoList",
+      "heading": "How to Entry (How to get T-shirt)",
+      "items": [
+        { "label": "Price", "value": "300 Birr" }
+      ],
+      "body": [
+        "To participate in Mary Joy Charity Run, please wear the T-shirt of this event. You can get it following places.",
+        "Arbaminch T-shirt Selling Place"
+      ],
+      "numbered": [
+        "Anbessa bank Sikilla Branch",
+        "Gamo zone Administration Office",
+        "Mary Joy Office"
+      ]
+    },
+    {
+      "type": "bandImage",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/event-cover-3.jpg"
+    }
+  ]
+}

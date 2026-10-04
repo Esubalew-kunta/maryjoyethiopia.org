@@ -1,0 +1,156 @@
+{
+  "slug": "sponsor-child",
+  "title": "Sponsor Child - Mary Joy Ethiopia",
+  "metaDescription": "SPONSOR A CHILD I WILL RECEIVE IN RETURN OF MY BESTOWS. For Sponsors in Ethiopia Mary Joy Ethiopia invites you to make a lasting difference in the life of a child or elder by becoming a sponsor.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/donation-6.jpeg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/01/photo_2024-06-27_16-40-17.jpg",
+      "heading": "SPONSOR A CHILD",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "gallery",
+      "heading": "",
+      "columns": 2,
+      "images": [
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/photo_2024-06-27_16-40-17.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/photo_2024-06-27_16-40-10-2.jpg"
+      ]
+    },
+    {
+      "type": "split",
+      "imageSide": "left",
+      "heading": "For Sponsors in Ethiopia",
+      "body": [
+        "Mary Joy Ethiopia invites you to make a lasting difference in the life of a child or elder by becoming a sponsor. With a monthly contribution of 1000 Birr, you will provide essential support such as food, healthcare, education, and emotional care. This support helps children grow in a stable home environment and ensures that elders live with dignity and improved quality of life. To begin your sponsorship journey, please fill out the sponsorship registration form below. Our team will contact you directly and guide you through the process"
+      ],
+      "extra": {
+        "heading": "For Sponsors Abroad",
+        "body": [
+          "If you are living abroad, you can join us in transforming lives through our secure international sponsorship system. With just one click, you can sponsor a child or elder and ensure they receive the vital care and resources they deserve. Your support creates hope and opportunity for vulnerable families. Click the button below and become a sponsor"
+        ]
+      }
+    },
+    {
+      "type": "buttonRow",
+      "buttons": [{ "text": "CLICK AND SPONSOR NOW", "href": "https://donorbox.org/sponsor-a-child-809175?preview=1756473477" }]
+    },
+    {
+      "type": "text",
+      "heading": "ሜሪጆይ ኢትዮጵያ የህፃናት እና አረጋውያን ስፖንሰርሺፕ መመዝገቢያ ቅፅ (Mary Joy Ethiopia Sponsor Child/Elder Registration Form)",
+      "align": "center"
+    },
+    {
+      "type": "embedForm",
+      "id": "sponsor-child-form",
+      "title": "Mary Joy Ethiopia Sponsor Child/Elder Registration Form",
+      "subtitle": "ሜሪጆይ ኢትዮጵያ የህፃናት እና አረጋውያን ስፖንሰርሺፕ መመዝገቢያ ቅፅ",
+      "src": "https://docs.google.com/forms/d/e/1FAIpQLScNLxzJS_4jIJ6lpi5lkR5xKm1FIzRqYGcaeOAw3a01Pt8Ajg/viewform?embedded=true",
+      "height": 3266
+    },
+    {
+      "type": "accordion",
+      "heading": "Frequently Asked Questions (FAQs) – Child/Elder Sponsorship",
+      "heading2": "ተዘውትረው የሚጠየቁ ጥያቄዎች",
+      "firstOpen": false,
+      "items": [
+        {
+          "title": "1. What does it mean to sponsor a child or elder through Mary Joy Ethiopia?",
+          "title2": "ከሜሪ ጆይ ኢትዮጵያ ጋር ልጅ ወይም አረጋዊ ስፖንሰር ማስረግ ምን ማለት ነው?",
+          "body": [
+            "Sponsorship means providing monthly support that covers essential needs such as food, healthcare, education (for children), and emotional well-being. By sponsoring You become part of a life-changing journey for a vulnerable child or elder in Ethiopia.",
+            "ስፖንሰርሺፕ ማለት እንደ ምግብ፣ የጤና እንክብካቤ፣ ትምህርት (ለልጆች) እና ቤተሰባዊ ፍቅር ድጋፍ የመሳሰሉ ሆነሱ ልጋ ዓለም የሚያሟሉ ወርሃዊ እርዳታ መስጠት ማለት ነው። ለችግር ለተጋለጠ ወይም አረጋዊያን የለውጥ ጉዞ ተሳታፊ መሆን ማለት።"
+          ]
+        },
+        {
+          "title": "2. How much does sponsorship cost per month?",
+          "title2": "ስፖንሰርሺፕ በየወሩ ምን ያህል ያወጣል?",
+          "body": [
+            "Sponsorship typically starts at 750 ETB per month. Your generous contribution directly supports the well-being and development of your sponsored child or elder, enabling them to benefit from our established programs designed to improve their lives. By becoming a sponsor, you play a crucial role in providing access to essential resources, education, and care, making a meaningful difference in their day-to-day experiences.",
+            "ስፖንሰርነት በየወሩ በ750 ብር ይጀምራል። የእርስዎ ድጋፍ በቀጥታ የሚደግፉት ልጅዎን ወይም አረጋዊቤተሰቦን ደህንነት እና እድገትን ይጠብቃል፣ ይህም ትምህሩን ለማሻሻል ከተነደፉት ፕሮግራሞቻችን ተጠቃሚ እንዲሆኑ ያስችላቸዋል። ስፖንሰር በመሆን፣ በዕለት ተዕለት ሂወታቸው ላይ ትርጉም ያለው ለውጥ በማድረግ አስፈላጊ ግብዓቶችን፣ በማቅረብ ረገድ ሆኖ ሚና ይጫወታሉ።"
+          ]
+        },
+        {
+          "title": "3. How are children and elders selected and screened for the sponsorship program?",
+          "title2": "ለስፖንሰርነት የሚመረጡ ግለሰቦች እንዴት ናቸው?",
+          "body": [
+            "Mary Joy Ethiopia's criteria for enrolling children and elders in a sponsorship program include vulnerability Status; this includes orphans (those who have lost one or both parents) and individuals experiencing economic hardship (households living below the national poverty line). Access to Basic Services; applicants should have limited or no access to essential services such as education, healthcare, clean water, or shelter, and may show signs of nutritional deficiencies or chronic malnutrition. Age Range; the program typically serves children between 0–18 years old and elders who are 60 years old and above. Residency and Community Inclusion, applicants must reside in the program's target geographic area. Protection Concerns; individuals must be at risk of abuse, neglect, early marriage, or child labor.",
+            "These criteria must be accompanied by a support letter from local government offices.",
+            "ሜሪ ጆይ ኢትዮጵያ ልጆችን እና አረጋውያን በስፖንሰርሺፕ ፕሮግራም ለማስመዝገብ ያስቀመጥነት የሚከተሉት መስፈርት የተጋላጭነት ሁኔታ ይህም ህፃናት አልባ ሕፃናትን (አንዱን ወይም ሁለቱንም ወዋጆቻቸውን ያጡ) እና በኢኮኖሚ ችግር ውስጥ ያሉ ግለሰቦችን ከድህነት ለግድ በታች የሚኖሩ ቤተሰቦችን ያጠቃልላል። የአመስ ክልል; ፕሮግራሙ በተለያድ ከ0-18 አመት እድሜ ያላቸው እና ከ60 አመት በላይ የሆናቸው ሽማግሌዎችን ያገለግላል። የመኖሪያ እና የማካተት ፍላጎቶች፣ አመልካቾች በፕሮግራሙ አካባቢ መኖር አለባቸው። እነዚህ መመዘኛዎች ከአካባቢው የመንግስት ቢሮዎች የድጋፍ ደብዳቤ ጋር መያያዝ አለባቸው።"
+          ]
+        },
+        {
+          "title": "4. Can I communicate with the child or elder I sponsor?",
+          "title2": "ልጅዬን ወይም አረጋዊዬን መናገር እችላለሁ?",
+          "body": [
+            "Absolutely, you are encouraged to reach out to the individuals you are sponsoring. Additionally, one of our key goals is to act as a bridge, facilitating the development of meaningful relationships between sponsors and the children or elders they support. This connection not only enhances the experience for both parties but also fosters a sense of community and shared purpose.",
+            "ሜሪ ጆይ እርስዎ ስፖንሰር የሚያደርጉትን ቤተሰብ ቤተሰባዊ ግንኙት እንድትመሰርቱ ሁሌም ይበረታታሉ። በተጨማሪም፣ አንዱ ቁልፍ ግቦቻችን እንደ ድልድይ መስራት፣ በስፖንሰሮች እና በሚደግፉቸው ልጆች ወይም ሽማግሌዎች መካከል ትርጉም ያለው ግንኙነት እንዲፈጠር ማመቻቸት ነው። ይህ ግንኙነት ለሁለቱም ወገኖች ልምድን ከማሳደጉም በላይ የማክባር እና የጋራ ዓላማ ስሜትን ያሳድጋል።"
+          ]
+        },
+        {
+          "title": "5. How long does my sponsorship last?",
+          "title2": "ስፖንሰርነታዬ ለረጅም ጊዜ ይቀጥላል?",
+          "body": [
+            "Sponsorship program designed for children is committed to supporting them throughout their educational journey, ensuring they receive assistance and resources until they graduate and successfully enter the workforce. For elderly recipients, the sponsorship program provides continuous support, lasting for the entirety of their lives, offering them the care and resources they need during their golden years.",
+            "Additionally, the sponsorship program for individuals who require specialized treatment—including children, women, and people with disabilities—will extend until they achieve recovery or, regrettably, until their passing. This program aims to deliver vital support and medical resources tailored to their unique needs.",
+            "ለልጆች የተነደፈው የስፖንሰርሺፕ ፕሮግራም በትምህርት ጉዟቸው ሁሉ እነርሱን ለመደገፍ ቁርጠኛ ነው፣ ትምህርታቸውን ጨርሰው በተሳካ ሁኔታ ወደ ሥራ እስኪገቡ ድረስ እርዳታ እና ግብዓት እንዲያገኙ ያደርጋል። ለአረጋውያን ድጋፍ አድራጊዎች፣ የስፖንሰርሺፕ መርሃ ግብሩ ቀጣይነት ያለው ድጋፍ ይሰጣል፣ ሙሉ ሕይወታቸውን የሚዘልቅ፣ በወርቃማ ዓመታት የሚያስፈልጋቸውን እንክብካቤ እና ግብዓቶችን ይሰጣል።"
+          ]
+        },
+        {
+          "title": "6. Is my sponsorship donation tax-deductible?",
+          "title2": "የስፖንሰርሺፕ ልጭ ማስተራከዤ ታክሶ ይቀነሳል?",
+          "body": [
+            "Mary Joy Ethiopia is a dedicated local charity organization that focuses on supporting the community through various social initiatives. Due to its non-profit status and commitment to charitable work, it is exempt from taxation, allowing more resources to be directed towards its mission of helping those in need.",
+            "ሜሪ ጆይ ኢትዮጵያ በተለያዩ ማህበራዊ ተነሳሽነት ማህበረሰቡን በመደገፍ ላይ የሚያተኩር የአገር ውስጥ በጎ አድራጎት ድርጅት ነው። ለትርፍ ያልተቋቋመ እና በበጎ አድራጎት ሥራ ላይ ያለው ከቀረጥ ነፃ ነው፣ ይህም ከዓላማው የተጠበቀውን የርደት ተልእኮው ወደ ስራ ላይ ተልዋላይ ሆኖ አስችሎታችንን እንዲሰጥ ይችላል።"
+          ]
+        },
+        {
+          "title": "7. How can I be certain that my donation is making an impact?",
+          "title2": "ድጋፔዬ ውጤት እየመለጠ እንደሆነ እንዴት ማረጋገጥ እችላለሁ?",
+          "body": [
+            "We strive to create a comprehensive platform that fosters genuine family relationships between sponsors and their beneficiaries. Our approach involves conducting thorough impact assessments, where we illustrate the transformative effects of our initiatives. This is achieved by presenting a detailed comparison of the beneficiaries' status before and after receiving support. We utilize various forms of documentation, such as photographs and videos, along with reports on educational and health improvements, to effectively showcase the positive changes experienced by the families we serve.",
+            "በስፖንሰሮች እና በተጠቃሚዎቻቸው መካከል እውነተኛ የቤተሰብ ግንኙነቶችን የሚያጎለብት ሁሉን አቀፍ መድረክ ለመፍጠር እንጥራለን። አካቄዳችን ጥልቅ የተጽዑት የርደት ምዘናዎችን ማድረግን ያካትታል ይህም ተነሳሽኖቻችንን የሚያገልገው ተፅዕኖዎችን በግልጽ ለማሳየት ይችላል። ለእነዚህ የተገኘው ድጋፍ ከድጋፍ ከመቼት በፊት እና በኋላ ያለውን ሁኔታ በዝርዝር በማሳየት ነው። እኛ የምናገለግላቸው ቤተሰቦች የሚያዩቸውን አወንታዊ ለውጦች በብቃት ለማሳየት፣ እንደ ፎቶግራፎች እና ቪዲዮዎች፣ ከትምህርታዊ እና የጤና ማሻሻያዎች ሪፖርቶች ጋር የተገኙ ሰነዶችን እንጠቀማለን።"
+          ]
+        },
+        {
+          "title": "8. Can I visit the person I am sponsoring?",
+          "title2": "የሚደግፋትን ሰው መጎብኘት እችላለሁ?",
+          "body": [
+            "Absolutely, we can facilitate visits through our dedicated team. These arrangements will be made in strict accordance with guidelines designed to protect both children and elders. Prior coordination with our staff is essential to ensure a smooth and secure experience for everyone involved.",
+            "አዎ፣ በፍጹም፣ በተሰጠን ቡድናችን በኩል ጉብኝቶችን ማመቻቸት እንችላለን። እነዚህ ዝግጅቶች ህጻናትን እና አረጋውያንን ለመጠበቅ በተዘጋጁ መመሪያዎች መሰረት ይከናወናሉ። ለሁሉም ሰው ምቹ እና ደህንነቱ የተጠበቀ ጉብኝት ለማረጋገጥ ከሰራተኞቻችን ጋር ቅድመ ዝግጅት እናደርጋለን።"
+          ]
+        },
+        {
+          "title": "9. What happens if I can no longer continue my sponsorship?",
+          "title2": "ስፖንሰርነታዬን መቀጠል ካልቻልኩ ምን ይሆናል?",
+          "body": [
+            "Once you begin the sponsorship, it is advised to maintain support for as long as possible. However, if someone decides to discontinue their sponsorship, Mary Joy Ethiopia will quickly find a new sponsor. If they are unable to do so, Mary Joy Ethiopia will cover the support.",
+            "ስፖንሰርነትዎን ከጀመሩ በኋላ በተያዙት መጠን ለረጅም ጊዜ ድጋፍ እንዲያደርጉ እንመከራለን። ሆኖም አንድ ሰው ስፖንሰርነቱን ለማቋረጥ ከወሰነ ሜሪ ጆይ ኢትዮጵያ በፍጥነት አዲስ ስፖንሰር እናፈላልጋለን። ይህን ማድረግ ካልቻለ ሜሪ ጆይ ኢትዮጵያ ድጋፉን ሳናቋርጥ እንቀጥላለን።"
+          ]
+        },
+        {
+          "title": "10. How do I get started with sponsoring children or the elderly?",
+          "title2": "ልጆችን ወይም አረጋውያንን መርሐግ ለመርሐግ እንዴት እጀምራለሁ?",
+          "body": [
+            "To sponsor a child or elder in need, please visit our website and click the \u201cSponsor Now\u201d button. From there, you can select an individual and complete the Google form. Alternatively, you are welcome to visit our office located at Piazza St. George Church, Gedam Sefer, inside Wodreda 5 compound. If you have any questions, feel free to call us at 0983636363. or info@maryjoyethiopia.org",
+            "በድረ ገጻችን ላይ የሚገኘውን \u2018ስፖንሰር አሁን\u2019 የሚለውን ቁልፍ ችግር ላይ ያለ ልጅን ወይም አረጋዊ ለመደገፍ እባኮትን ድህረ ገጻችንን ይጎብኙ እና \u201cስፖንሰር አሁኑኑ\u201d የሚለውን ቁልፍ ይጫኑ። ከዚያ አንድን ድጋፍ ሚፈልግ መምረጥ እና የግል ቅጹን መሙላት ይችላሉ። በአማራጭ ጽዳቓን ገዳም ሰፈር ቤተክርስቲያን ገዳም ሰፈር ወረዳ 5 ቅጥር ግቢ የሚገኘውን ቢሮዓችንን እንድትጎበኙልን እንጋብቛለን። ማንኛውም አይነት ጥያቄ ካሎት በ 0983636363 ሊደውሉልን ይችላሉ፣ ወይም sponsorship@maryjoyethiopia.org ማግኘት ይችላሉ።"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "ሁሌም ስሰጥ የምቀበለው አለኝ!! ሜሪ ጆይ ኢትዮጵያ",
+      "align": "center"
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "8000+", "label": "NUMBER OF SPONSORED CHILDREN" },
+        { "value": "1000 +", "label": "NUMBER OF SPONSORED ELDERS" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2690 @@
+[
+  {
+    "slug": "home",
+    "title": "Home - Mary Joy Ethiopia",
+    "metaDescription": "MARY JOY ETHIOPIA Is a non-governmental indigenous humanitarian organization established 30 years ago in 1994. Founded by Sr. Zebider Zewdie and other fellows to address the vulnerability of women in the Asko Area of Addis Ababa.",
+    "ogImage": "/uploads/2024/07/Ethiopia-Local-NGO.jpg",
+    "sections": [
+      {
+        "type": "hero",
+        "slideshow": [
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/07/Ethiopian-Mother-photo.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/07/Ethiopian-Poor-Girl.jpg"
+        ],
+        "heading": "MARY JOY ETHIOPIA",
+        "subheading": "Is a non-governmental indigenous humanitarian organization established 30 years ago in 1994",
+        "duration": 5000
+      },
+      {
+        "type": "text",
+        "heading": "Latest News",
+        "align": "center"
+      },
+      {
+        "type": "cards",
+        "heading": "",
+        "columns": 3,
+        "showDate": true,
+        "items": [
+          {
+            "image": "/uploads/2026/06/web-post-300x169.jpg",
+            "title": "Mary Joy Ethiopia Launches Kidney Health Membership Program",
+            "text": "In response to the growing burden of kidney disease in Ethiopia, Mary Joy Ethiopia has officially launched its Kidney Health Membership Program, a community-centered initiative",
+            "date": "June 26, 2026",
+            "badge": "News",
+            "href": "/news/",
+            "linkText": "Read More »"
+          },
+          {
+            "image": "/uploads/2025/11/2-2-300x251.jpg",
+            "title": "Mary Joy Ethiopia Completed its First Dialysis Session",
+            "text": "On November 5, 2025, our newly established Kidney Dialysis Center in Hawassa successfully completed its first dialysis session, serving patients who expressed deep satisfaction and relief after receiving the service.",
+            "date": "November 4, 2025",
+            "badge": "News",
+            "href": "/news/",
+            "linkText": "Read More »"
+          },
+          {
+            "image": "/uploads/2025/10/564009627_1122632026718471_2260076484655140624_n-300x200.jpg",
+            "title": "Mary Joy Ethiopia Inaugurates the Hawassa Kidney Dialysis Center",
+            "text": "Mary Joy Ethiopia is proud to announce the official inauguration of its Hawassa Kidney Dialysis Center, a landmark initiative that brings life-saving medical services to the Southern region of Ethiopia. The ceremony took place in Hawassa, with the presence of senior government officials, healthcare leaders, and Mary Joy's board members.",
+            "date": "October 24, 2025",
+            "badge": "News",
+            "href": "/news/",
+            "linkText": "Read More »"
+          },
+          {
+            "image": "/uploads/2025/10/20251023-1-300x190.jpg",
+            "title": "Hope for Ethiopia monthly sponsorship program journey",
+            "text": "Hope for Ethiopia monthly sponsorship program journey from spoil to start sponsorship to achieving survival and well-being. Hope for Ethiopia's sponsorship program has been a",
+            "date": "October 23, 2025",
+            "badge": "News",
+            "href": "/news/",
+            "linkText": "Read More »"
+          }
+        ]
+      },
+      {
+        "type": "socialFeed"
+      },
+      {
+        "type": "text",
+        "heading": "ABOUT US",
+        "align": "center"
+      },
+      {
+        "type": "split",
+        "imageSide": "left",
+        "heading": "",
+        "body": [
+          "Established in 1994, Mary Joy Ethiopia is an Ethiopian local NGO, legally registered and certified indigenous non-governmental organization (NGO) with the objective to reach the most affected and vulnerable needy communities with basic lifesaving support which is essential for their survival. It is committed to making a lasting impact on the lives of the most vulnerable and excluded children and elders while supporting their families/caregivers through sustainable livelihoods. Mary Joy Ethiopia is dedicated to strengthening community involvement and engaging with individuals and partners to empower street children, elders, and their families and caregivers. We do this by providing sustainable livelihood support to bring about significant changes in their lives by addressing the underlying causes of homelessness and vulnerability."
+        ],
+        "button": {
+          "text": "READ MORE",
+          "href": "/about-us/"
+        },
+        "extra": {
+          "heading": "Our MISSION",
+          "body": [
+            "Mary Joy Ethiopia is an Ethiopian local NGO resident charity that works to empower vulnerable and underserved community groups through integrated development programs"
+          ]
+        },
+        "extra2": {
+          "heading": "Our VISION",
+          "body": [
+            "Mary Joy strives to be a sustainable organization that brings about lasting improvement"
+          ]
+        }
+      },
+      {
+        "type": "stats",
+        "items": [
+          {
+            "value": "8000 +",
+            "label": "NUMBER OF SPONSORED CHILDREN"
+          },
+          {
+            "value": "1000 +",
+            "label": "NUMBER OF SPONSORED ELDERS"
+          }
+        ],
+        "button": {
+          "text": "CLICK & SPONSOR  NOW",
+          "href": "/sponsor-child/#form"
+        }
+      },
+      {
+        "type": "cards",
+        "heading": "",
+        "columns": 3,
+        "items": [
+          {
+            "image": "/uploads/2024/05/IMG-20240417-WA0005.jpg",
+            "title": "Education",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2024/05/supply-5.jpeg",
+            "title": "Health component",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2024/05/supply-3.jpeg",
+            "title": "Economic Strengthening",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2024/05/donation-3.jpg",
+            "title": "Private-public-partnership",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2024/05/supply-2.jpeg",
+            "title": "Street Children project",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2024/05/Holiday-Support.jpg",
+            "title": "Holiday Support",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "buttonRow",
+        "buttons": [
+          {
+            "text": "READ MORE",
+            "href": "/programs/"
+          }
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "\" Not all of us can do gre",
+        "italic": "at things. But we can all do small things with great love. ",
+        "author": "MOTHER TERESA"
+      },
+      {
+        "type": "buttonRow",
+        "buttons": [
+          {
+            "text": "DONATE IN KIND NOW",
+            "href": "/in-kind-donation/"
+          },
+          {
+            "text": "SUPPORT WITH CASH ",
+            "href": "/cash-donation/"
+          }
+        ]
+      },
+      {
+        "type": "pdfList",
+        "heading": "Our Annual Reports",
+        "items": [
+          {
+            "text": "2024 - Annual Report",
+            "href": "/uploads/2025/05/MJE-Annual-report-2024.pdf"
+          },
+          {
+            "text": "2023 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2023.pdf"
+          },
+          {
+            "text": "2022 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2022.pdf"
+          },
+          {
+            "text": "2021 - Annual Report - Amharic",
+            "href": "/uploads/2024/05/MJE-Annual-report-2021-Amharic.pdf"
+          },
+          {
+            "text": "2020 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2020-English.pdf"
+          },
+          {
+            "text": "2019 - Annual Report - Amharic",
+            "href": "/uploads/2024/05/MJE-Annual-report-2019-Amharic.pdf"
+          },
+          {
+            "text": "2018 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2018-English.pdf"
+          },
+          {
+            "text": "2017 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2017-English.pdf"
+          },
+          {
+            "text": "2016 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2016-English.pdf"
+          }
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "Volunteers do not necessarily have the time,They have the heart.",
+        "author": "Come join us",
+        "button": {
+          "text": "JOIN AS VOLUNTEER  NOW",
+          "href": "/volunteer/"
+        }
+      },
+      {
+        "type": "gallery",
+        "heading": "OUR PARTNERS",
+        "carousel": true,
+        "images": [
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/FDRE.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_usaid.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/Ethio-Teclom.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_fhi360_w.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_BMSF_w.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_WorldBank_w.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_SOS_w.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_OXFAM_w.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/12/logo_jica.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/12/logo_afriwork.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "about-us",
+    "title": "About Us - Mary Joy Ethiopia",
+    "metaDescription": "ABOUT US I WILL RECEIVE IN RETURN OF MY BESTOWS. Mary Joy Ethiopia The charity idea was initiated in 1992 by Sr. Zebider Zewdie and other fellows to address the vulnerability of women in the Asko Area of Addis Ababa.",
+    "ogImage": "/uploads/2024/05/story-1.jpg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/10/P_20241028_153947-EDIT-scaled.jpg",
+        "heading": "ABOUT US",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "text",
+        "heading": "Mary Joy Ethiopia",
+        "body": [
+          "The charity idea was initiated in 1992 by Sr. Zebider Zewdie and other fellows to address the vulnerability of women in the Asko Area of Addis Ababa. We provided support for women during delivery in a private clinic founded by Sr. Zebider out of philanthropic motivation. Over time, the community's demand increased beyond what individual efforts could handle, leading to the establishment of Mary Joy Ethiopia, and the expansion of its programs and geographic reach."
+        ]
+      },
+      {
+        "type": "timeline",
+        "items": [
+          {
+            "image": "/uploads/2024/05/story-1.jpg",
+            "title": "After the initiation of the charity idea In 1994 Mary Joy Ethiopia is established as non-profit, non-governmental organization."
+          },
+          {
+            "image": "/uploads/2024/05/story-2.jpg",
+            "title": "In 2010 the organization is re-registered as Mary Joy Development Association and with the new Federal Democratic Republic of Ethiopia Charities ans Societies Proclamation page #4521 as Ethiopian resident Charity with Reg. no. 0060 under the Federal Charity and Society Agency."
+          },
+          {
+            "image": "/uploads/2024/05/story-3-1.jpg",
+            "title": "In 2021 the organization is registered as Mary Joy Ethiopia with the new Proclamation No.1113/2019 with the new Agency of Civil Society Organization with the same registration number."
+          }
+        ]
+      },
+      {
+        "type": "buttonRow",
+        "buttons": [
+          {
+            "text": "READ MORE",
+            "href": "/what-we-do/"
+          },
+          {
+            "text": "READ MORE",
+            "href": "/programs/"
+          }
+        ]
+      },
+      {
+        "type": "branches",
+        "heading": "OUR BRANCHES",
+        "intro": "Mary Joy Ethiopia has following branches in Ethiopia.",
+        "items": [
+          {
+            "name": "(Addis Ababa, Megenagna )",
+            "phone": "+251 1 1668 6793 / +251 9 6200 9332"
+          },
+          {
+            "name": "(Addis Ababa, Piassa)",
+            "phone": "+251 1 1128 1870 /+251 9 8363 6363"
+          },
+          {
+            "name": "(Asko, Addis Ababa)",
+            "phone": "+251 1 1668 6793 / +251 9 6200 9902"
+          },
+          {
+            "name": "(Sidama Region)",
+            "phone": "+251 5 6220 4705/+251 4 6212 8714 / +251 9 7005 259"
+          },
+          {
+            "name": "(Central Ethiopia)",
+            "phone": "+251 9 2436 2507 /+251 1 1668 6793"
+          },
+          {
+            "name": "(South Ethiopia)",
+            "phone": "+251 4 6881 0179 / +251 9 0989 0929"
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "",
+        "columns": 8,
+        "images": [
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_163109-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_163339-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_163800-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_151900-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_151748-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_153927-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_153828-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_153815-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_160611-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/12/P_20241120_153959-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241115_091427-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241115_090847-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241115_090914-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241115_093822-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241115_154227-s-150x150.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241113_143429-s-150x150.jpg"
+        ]
+      },
+      {
+        "type": "founder",
+        "image": "/uploads/2024/05/photo_2024-05-23_22-09-46-1024x682.jpg",
+        "heading": "Our Founder: Sister Zebider Zewdie",
+        "intro": "Sister Zebider Zewdie, the visionary Founder and Executive Director of Mary Joy Ethiopia, has dedicated her life to transforming vulnerable communities through compassion, resilience, and service.",
+        "sections": [
+          {
+            "heading": "Early Life and Education",
+            "body": [
+              "Born in 1963 in Chincha Woreda, Gammo Goffa (SNNPR), Sister Zebider began her journey as a healthcare professional. She pursued nursing at the Addis Ababa Nursing School and later served in major hospitals including Tikur Anbessa, Yekatit 12, and St. Paul's."
+            ]
+          },
+          {
+            "heading": "Impact and Programs",
+            "body": [
+              "Under her leadership, Mary Joy Ethiopia delivers holistic support through:"
+            ],
+            "bullets": [
+              "Free maternal care, HIV/AIDS services, and lung cancer screening.",
+              "Scholarships, vocational training, and school materials for disadvantaged youth.",
+              "Food, shelter, and care for orphans, the elderly, and vulnerable women.",
+              "Microfinance, skills training, and women's leadership initiatives."
+            ]
+          },
+          {
+            "heading": "Her Legacy",
+            "body": [
+              "Sister Zebider continues to inspire countless individuals through her unwavering commitment to social justice. Her leadership model combines service, sustainability, and spirituality — offering a beacon of hope for generations to come."
+            ]
+          },
+          {
+            "heading": "The Birth of Mary Joy Ethiopia",
+            "body": [
+              "After working with Save the Children Norway, Sister Zebider was moved by the hardships she witnessed. In 1994, she founded Mary Joy Ethiopia, starting with only 100 children. Today, the organization has served over 8,000 children and 1,000 elders across Ethiopia."
+            ]
+          },
+          {
+            "heading": "Faith and Personal Strength",
+            "body": [
+              "A devout Orthodox Christian, Sister Zebider attributes her strength to faith. Surviving a life-threatening illness early in her career, she believes her recovery was through the mercy of the Holy Virgin, St. Mary — the inspiration behind the name Mary Joy Ethiopia."
+            ]
+          },
+          {
+            "heading": "Awards and Recognition",
+            "body": [
+              "Sister Zebider's work has been celebrated both nationally and internationally:"
+            ],
+            "bullets": [
+              "AWiB Ethiopia, Recognition Award",
+              "Ministry of Peace",
+              "From Prime Minister Abiy Ahmed and other government bodies",
+              "Including the Araya Sew Award in Dallas, Texas"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "people",
+        "heading": "BOARD OF DIRECTION",
+        "columns": 3,
+        "items": [
+          {
+            "image": "/uploads/2025/09/tigist--e1760341892625.jpg",
+            "title": "W/ro Tigist Abate",
+            "subtitle": "Chairperson",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2025/09/Salahadin-Khalifa-e1760342116799-300x300.jpg",
+            "title": "Mr.Salahdin Kalifa",
+            "subtitle": "Vice Chairperson",
+            "text": "Addis Ababa, Ethiopia\n\nAto Salahadin Khalifa is a senior executive with over 35 years of leadership experience across healthcare, manufacturing, logistics, and real estate. He currently serves as CEO of Kadisco General Hospital and Vice Chairperson of the Board of Mary Joy Ethiopia, following a 14 year tenure as a Board Member during the organization's earlier growth phase.\n\nHe holds an MBA from Birmingham University and a BA in Management from the American University in London. Ato Salahadin has previously led Kadisco Paint Factory, Samatra Logistics, and Sachem Import & Export PLC, and currently serves as Board Member of ZamZam Bank, Kadisco Paints, and the Children's Heart Fund of Ethiopia.\n\nHis long standing commitment to Mary Joy Ethiopia continues to strengthen its governance, strategy, and sustainability."
+          },
+          {
+            "image": "/uploads/2025/09/dr-debebe-e1760342227306-300x300.jpg",
+            "title": "Dr. Debebe Ero",
+            "subtitle": "Board Member",
+            "text": "Addis Ababa, Ethiopia\n\nDr. Debebe Ero joined the Board of Mary Joy Ethiopia in 2025, bringing over two decades of leadership in social work, community development, and institutional governance. He holds Bachelor's, Master's, and PhD degrees in Social Work and Community Development, and has served in senior roles at the Ministry of Labor and Social Affairs, Ethiopia Children's Parliament, and international child protection networks. He also served as Program Manager at Mary Joy Ethiopia and Pact Ethiopia, contributing to national coordination and program implementation.\n\nCurrently, Dr. Debebe is a faculty member and Assistant Dean at Addis Ababa University's School of Social Work. He previously served as Dean of the College of Social Sciences and is an active member of the University Senate. His academic leadership is complemented by service on multiple boards and advisory bodies, with a focus on strategic planning, resource mobilization, and resilience programming. As a board member, he is committed to advancing Mary Joy Ethiopia's mission through transparent governance and collaborative leadership."
+          },
+          {
+            "image": "/uploads/2025/09/atomi-e1760342372765-300x300.jpg",
+            "title": "Dr. Atomi Abebe",
+            "subtitle": "Board Member",
+            "text": "Addis Ababa, Ethiopia\n\nDr. Atomi Abebe joined the Board of Mary Joy Ethiopia in 2025. She holds academic degrees in Geography, Political Science, and International Relations, and earned her PhD in Social and Economic Development Planning. Her career spans senior leadership roles in government institutions including the Ministry of Trade and Industry, Land Administration, and Addis Ababa City Council, as well as advisory and teaching positions in higher education.\n\nShe has completed advanced training in transformational leadership and actively contributes to civic organizations such as the Addis Ababa Women's Caucus, Ethiopian Public Diplomacy Network, and the Scout Association. Dr. Atomi brings deep expertise in strategic planning, gender equity, and institutional development, strengthening the board's governance and commitment to sustainable community impact."
+          },
+          {
+            "image": "/uploads/2025/10/photo_2025-10-15_18-07-55-300x261.jpg",
+            "title": "Ato Anteneh",
+            "subtitle": "Board Member",
+            "text": "Addis Ababa, Ethiopia\n\nAnteneh is an entrepreneur, academician and a versatile leader with more than 18 years of senior-level management experience in different industries. (i.e., Healthcare, Higher Education, Information Technology, Coffee Export, and Medical Equipment ) in the region of East Africa.\n\nHe is the cofounder and chief strategist of Starchain Medical and Heal Venture Medical and Surgical Center\n\nAnteneh possess a comprehensive knowledge of Strategic Management, Sales and Marketing, Resource Mobilization, Project Management, Information Technology, and Operations Management\n\nAnteneh graduated from St Mark & St John University (UK), MBA in Marketing Management ( with merit), and from Sikkim Manipal University, MSc"
+          },
+          {
+            "image": "/uploads/2025/09/alemayehu-e1760342508202-300x300.jpg",
+            "title": "Alemayehu Yilma",
+            "subtitle": "Board Member",
+            "text": "Addis Ababa, Ethiopia\n\nAlemayehu Yilma joined the Board of Mary Joy Ethiopia in 2025, bringing over 20 years of distinguished experience in financial management, institutional auditing, and strategic governance. He holds both Bachelor's and Master's degrees in Accounting and Finance from Addis Ababa University. Alemayehu began his career at the Ministry of Revenue, where he served as Auditor and later Audit Team Leader, overseeing tax compliance, mentoring audit teams, and producing high-impact financial reports that strengthened public accountability.\n\nHe currently serves as Finance Director at Century Business Group, where he has led financial strategy, budgeting, and regulatory compliance for over six years. His previous roles include Chief Accountant and Board Member at the same institution, where he played a pivotal role in shaping internal controls and supporting executive decision-making. As a board member of Mary Joy Ethiopia, Alemayehu contributes deep financial insight, ethical leadership, and a commitment to transparent governance advancing the organization's mission with precision and purpose."
+          },
+          {
+            "image": "/uploads/2025/09/Nigist-240x300.jpg",
+            "title": "W/ro Nigist W/Silase",
+            "subtitle": "Board Member",
+            "text": "Addis Ababa, Ethiopia\n\nW/ro Nigist is a seasoned finance and leadership professional with over 30 years of experience across government, development, and civil society institutions. She holds a Master's degree in Finance and Leadership and has served in senior roles at the Ministry of Finance, Addis Ababa Finance Bureau, Awash Wine Company, and CARE Ethiopia. Her expertise includes financial management, auditing, and strategic leadership, with a proven track record of delivering results in both public and private sectors.\n\nShe has served on the boards of Enat Bank, Lion Bank, and Ethiopian Marble Products, and remains an active member of the General Assembly of Mary Joy Ethiopia. As a board member, W/ro Nigist is committed to strengthening the organization's strategic direction and impact, contributing her deep experience and dedication to institutional resilience and community development."
+          }
+        ]
+      },
+      {
+        "type": "people",
+        "heading": "MANAGEMENT TEAM",
+        "columns": 3,
+        "items": [
+          {
+            "image": "/uploads/2025/09/Sister-Zebider-Zewdie.jpeg",
+            "title": "",
+            "subtitle": "",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2025/09/Sintaheyu-Hailu-e1760340034914.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2025/10/Dr.-Abdu-Dawud-scaled-e1760340549919.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2025/10/photo_2025-10-15_18-05-02.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2025/09/5938158939944372343-e1760340970535.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2025/09/5938158939944372338-e1760341199335.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2025/10/DrDawit-e1760340813386.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2025/10/photo_2025-10-15_18-05-06.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": ""
+          },
+          {
+            "image": "/uploads/2025/10/Dagnachew.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "buttonRow",
+        "heading": "OUR PROGRAMS",
+        "buttons": [
+          {
+            "text": "– READ MORE –",
+            "href": "/programs/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "what-we-do",
+    "title": "What We Do - Mary Joy Ethiopia",
+    "metaDescription": "WHAT WE DO I WILL RECEIVE IN RETURN OF MY BESTOWS. OUR ACTIVITIES Health Component MJE's health initiatives aim to improve community access to preventive and curative services.",
+    "ogImage": "/uploads/2024/05/IMG-20240417-WA0005.jpg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/06/about-cover-1.jpg",
+        "heading": "WHAT WE DO",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "text",
+        "heading": "OUR ACTIVITIES",
+        "align": "left"
+      },
+      {
+        "type": "cards",
+        "heading": "",
+        "columns": 2,
+        "items": [
+          {
+            "image": "/uploads/elementor/thumbs/hospital5-qycb3w24ho4j09ik6c0d7m2tnbk47hr8by5gbdgfew.jpg",
+            "title": "Health Component",
+            "text": "MJE's health initiatives aim to improve community access to preventive and curative services. The program supports maternal, newborn, and child health (MNCH), sexual and reproductive health education, HIV/AIDS awareness and prevention, sanitation and hygiene promotion, and access to essential healthcare through community-based outreach and health extension partnerships.",
+            "href": "/programs/#health",
+            "linkText": "READ MORE",
+            "linkSub": "about HEALTH COMPONET"
+          },
+          {
+            "image": "/uploads/2024/05/IMG-20240417-WA0005.jpg",
+            "title": "Education",
+            "text": "Believing that education is a key to breaking the cycle of poverty, MJE provides access to quality education for disadvantaged children and youth. Support includes school supplies, tutoring, remedial classes, and life skills training. The program also fosters community-school linkages and parental engagement in education.",
+            "href": "/programs/#education",
+            "linkText": "READ MORE",
+            "linkSub": "about EDUCATION"
+          },
+          {
+            "image": "/uploads/2024/05/economic-stregth.jpg",
+            "title": "Livelihood Enhancement & Economic Strengthening",
+            "text": "This program focuses on increasing the economic resilience of vulnerable households. Through vocational training, access to microfinance, entrepreneurship development, and savings groups, MJE enables families, especially women and youth to gain financial independence and reduce dependency.",
+            "href": "/programs/#livelihood",
+            "linkText": "READ MORE",
+            "linkSub": "about LIVELIHOOD ENHANCEMENT & ECONOMIC STRENGTHENING"
+          },
+          {
+            "image": "/uploads/2024/05/supply-4-e1716275795179.jpeg",
+            "title": "Sponsorship Program",
+            "text": "MJE's sponsorship initiative connects children from low-income and at-risk families with sponsors who provide regular support to cover educational, health, and basic needs. This stable backing ensures that children can grow in a secure and nurturing environment, with improved opportunities for the future.",
+            "href": "/programs/#sponsorship",
+            "linkText": "READ MORE",
+            "linkSub": "about SPONSORSHIP PROGRAM"
+          },
+          {
+            "image": "/uploads/2024/11/IMG_2937-scaled.jpg",
+            "title": "Feeding Program",
+            "text": "Addressing malnutrition and food insecurity, especially among children and the elderly, MJE provides nutritious meals through its community-based feeding initiatives. This program operates in schools and community centers, improving school attendance and learning capacity while enhancing overall health outcomes.",
+            "href": "/programs/#feeding",
+            "linkText": "READ MORE",
+            "linkSub": "about FEEDING PROGRAM"
+          },
+          {
+            "image": "/uploads/elementor/thumbs/Contact-qtwfx5fyw93kaztb7q4h9gr00wmi9argsstaxnasqw.jpg",
+            "title": "Child-to-Child Program",
+            "text": "This child-rights-focused initiative empowers children to take active roles in their own development and that of their peers. Through peer learning, leadership training, and health and hygiene education, children become agents of change in their families and communities.",
+            "href": "/programs/#child",
+            "linkText": "READ MORE",
+            "linkSub": "about CHILD-TO-CHILD PROGRAM"
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "",
+        "columns": 1,
+        "items": [
+          {
+            "image": "/uploads/elementor/thumbs/pg-socialprotection-success-r8lcpguxf6kz1j3ztfjnys1eyt8g7ff4784541nsfs.png",
+            "title": "Social Protection Program",
+            "text": "MJE's social protection framework provides psychosocial support, shelter assistance, legal aid, and emergency relief to individuals and families facing crises. The program particularly focuses on the elderly, survivors of gender-based violence, and households affected by poverty and displacement.",
+            "href": "/programs/#social",
+            "linkText": "READ MORE",
+            "linkSub": "about SOCIAL PROTECTION PROGRAM"
+          }
+        ]
+      },
+      {
+        "type": "buttonRow",
+        "buttons": [
+          {
+            "text": "READ MORE",
+            "href": "/programs/",
+            "linkSub": "about OUR PROGRAMs"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "WE WORK FOR",
+        "icon": "users",
+        "items": [
+          "Orphan and Vulnerable Children and their care givers",
+          "Destitute elder persons",
+          "Unemployed youth",
+          "People Living with HIV/AIDS",
+          "Children in general on capacity building and empowerment"
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "OUR MAIN TARGETS",
+        "icon": "bullseye",
+        "items": [
+          "Schools",
+          "Health institutions",
+          "Community Based organizations and Faith Based Organizations",
+          "Factories on mainstreaming of HIV and AIDS and other socio-economic problems",
+          "Local government structure"
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "WHERE WE WORK",
+        "align": "center"
+      },
+      {
+        "type": "list",
+        "heading": "ADDIS ABABA CITY ADMINISTRATION",
+        "icon": "pin",
+        "items": [
+          "In Addis Ababa MJE operates in six sub cities: Kolfe Keraniyo, Addis Ketema, Arada, Gulelie, Yeka and Bole covering 25 Woredas."
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "SIDAMA REGION",
+        "icon": "pin",
+        "items": [
+          "Yirgalem, Town, Hawassa, Boricha Woreda, Malga Woreda, Wondo Genet Town, Wondo Genet Woreda, Aleta Chuko Woreda, Aleta Chuko Town, Dara Kebado Woreda, Darara Woreda, Dara Otolicho Woreda, and Bilate Zuria Woreda"
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "SOUTH WEST ETHIOPIA REGION",
+        "icon": "pin",
+        "items": [
+          "Mizan Aman and Tepi towns"
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "CENTRAL ETHIOPIA REGIONS",
+        "icon": "pin",
+        "items": [
+          "Hadiya zone, Guraghe zone, and Mareko special woreda"
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "SOUTH CENTRAL ETHIOPIA REGION",
+        "icon": "pin",
+        "items": [
+          "Arbaminch, Dilla, Sodo, Jinka"
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "OROMIA REGION",
+        "icon": "pin",
+        "items": [
+          "Dodola, Hassasa, Bishoftu,"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "programs",
+    "title": "Programs - Mary Joy Ethiopia",
+    "metaDescription": "OUR PROGRAMS I WILL RECEIVE IN RETURN OF MY BESTOWS. Health Program: MJE's health initiatives aim to improve community access to preventive and curative services.",
+    "ogImage": "/uploads/2024/05/photo_2024-05-23_21-09-00.jpg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/05/photo_2024-05-23_21-09-00.jpg",
+        "heading": "OUR PROGRAMS",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "anchorList",
+        "heading": "OUR PROGRAMS",
+        "items": [
+          {
+            "image": "/uploads/2024/11/hospital5-150x150.jpg",
+            "title": "Health Program:",
+            "text": "MJE's health initiatives aim to improve community access to preventive and curative services. The program supports maternal, newborn, and child health (MNCH), sexual and reproductive health education, HIV/AIDS awareness and prevention, sanitation and hygiene promotion, and access to essential healthcare through community-based outreach and health extension partnerships.",
+            "anchor": "health"
+          },
+          {
+            "image": "/uploads/2024/12/025A0170-150x150.jpg",
+            "title": "Education Program:",
+            "text": "Believing that education is a key to breaking the cycle of poverty, MJE provides access to quality education for disadvantaged children and youth. Support includes school supplies, tutoring, remedial classes, and life skills training. The program also fosters community-school linkages and parental engagement in education.",
+            "anchor": "education"
+          },
+          {
+            "image": "/uploads/2024/06/about-cover-2-150x150.jpg",
+            "title": "Livelihood Enhancement & Economic Strengthening:",
+            "text": "This program focuses on increasing the economic resilience of vulnerable households. Through vocational training, access to microfinance, entrepreneurship development, and savings groups, MJE enables families, especially women and youth to gain financial independence and reduce dependency.",
+            "anchor": "livelihood"
+          },
+          {
+            "image": "/uploads/2025/01/photo_2024-06-27_16-40-09-150x150.jpg",
+            "title": "Sponsorship Program:",
+            "text": "MJE's sponsorship initiative connects children from low-income and at-risk families with sponsors who provide regular support to cover educational, health, and basic needs. This stable backing ensures that children can grow in a secure and nurturing environment, with improved opportunities for the future.",
+            "anchor": "sponsorship"
+          },
+          {
+            "image": "/uploads/2024/05/work-1-150x150.jpg",
+            "title": "Feeding Program:",
+            "text": "Addressing malnutrition and food insecurity, especially among children and the elderly, MJE provides nutritious meals through its community-based feeding initiatives. This program operates in schools and community centers, improving school attendance and learning capacity while enhancing overall health outcomes.",
+            "anchor": "feeding"
+          },
+          {
+            "image": "/uploads/2025/01/5819137622281405031-150x150.jpg",
+            "title": "Child-to-Child Program:",
+            "text": "This child-rights-focused initiative empowers children to take active roles in their own development and that of their peers. Through peer learning, leadership training, and health and hygiene education, children become agents of change in their families and communities.",
+            "anchor": "child"
+          },
+          {
+            "image": "/uploads/2024/11/streetchildrenmother-150x150.jpg",
+            "title": "Social Protection Program:",
+            "text": "MJE's social protection framework provides psychosocial support, shelter assistance, legal aid, and emergency relief to individuals and families facing crises. The program particularly focuses on the elderly, survivors of gender-based violence, and households affected by poverty and displacement.",
+            "anchor": "social"
+          }
+        ]
+      },
+      {
+        "type": "featureGroup",
+        "anchor": "health",
+        "heading": "1. HEALTH PROGRAM",
+        "items": [
+          {
+            "image": "/uploads/2025/07/pg-health-improved-300x201.jpg",
+            "title": "Improved Access to Health Services (reached 1 million beneficiaries)",
+            "bullets": [
+              "Provided direct health support and referrals",
+              "Strengthened links between communities and local health facilities.",
+              "Increased utilization of essential health services (e.g., maternal, child, and primary care).",
+              "Expanded coverage of underserved populations, including rural areas and vulnerable groups.",
+              "Improved health infrastructure, 2 clinics, and 2 primary hospitals built, equipped, and mobile outreach services provided.",
+              "Greater community awareness and demand for health services through education and outreach. Conducted prevention education and offered psychosocial support to people living with HIV/AIDS.",
+              "Helped reduce stigma and promote social reintegration."
+            ]
+          },
+          {
+            "image": "/uploads/2025/07/pg-health-better-263x300.jpg",
+            "title": "Better Health Outcomes",
+            "bullets": [
+              "Reduced maternal, newborn, and child mortality.",
+              "Improved immunization coverage and disease prevention.",
+              "Decreased burden of communicable and non-communicable diseases.",
+              "Improved nutrition and reproductive health indicators.",
+              "Reduced healthcare costs through early prevention and intervention.",
+              "Strengthened resilience of communities to health emergencies and pandemics."
+            ],
+            "story": {
+              "heading": "Bethlehem Abebe",
+              "body": [
+                "Bethlehem Abebe is a strong and resilient 30-year-old mother from Butajira town, Keble 05. Her inspiring journey reminds us of the power of hope and determination. In 2021, during an ANC follow-up for her first child, Bethlehem discovered that she was HIV-positive. Determined to protect her unborn baby, she started ARV treatment after counseling from dedicated healthcare providers. However, life took an unexpected turn when she stopped taking her medication, lost touch with the healthcare system, and sadly transmitted the virus to her firstborn. Overwhelmed with fear, she even changed her address to keep her secret hidden for three long years. But in February 2023, a ray of hope entered Bethlehem's life through the Family Focused HIV Prevention, Care, and Treatment (FFHPCT) program. They received a list of individuals with high viral loads, and attention. With Community Response Persons (CRPs), they finally found her when she was five months pregnant and in poor health, start ANC follow-up. After more than three attempts, she bravely decided to reengage in treatment.",
+                "Thanks to the support of FFHPCT's Community Engagement Facilitators (CEFs), Bethlehem resumed her ANC follow-up, and they guided her through disclosure counseling. In a remarkable act of courage, she even shared her status with her husband, who was subsequently tested and discovered he was HIV-positive too. Together, they embarked on a treatment journey, with her husband starting ARV therapy at Butajira Hospital. Bethlehem successfully delivered her second baby, and her husband has been her pillar of strength, providing unwavering physical and psychological support.",
+                "Having provided her consent, Bethlehem joined the community care and treatment services offered by the FFHPCT program. A dedicated Community Response Person was assigned to her, providing ongoing support, and health education, and emphasizing the importance of adherence to interventions. Through her determination and commitment, Bethlehem has seen a dramatic improvement in her health. Grateful for her second chance, she shares, \"I wish I had the knowledge I have now, but today is not a time for regret. I am happy that I was able to save my second child.\"",
+                "We would like to extend our heartfelt thanks to the volunteers and staff of the FFHPCT program for their invaluable support. Their dedication and compassion have helped transform lives and bring hope to families like Bethlehem's."
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "type": "featureGroup",
+        "anchor": "education",
+        "heading": "2. EDUCATION PROGRAM",
+        "items": [
+          {
+            "image": "",
+            "title": "Increased Access to Education for 235,668 School-Aged Children",
+            "bullets": [
+              "Higher enrollment and retention, especially among marginalized groups (girls, children with disabilities, rural populations).",
+              "Reduced dropout rates and greater transition between education levels",
+              "Improved infrastructure, such as more classrooms, safe sanitation, and transport, enabling more children to attend school.",
+              "Greater community awareness and engagement in supporting children's right to education."
+            ]
+          },
+          {
+            "image": "",
+            "title": "Improved Quality of Education",
+            "bullets": [
+              "Improved accessibility of learning materials, including updated textbooks and digital tools.",
+              "Stronger school leadership and accountability systems.",
+              "Student-centered learning environments that foster participation, creativity, and critical thinking."
+            ]
+          },
+          {
+            "image": "/uploads/2025/07/pg-education-impact2-300x133.jpg",
+            "title": "Enhanced Learning Outcomes",
+            "bullets": [
+              "Improved literacy, numeracy, and life skills, especially among early grade learners.",
+              "Reduced learning gaps among disadvantaged groups.",
+              "Higher performance in assessments at national and international levels."
+            ],
+            "story": {
+              "heading": "MJE Education Program Impacts",
+              "body": [
+                "The increased access to educational resources and support has empowered many children who have previously faced the challenges of street life and begging. These children are now able to reconnect with their families and actively pursue their education. Additionally, the growing use of the e-book service at the Hawassa Youth Center Library indicates positive progress.",
+                "This trend not only highlights the potential for further improvements to the service but also lays a strong foundation for advancing community development initiatives. Collectively, these efforts significantly contributed to the improved literacy, numeracy, and life skills and the future prospects of youths and school-aged children."
+              ]
+            }
+          },
+          {
+            "image": "/uploads/2025/07/pg-education-impact1-300x200.png",
+            "title": "",
+            "bullets": []
+          }
+        ]
+      },
+      {
+        "type": "featureGroup",
+        "anchor": "livelihood",
+        "heading": "3. LIVELIHOOD ENHANCEMENT AND ECONOMIC STRENGTHENING (41,887 Beneficiaries)",
+        "items": [
+          {
+            "image": "",
+            "title": "Increased Income and Employment",
+            "bullets": [
+              "Improved household income levels through job creation, entrepreneurship, or improved productivity.",
+              "Increased employment opportunities, especially for youth, women, and vulnerable populations.",
+              "Enhanced access to markets, tools, and resources, enabling more sustainable income sources."
+            ]
+          },
+          {
+            "image": "",
+            "title": "Skills Development and Economic Empowerment",
+            "bullets": [
+              "Beneficiaries gain vocational and business skills aligned to market demands.",
+              "Strengthened financial literacy and inclusion, including savings groups and access to microfinance.",
+              "Growth of VSLA & SHG through enhanced market system"
+            ]
+          },
+          {
+            "image": "/uploads/2024/11/IMG_1187-300x225.jpg",
+            "title": "Improved Resilience and Self-Reliance",
+            "bullets": [
+              "Households better able to cope with economic shocks, such as inflation, droughts, or job loss.",
+              "Increased diversification of livelihoods, reducing dependency on a single income source.",
+              "Improved food security and asset ownership, especially in rural or climate-vulnerable areas.",
+              "Empowered local communities through cooperative models, producer groups, or self-help groups.",
+              "Reduced poverty and migration due to improved local opportunities."
+            ],
+            "story": {
+              "heading": "The Lives of MJE Beneficiaries Have Changed!",
+              "body": [
+                "The business skills of members in the Village Savings and Loan Association (VSLA) and Self-Help Group (SHG) have improved significantly. As a result, their incomes have increased, and their saving habits have strengthened. Members have become self-reliant and are now able to cover their families' basic needs, educational expenses, health costs, and more. They are also engaged in sustainable income-generating activities.",
+                "Livelihood Enhancement, the central and most crucial initiative within MJE's program framework, strives to create enduring positive changes in the well-being of the designaf initial capital in cash and kind to support start-ups. In line with this, the following activities have been carried out."
+              ]
+            }
+          },
+          {
+            "image": "/uploads/2024/11/rehabilitation2-300x169.jpg",
+            "title": "",
+            "bullets": []
+          }
+        ]
+      },
+      {
+        "type": "featureGroup",
+        "anchor": "sponsorship",
+        "heading": "4. SPONSORSHIP PROGRAM (8,202 OVCs and 1,010 Elders)",
+        "items": [
+          {
+            "image": "",
+            "title": "Improved Access to Education",
+            "bullets": [
+              "Increased school enrollment and attendance among OVC through provision of school fees, uniforms, and materials.",
+              "Reduced school dropout rates by addressing financial and social barriers.",
+              "Improved academic performance through tutoring, mentoring, and psychosocial support."
+            ]
+          },
+          {
+            "image": "",
+            "title": "Enhanced Child Health and Nutrition",
+            "bullets": [
+              "Better health outcomes through access to medical care, immunizations, and health education.",
+              "Improved nutrition via food support or school feeding programs.",
+              "Early identification and referral for HIV/AIDS services, where applicable."
+            ]
+          },
+          {
+            "image": "",
+            "title": "Strengthened Protection and Psychosocial Well-being",
+            "bullets": [
+              "Improved emotional and psychological resilience through counseling, peer support, and life skills training.",
+              "Reduced risk of abuse, exploitation, and neglect, with support from trained caseworkers and child protection systems.",
+              "Stable care giving environments supported through home visits and parenting programs."
+            ]
+          },
+          {
+            "image": "/uploads/2024/11/streetchildrenmother4-300x145.jpg",
+            "title": "The lives of MJE beneficiaries have changed thanks to the support of our sponsors!",
+            "body": [
+              "The sponsorship program has had a profound impact on the lives of countless elderly families and children, bringing about a remarkable transformation filled with renewed hope and optimism. Through this vital support, many deserving children have been granted the chance to pursue higher education. This opportunity enables them to enroll in various colleges, universities, and specialized technical and vocational schools, which are critical for gaining practical skills and knowledge in today's job market.",
+              "With this newfound chance, these young individuals are empowered to take control of their futures, shifting the trajectory of their lives in a positive direction. They are not only acquiring education but also developing the confidence and skills necessary to seize the opportunities that lie ahead. As they embark on these educational journeys, they are paving the way for brighter prospects—not just for themselves, but also for their families and communities. The ripple effect of their success is likely to inspire others, fostering a culture of aspiration and achievement in areas that have long faced challenges.",
+              "Sponsoring organizations and philanthropic individuals are playing an increasingly vital role in community support efforts. Over the years, the Diaspora community has stepped up significantly, channeling more resources and assistance towards mothers in need, empowering youth, and offering vital aid to vulnerable street children. This growing involvement reflects a deepening commitment to uplifting those who are marginalized and ensuring they receive the care and opportunities they deserve."
+            ]
+          },
+          {
+            "image": "/uploads/2025/07/pg-suponsorship-success-202x300.png",
+            "title": "Success Story: A Life Transformed by the MJE Sponsorship Program",
+            "body": [
+              "Meskerem lost her father when she was just 5 years old. Raised by her mother in Addis Ababa, Ethiopia, the family struggled to meet even their basic needs. Tuition fees were beyond their reach, putting Meskerem at risk of dropping out of school permanently.",
+              "At the age of 9, she was identified by Mary Joy Ethiopia as an orphaned and vulnerable child (OVC). Her journey toward success began when she was enrolled in a monthly sponsorship program by Ahed Engineering, allowing her to start elementary school. Through this sponsorship, she received uniforms, school supplies, and psychosocial support. The program provided her with consistent assistance, including a monthly allowance of 750 birr, holiday donations, clothing, transportation coverage, laptop support, graduation attire, and emotional and psychological support.",
+              "Meskerem excelled in school and later attended Debre Tabor University in Ethiopia, where she pursued a degree in health sciences. She graduated at the top of her class with distinction, achieving a GPA of 3.58. Today, she works in her profession, serving communities like the one she came from."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "“Without the sponsorship, I would have never gone back to school. Now, I am a health professional, and I can give back to my community the way others gave to me.”",
+        "author": "Quote from Meskerem:"
+      },
+      {
+        "type": "featureGroup",
+        "anchor": "feeding",
+        "heading": "5. FEEDING PROGRAM (CENTER-BASED & HOME TO HOME) for 1,200 Elders & OVCs",
+        "items": [
+          {
+            "image": "/uploads/2024/06/cover-22-300x169.jpg",
+            "title": "Improved Nutritional Status",
+            "bullets": [
+              "Reduction in malnutrition, stunting, and underweight rates among children.",
+              "Improved dietary diversity and nutrient intake, especially in low-income or food-insecure populations.",
+              "Better physical health and growth, supporting overall development."
+            ]
+          },
+          {
+            "image": "",
+            "title": "Strengthened Safety Nets and Social Support",
+            "bullets": [
+              "Feeding programs often act as a gateway to broader social protection and health services.",
+              "Linkages to other services (health screenings, and hygiene promotion) increase overall impact.",
+              "Programs often support crisis recovery and resilience in food-insecure or disaster-affected communities"
+            ]
+          },
+          {
+            "image": "/uploads/2025/07/pg-feeding-success-1024x337.png",
+            "title": "Success Story: Living Condition of the Beneficiaries Improved by MJE Feeding Program",
+            "body": [
+              "Getachew Boche is a 64-year-old man who has endured the painful loss of his family over the past 36 years. He previously begged on the streets of Hawassa City until he had the opportunity to join the Mary Joy Ethiopia Hawassa Elders Center. At the center, Getachew received six months of intensive rehabilitation services.",
+              "Through the Elders Feeding Program, he began receiving tailored meals three times a day to meet his dietary needs. This program also connected him with essential health services. As a result of these services, Getachew fully recovered from his trauma, which led to improved overall health. He gained weight, stabilized his blood pressure, and now enjoys a better quality of life.",
+              "Additionally, the program facilitated his reintegration with family, provided opportunities for income-generating activities, and improved his living environment and facilities. His self-esteem and dignity have been restored, and he is currently living with his brother and extended family.",
+              "As Getachew expressed, “I no longer feel forgotten. This program gave me back my independence. Toso Neerasa (The Creator of the supreme; you are a Miracle, You know)” a heartfelt expression of gratitude in the Woliata language."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "featureGroup",
+        "anchor": "child",
+        "heading": "6. CHILD-TO-CHILD PROGRAM",
+        "items": [
+          {
+            "image": "",
+            "title": "Empowered Children as Change Agents",
+            "bullets": [
+              "Children gain knowledge, confidence, and leadership skills to take initiative in their schools and communities.",
+              "Increased peer-to-peer support and learning, especially on health, hygiene, safety, and rights.",
+              "Enhanced self-esteem and agency among children, especially girls and marginalized groups.",
+              "Children adopt and promote positive health behaviors, such as hand washing, clean water use, and sanitation.",
+              "Reduced incidence of preventable diseases through child-led health education and awareness campaigns.",
+              "Children become early responders and advocates for healthier habits in homes and schools."
+            ]
+          },
+          {
+            "image": "",
+            "title": "Strengthened Peer Learning and Education Outcomes",
+            "bullets": [
+              "Increased peer support for academic learning, homework help, and school readiness.",
+              "Improved school participation and retention, especially for younger or at-risk children.",
+              "Enhanced inclusive education by promoting solidarity with children with disabilities or those facing barriers."
+            ]
+          },
+          {
+            "image": "",
+            "title": "Enhanced Community and Family Engagement",
+            "bullets": [
+              "Children influence attitudes and behaviors within families and communities, fostering collective responsibility.",
+              "Increased intergenerational dialogue and respect for children's voices.",
+              "Communities become more child-friendly and responsive to children's needs."
+            ]
+          },
+          {
+            "image": "",
+            "title": "Improved Civic and Social Development",
+            "bullets": [
+              "Children develop a sense of social responsibility and civic engagement early in life.",
+              "Programs foster lifelong skills such as teamwork, communication, problem-solving, and empathy.",
+              "Contribution to child rights promotion and stronger community-based protection systems."
+            ]
+          },
+          {
+            "image": "",
+            "title": "Success Story: Amanuel: From Struggling Learner to Confident Reader",
+            "body": [
+              "Amanuel, an 11-year-old boy with a quiet demeanor, often sat at the back of the classroom, struggling to make sense of the words on the page. In a home where educational support was scarce, he found himself falling further behind his peers, teetering on the edge of giving up on his schooling altogether.",
+              "However, everything changed when he joined the Child-to-Child reading support initiative in Hawassa Youth and Children Center. There, he was paired with Daniel, a self-assured and enthusiastic classmate who had been trained in effective reading strategies. With the aid of engaging phonics games, simple reading tools, and consistent positive reinforcement, Daniel became a guiding light for Amanuel.",
+              "As weeks turned into months, a remarkable transformation began to unfold. In just four short months, Amanuel's reading fluency soared. The shy boy who once hesitated to speak up became increasingly vocal and confident, eagerly participating in class discussions. It wasn't long before he found the courage to volunteer to read aloud during morning assemblies, much to the delight of his classmates.",
+              "Reflecting on his journey, Amanuel said with a bright smile, “Daniel helped me see that I can learn, too. Now, I love reading stories!” His newfound love for reading not only enhanced his academic performance but also reignited his passion for learning, setting him on a path to brighter horizons."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "featureGroup",
+        "anchor": "social",
+        "heading": "7. SOCIAL PROTECTION PROGRAM (64,685 Beneficiaries Served)",
+        "items": [
+          {
+            "image": "/uploads/2024/11/IMG_1088-300x200.jpg",
+            "title": "Reduced Poverty and Vulnerability",
+            "bullets": [
+              "Improved household income and consumption, helping families meet basic needs.",
+              "Decreased financial hardship among vulnerable groups such as children, elderly, persons with disabilities, and single-parent households.",
+              "Increased food security, with more stable and nutritious diets."
+            ]
+          },
+          {
+            "image": "",
+            "title": "Improved Health and Education Outcomes",
+            "bullets": [
+              "Greater access to healthcare due to reduced financial barriers (medications, transport, services).",
+              "Higher school enrollment, attendance, and retention, especially for children in poor households.",
+              "Improved child well-being, including better growth, development, and psychosocial health."
+            ]
+          },
+          {
+            "image": "",
+            "title": "Enhanced Economic Resilience and Productivity",
+            "bullets": [
+              "Boosted economic participation, especially for women and youth, through access to productive assets, training, or public works.",
+              "Stimulation of local economies, as cash or in-kind transfers increase demand for goods and services.",
+              "Improved savings and investment behavior among beneficiaries."
+            ]
+          },
+          {
+            "image": "/uploads/2025/07/pg-socialprotection-success-225x300.png",
+            "title": "Success Stories: Kiyan Feyissa – Escaping the Trap of Forced Motherhood",
+            "body": [
+              "At just 21 years old, Kiyan Feyissa has journeyed through unimaginable hardships. As a survivor of sexual abuse, she confronted an unexpected and traumatic reality when she became pregnant. Facing immense pressure from those around her, she felt compelled to carry the pregnancy to term, despite her own wishes. After giving birth to a beautiful baby girl, the weight of her experiences forced Kiyan to leave her job as a domestic worker in the bustling city of Addis Ababa. Alone and overwhelmed, she bore the burden of single motherhood, grappling with feelings of isolation, despair, and hopelessness as she struggled to secure a roof over her head and ensure her family's basic needs—rent, food, and the essentials of life.",
+              "Fortunately, Kiyan's life took a positive turn when she found support through the Women Affairs Office in the Addis Ketema Sub-city. This lifeline allowed her to enroll in Mary Joy Ethiopia, an organization dedicated to social protection and empowerment for women in distress. At Mary Joy, Kiyan received critical emergency psychosocial support, along with legal assistance that helped her reclaim her dignity and assert her rights.",
+              "In a remarkable shift of fortune, Kiyan was offered a job at Mary Joy Ethiopia, giving her the means to provide for her daughter while embarking on her own healing journey. The organization also granted her access to free daycare, ensuring her little one was nurtured and cared for. As a nanny at Mary Joy Ethiopia, Kiyan thrives in her role, surrounded by laughter and joy. She now tends to her daughter and other children, creating a warm environment filled with nutritious meals, engaging learning activities, playful interactions, and scheduled nap times that promote healthy development. Kiyan's daughter has flourished in this supportive atmosphere, gaining weight and growing healthier every day. Kiyan reflects with gratitude on the transformation in her life, stating:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "“I was trapped in pain and silence. The support I received gave me a voice and a future.” “Through resilience and support, I have stepped into a new chapter of my life, filled with hope, purpose, and the promise of a brighter tomorrow.”",
+        "author": "Quote from Kiyan:"
+      }
+    ]
+  },
+  {
+    "slug": "projects",
+    "title": "Projects - Mary Joy Ethiopia",
+    "metaDescription": "COLLABORATE PROJECTS I WILL RECEIVE IN RETURN OF MY BESTOWS. OUR PROJECT COLLABORATORS We collaborate with international NGOs and Ethiopian governments to carry out various projects.",
+    "ogImage": "/uploads/elementor/thumbs/logo_usaid-qtwg45cj2ncb3rg08rlagtgjpq70kguo1b5wqkk2w0.png",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/12/Project-page-1.jpg",
+        "heading": "COLLABORATE PROJECTS",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "text",
+        "heading": "OUR PROJECT COLLABORATORS",
+        "body": [
+          "We collaborate with international NGOs and Ethiopian governments to carry out various projects. As a local NGO, we directly provide practical support to vulnerable people."
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "",
+        "columns": 3,
+        "images": [
+          "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_usaid-qtwg45cj2ncb3rg08rlagtgjpq70kguo1b5wqkk2vq.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_fhi360_w-qtwfx5fs71rgo9lx3qp9wl10igon9l2lqobs4exl7a.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_WorldBank_w-qtwfxa4z57xwabf3caqer1ubhe1hc2l9fbl7isqmc6.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_BMSF_w-qtwfx5fs71rgo9lx3qp9wl10igon9l2lqobs4exl7a.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_ethiotelecom-qtwg1hgzpjp27jb9sm5cehnj4fbkrca1o4mdsci8ie.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_mathiwos-qtwg32t5afvjvqzzhsxl4l6ncxgysvlo80f02857yu.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_ministry-qtwg15938p8c0lt0ryv702qjeezsz9xjag52jr0cra.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_ethiopia-qtwfw4s2sida3h361sutpca1cfpbxe12lmvuemfxxy.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_merci-hands-europe-qyxj1bw0vw6r33xmyzxv7u82ucirxwvj1ba280fhqu.png"
+        ]
+      },
+      {
+        "type": "stats",
+        "items": [
+          {
+            "value": "148,986",
+            "label": "NUMBER OF BENEFICIARIES"
+          },
+          {
+            "value": "11",
+            "label": "NUMBER OF COLLABOLATE PROJECTS"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "",
+        "columns": [
+          "Donor /Source of budget",
+          "Name of current projects",
+          "Sector",
+          "Region/Zone",
+          "Name of Implementation towns",
+          "Number of Beneficiaries"
+        ],
+        "rows": [
+          [
+            "USAID",
+            "Family Focused HIV Prevention Care & Treatment",
+            "Health",
+            "Sidama / Hawassa",
+            "Hawassa",
+            "39,017"
+          ],
+          [
+            "USAID",
+            "Family Focused HIV Prevention Care & Treatment",
+            "Health",
+            "Sidama / Central Sidama",
+            "Yirgalem",
+            "39,017"
+          ],
+          [
+            "USAID",
+            "Family Focused HIV Prevention Care & Treatment",
+            "Health",
+            "Central Ethiopia / East Gurage",
+            "Butajira",
+            "39,017"
+          ],
+          [
+            "USAID",
+            "Family Focused HIV Prevention Care & Treatment",
+            "Health",
+            "Central Ethiopia / Hadiya",
+            "Hossaena",
+            "39,017"
+          ],
+          [
+            "USAID",
+            "Family Focused HIV Prevention Care & Treatment",
+            "Health",
+            "South Ethiopia/ Gedeo",
+            "Dilla",
+            "39,017"
+          ],
+          [
+            "USAID",
+            "Family Focused HIV Prevention Care & Treatment",
+            "Health",
+            "South Ethiopia/ Wolaita",
+            "Wolaita Sodo",
+            "39,017"
+          ],
+          [
+            "USAID",
+            "Family Focused HIV Prevention Care & Treatment",
+            "Health",
+            "South Ethiopia/ Ari",
+            "Jinka",
+            "39,017"
+          ],
+          [
+            "USAID",
+            "Family Focused HIV Prevention Care & Treatment",
+            "Health",
+            "South Ethiopia/ Gamo",
+            "Arbaminch",
+            "39,017"
+          ],
+          [
+            "USAID",
+            "Family Focused HIV Prevention Care & Treatment",
+            "Health",
+            "South West Ethiopia/ Sheka",
+            "Tepi town",
+            "39,017"
+          ],
+          [
+            "USAID",
+            "Family Focused HIV Prevention Care & Treatment",
+            "Health",
+            "South West Ethiopia/ Bench Sheko",
+            "Mizan Aman town",
+            "39,017"
+          ],
+          [
+            "USAID",
+            "Family Focused HIV Prevention Care & Treatment",
+            "Health",
+            "South West Ethiopia/ Kefa",
+            "Bonga town",
+            "39,017"
+          ],
+          [
+            "USAID / FHI360",
+            "SBC for Healthy Behavior Activity",
+            "Health",
+            "Central Ethiopia / Guraghe",
+            "Endegegn",
+            "32,809"
+          ],
+          [
+            "USAID / FHI360",
+            "SBC for Healthy Behavior Activity",
+            "Health",
+            "Central Ethiopia / Guraghe",
+            "Enor",
+            "32,809"
+          ],
+          [
+            "USAID / FHI360",
+            "SBC for Healthy Behavior Activity",
+            "Health",
+            "Central Ethiopia / Guraghe",
+            "Mareko Special Woreda",
+            "32,809"
+          ],
+          [
+            "World Bank / Ministry of Women and Social Affairs",
+            "Urban productive safety net and job project (UPSNJP)",
+            "Livelihood and social protection",
+            "Sidama / North Sidama",
+            "Hawassa",
+            "60"
+          ],
+          [
+            "World Bank / Ministry of Women and Social Affairs",
+            "Urban productive safety net and job project (UPSNJP)",
+            "Livelihood and social protection",
+            "Central Ethiopia / Hadiya",
+            "Hossaena",
+            "101"
+          ],
+          [
+            "Mercy Hands Europe",
+            "Child & youth center services",
+            "Education & empowerment",
+            "Sidama / North Sidama",
+            "Hawassa",
+            "9,447"
+          ],
+          [
+            "Bristol Myers Squibb / The Mathiwos Wondu Ethiopian Cancer Society",
+            "Prevention, care and treatment of lung cancer",
+            "Health",
+            "Addis Ababa / Addis Ketema, Kolfe Keraniyo, Sheger city",
+            "Addis Ababa & Burayu town",
+            "6,495"
+          ],
+          [
+            "ethiotelecom, private sector, AA Feeding Agency",
+            "Street children and street mothers rehabilitation center care services and reintegration , elders feeding services",
+            "Livelihood enhancement & social protection",
+            "Addis Ababa / Arada",
+            "Addis Ababa",
+            "274"
+          ],
+          [
+            "ethiotelecom, private sector, AA Feeding Agency",
+            "Street children center care, reintegration services",
+            "Livelihood enhancement & social protection",
+            "Addis Ababa / Arada",
+            "Addis Ababa & Burayu town",
+            "40"
+          ],
+          [
+            "Ethiopian Government., private sector, individuals, Diaspora",
+            "Public-Private-Partnership Program, Elder center services",
+            "Livelihood enhancement & education",
+            "South Ethiopia/ Gamo",
+            "Arbaminch",
+            "47"
+          ],
+          [
+            "Ethiopian Government., private sector, individuals, Diaspora",
+            "Preventive and curative health care services = facility",
+            "Health",
+            "Addis Ababa / Addis Ketema, Kolfe Keraniyo, Sheger city",
+            "Addis Ababa & Burayu town",
+            "9,400"
+          ],
+          [
+            "Ethiopian Government., private sector, individuals, Diaspora",
+            "Public-Private-Partnership Program (ETEM)",
+            "Livelihood enhancement & education",
+            "Sidama / North Sidama",
+            "Hawassa",
+            "1,180"
+          ],
+          [
+            "Ethiopian Government., private sector, individuals, Diaspora",
+            "Public-Private-Partnership Program (ETEM)",
+            "Livelihood enhancement & education",
+            "Central Ethiopia / Hadiya",
+            "Hossaena",
+            "17"
+          ],
+          [
+            "Ethiopian Government., private sector, individuals, Diaspora",
+            "Public-Private -Partnership Program for OVC and elders care and support services (ETEM)",
+            "Livelihood enhancement & education",
+            "Addis Ababa / Addis Ketema, Gulele, Yeka, Bole, Arada, Kolfe Keraniyo",
+            "Addis Ababa",
+            "10,623"
+          ],
+          [
+            "Ethiopian Government., private sector, individuals, Diaspora",
+            "Public-Private -Partnership Program for OVC and elders care and support services (ETEM)",
+            "Livelihood enhancement & education",
+            "Oromia / West Arsi & Bishoftu",
+            "Dodola , Hassassa",
+            "200"
+          ],
+          [
+            "Ethiopian Government., private sector, individuals, Diaspora",
+            "Public-Private -Partnership Program for OVC and elders care and support services (ETEM)",
+            "Livelihood enhancement & education",
+            "Oromia / Bishoftu",
+            "Bishoftu",
+            "316"
+          ],
+          [
+            "Ethiopian Government, Health Sectors, HFs, schools, communities",
+            "Feed the Future Community Nutrition Activity",
+            "Nutrition & Health",
+            "Sidama / North Sidama",
+            "Wondo Genet town",
+            "39,000"
+          ],
+          [
+            "Ethiopian Government, Health Sectors, HFs, schools, communities",
+            "Feed the Future Community Nutrition Activity",
+            "Nutrition & Health",
+            "Sidama / Central Sidama",
+            "",
+            "39,000"
+          ],
+          [
+            "Ethiopian Government, Health Sectors, HFs, schools, communities",
+            "Feed the Future Community Nutrition Activity",
+            "Nutrition & Health",
+            "Sidama / South Sidama",
+            "Aleta Chuko town",
+            "39,000"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Total Beneficiaries",
+            "148,670"
+          ]
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "",
+        "columns": 6,
+        "images": [
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_usaid.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_usaid.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_fhi360_w.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_WorldBank_w.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_ministry.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/12/logo_merci-hands-europe.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_BMSF_w.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_mathiwos.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_ethiotelecom.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_ethiopia.png",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_ethiopia.png"
+        ]
+      },
+      {
+        "type": "map",
+        "heading": "Project Locations",
+        "src": "https://www.google.com/maps/d/u/0/embed?mid=1BvXnGm1X_PU1EyjHOM953LElKpJ05fo&ehbc=2E312F&noprof=1"
+      },
+      {
+        "type": "buttonRow",
+        "buttons": [
+          {
+            "text": "READ MORE",
+            "href": "/about-us/",
+            "linkSub": "about Mary Joy Ethiopia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "e-resource",
+    "title": "e-Resource - Mary Joy Ethiopia",
+    "metaDescription": "E-RESOURCES I WILL RECEIVE IN RETURN OF MY BESTOWS. OUR ANNUAL REPORTS 2024 - Annual Report 2023 - Annual Report 2022 - Annual Report",
+    "ogImage": "/uploads/2024/06/MJ-USA-Campaign-Broachure-Design-final-1-scaled.jpg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/06/contact-cover.jpg",
+        "heading": "E-RESOURCES",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "pdfViewer",
+        "src": "/uploads/2024/06/MJ-USA-Campaign-Broachure-Design-final-1-scaled.jpg"
+      },
+      {
+        "type": "pdfList",
+        "heading": "OUR ANNUAL REPORTS",
+        "items": [
+          {
+            "text": "2024 - Annual Report",
+            "href": "/uploads/2025/05/MJE-Annual-report-2024.pdf"
+          },
+          {
+            "text": "2023 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2023.pdf"
+          },
+          {
+            "text": "2022 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2022.pdf"
+          },
+          {
+            "text": "2021 - Annual Report - Amharic",
+            "href": "/uploads/2024/05/MJE-Annual-report-2021-Amharic.pdf"
+          },
+          {
+            "text": "2020 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2020-English.pdf"
+          },
+          {
+            "text": "2019 - Annual Report - Amharic",
+            "href": "/uploads/2024/05/MJE-Annual-report-2019-Amharic.pdf"
+          },
+          {
+            "text": "2018 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2018-English.pdf"
+          },
+          {
+            "text": "2017 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2017-English.pdf"
+          },
+          {
+            "text": "2016 - Annual Report",
+            "href": "/uploads/2024/05/MJE-Annual-report-2016-English.pdf"
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "",
+        "columns": 3,
+        "images": [
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/MJ-USA-Campaign-Broachure-Design-final-1-1024x749.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/MJ-USA-Campaign-Broachure-Design-final-2-1024x725.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/Gedam-Sefer-Promotional-Material.jpg"
+        ]
+      },
+      {
+        "type": "pdfList",
+        "heading": "OUR RECENT AUDIT REPORTS",
+        "items": [
+          {
+            "text": "2023 - Audit Report",
+            "href": "/uploads/2024/06/2023-MJE-Audit-Report_compressed.pdf"
+          },
+          {
+            "text": "2022 - Audit Report",
+            "href": "/uploads/2024/06/2022-MJE-Audit-Report_compressed.pdf"
+          },
+          {
+            "text": "2021 - Audit Report",
+            "href": "/uploads/2024/06/2021-MJE-Audit-Report_compressed.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sponsor-child",
+    "title": "Sponsor Child - Mary Joy Ethiopia",
+    "metaDescription": "SPONSOR A CHILD I WILL RECEIVE IN RETURN OF MY BESTOWS. For Sponsors in Ethiopia Mary Joy Ethiopia invites you to make a lasting difference in the life of a child or elder by becoming a sponsor.",
+    "ogImage": "/uploads/2024/05/donation-6.jpeg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2025/01/photo_2024-06-27_16-40-17.jpg",
+        "heading": "SPONSOR A CHILD",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "gallery",
+        "heading": "",
+        "columns": 2,
+        "images": [
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/photo_2024-06-27_16-40-17.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/photo_2024-06-27_16-40-10-2.jpg"
+        ]
+      },
+      {
+        "type": "split",
+        "imageSide": "left",
+        "heading": "For Sponsors in Ethiopia",
+        "body": [
+          "Mary Joy Ethiopia invites you to make a lasting difference in the life of a child or elder by becoming a sponsor. With a monthly contribution of 1000 Birr, you will provide essential support such as food, healthcare, education, and emotional care. This support helps children grow in a stable home environment and ensures that elders live with dignity and improved quality of life. To begin your sponsorship journey, please fill out the sponsorship registration form below. Our team will contact you directly and guide you through the process"
+        ],
+        "extra": {
+          "heading": "For Sponsors Abroad",
+          "body": [
+            "If you are living abroad, you can join us in transforming lives through our secure international sponsorship system. With just one click, you can sponsor a child or elder and ensure they receive the vital care and resources they deserve. Your support creates hope and opportunity for vulnerable families. Click the button below and become a sponsor"
+          ]
+        }
+      },
+      {
+        "type": "buttonRow",
+        "buttons": [
+          {
+            "text": "CLICK AND SPONSOR NOW",
+            "href": "https://donorbox.org/sponsor-a-child-809175?preview=1756473477"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "ሜሪጆይ ኢትዮጵያ የህፃናት እና አረጋውያን ስፖንሰርሺፕ መመዝገቢያ ቅፅ (Mary Joy Ethiopia Sponsor Child/Elder Registration Form)",
+        "align": "center"
+      },
+      {
+        "type": "embedForm",
+        "id": "sponsor-child-form",
+        "title": "Mary Joy Ethiopia Sponsor Child/Elder Registration Form",
+        "subtitle": "ሜሪጆይ ኢትዮጵያ የህፃናት እና አረጋውያን ስፖንሰርሺፕ መመዝገቢያ ቅፅ",
+        "src": "https://docs.google.com/forms/d/e/1FAIpQLScNLxzJS_4jIJ6lpi5lkR5xKm1FIzRqYGcaeOAw3a01Pt8Ajg/viewform?embedded=true",
+        "height": 3266
+      },
+      {
+        "type": "accordion",
+        "heading": "Frequently Asked Questions (FAQs) – Child/Elder Sponsorship",
+        "heading2": "ተዘውትረው የሚጠየቁ ጥያቄዎች",
+        "firstOpen": false,
+        "items": [
+          {
+            "title": "1. What does it mean to sponsor a child or elder through Mary Joy Ethiopia?",
+            "title2": "ከሜሪ ጆይ ኢትዮጵያ ጋር ልጅ ወይም አረጋዊ ስፖንሰር ማስረግ ምን ማለት ነው?",
+            "body": [
+              "Sponsorship means providing monthly support that covers essential needs such as food, healthcare, education (for children), and emotional well-being. By sponsoring You become part of a life-changing journey for a vulnerable child or elder in Ethiopia.",
+              "ስፖንሰርሺፕ ማለት እንደ ምግብ፣ የጤና እንክብካቤ፣ ትምህርት (ለልጆች) እና ቤተሰባዊ ፍቅር ድጋፍ የመሳሰሉ ሆነሱ ልጋ ዓለም የሚያሟሉ ወርሃዊ እርዳታ መስጠት ማለት ነው። ለችግር ለተጋለጠ ወይም አረጋዊያን የለውጥ ጉዞ ተሳታፊ መሆን ማለት።"
+            ]
+          },
+          {
+            "title": "2. How much does sponsorship cost per month?",
+            "title2": "ስፖንሰርሺፕ በየወሩ ምን ያህል ያወጣል?",
+            "body": [
+              "Sponsorship typically starts at 750 ETB per month. Your generous contribution directly supports the well-being and development of your sponsored child or elder, enabling them to benefit from our established programs designed to improve their lives. By becoming a sponsor, you play a crucial role in providing access to essential resources, education, and care, making a meaningful difference in their day-to-day experiences.",
+              "ስፖንሰርነት በየወሩ በ750 ብር ይጀምራል። የእርስዎ ድጋፍ በቀጥታ የሚደግፉት ልጅዎን ወይም አረጋዊቤተሰቦን ደህንነት እና እድገትን ይጠብቃል፣ ይህም ትምህሩን ለማሻሻል ከተነደፉት ፕሮግራሞቻችን ተጠቃሚ እንዲሆኑ ያስችላቸዋል። ስፖንሰር በመሆን፣ በዕለት ተዕለት ሂወታቸው ላይ ትርጉም ያለው ለውጥ በማድረግ አስፈላጊ ግብዓቶችን፣ በማቅረብ ረገድ ሆኖ ሚና ይጫወታሉ።"
+            ]
+          },
+          {
+            "title": "3. How are children and elders selected and screened for the sponsorship program?",
+            "title2": "ለስፖንሰርነት የሚመረጡ ግለሰቦች እንዴት ናቸው?",
+            "body": [
+              "Mary Joy Ethiopia's criteria for enrolling children and elders in a sponsorship program include vulnerability Status; this includes orphans (those who have lost one or both parents) and individuals experiencing economic hardship (households living below the national poverty line). Access to Basic Services; applicants should have limited or no access to essential services such as education, healthcare, clean water, or shelter, and may show signs of nutritional deficiencies or chronic malnutrition. Age Range; the program typically serves children between 0–18 years old and elders who are 60 years old and above. Residency and Community Inclusion, applicants must reside in the program's target geographic area. Protection Concerns; individuals must be at risk of abuse, neglect, early marriage, or child labor.",
+              "These criteria must be accompanied by a support letter from local government offices.",
+              "ሜሪ ጆይ ኢትዮጵያ ልጆችን እና አረጋውያን በስፖንሰርሺፕ ፕሮግራም ለማስመዝገብ ያስቀመጥነት የሚከተሉት መስፈርት የተጋላጭነት ሁኔታ ይህም ህፃናት አልባ ሕፃናትን (አንዱን ወይም ሁለቱንም ወዋጆቻቸውን ያጡ) እና በኢኮኖሚ ችግር ውስጥ ያሉ ግለሰቦችን ከድህነት ለግድ በታች የሚኖሩ ቤተሰቦችን ያጠቃልላል። የአመስ ክልል; ፕሮግራሙ በተለያድ ከ0-18 አመት እድሜ ያላቸው እና ከ60 አመት በላይ የሆናቸው ሽማግሌዎችን ያገለግላል። የመኖሪያ እና የማካተት ፍላጎቶች፣ አመልካቾች በፕሮግራሙ አካባቢ መኖር አለባቸው። እነዚህ መመዘኛዎች ከአካባቢው የመንግስት ቢሮዎች የድጋፍ ደብዳቤ ጋር መያያዝ አለባቸው።"
+            ]
+          },
+          {
+            "title": "4. Can I communicate with the child or elder I sponsor?",
+            "title2": "ልጅዬን ወይም አረጋዊዬን መናገር እችላለሁ?",
+            "body": [
+              "Absolutely, you are encouraged to reach out to the individuals you are sponsoring. Additionally, one of our key goals is to act as a bridge, facilitating the development of meaningful relationships between sponsors and the children or elders they support. This connection not only enhances the experience for both parties but also fosters a sense of community and shared purpose.",
+              "ሜሪ ጆይ እርስዎ ስፖንሰር የሚያደርጉትን ቤተሰብ ቤተሰባዊ ግንኙት እንድትመሰርቱ ሁሌም ይበረታታሉ። በተጨማሪም፣ አንዱ ቁልፍ ግቦቻችን እንደ ድልድይ መስራት፣ በስፖንሰሮች እና በሚደግፉቸው ልጆች ወይም ሽማግሌዎች መካከል ትርጉም ያለው ግንኙነት እንዲፈጠር ማመቻቸት ነው። ይህ ግንኙነት ለሁለቱም ወገኖች ልምድን ከማሳደጉም በላይ የማክባር እና የጋራ ዓላማ ስሜትን ያሳድጋል።"
+            ]
+          },
+          {
+            "title": "5. How long does my sponsorship last?",
+            "title2": "ስፖንሰርነታዬ ለረጅም ጊዜ ይቀጥላል?",
+            "body": [
+              "Sponsorship program designed for children is committed to supporting them throughout their educational journey, ensuring they receive assistance and resources until they graduate and successfully enter the workforce. For elderly recipients, the sponsorship program provides continuous support, lasting for the entirety of their lives, offering them the care and resources they need during their golden years.",
+              "Additionally, the sponsorship program for individuals who require specialized treatment—including children, women, and people with disabilities—will extend until they achieve recovery or, regrettably, until their passing. This program aims to deliver vital support and medical resources tailored to their unique needs.",
+              "ለልጆች የተነደፈው የስፖንሰርሺፕ ፕሮግራም በትምህርት ጉዟቸው ሁሉ እነርሱን ለመደገፍ ቁርጠኛ ነው፣ ትምህርታቸውን ጨርሰው በተሳካ ሁኔታ ወደ ሥራ እስኪገቡ ድረስ እርዳታ እና ግብዓት እንዲያገኙ ያደርጋል። ለአረጋውያን ድጋፍ አድራጊዎች፣ የስፖንሰርሺፕ መርሃ ግብሩ ቀጣይነት ያለው ድጋፍ ይሰጣል፣ ሙሉ ሕይወታቸውን የሚዘልቅ፣ በወርቃማ ዓመታት የሚያስፈልጋቸውን እንክብካቤ እና ግብዓቶችን ይሰጣል።"
+            ]
+          },
+          {
+            "title": "6. Is my sponsorship donation tax-deductible?",
+            "title2": "የስፖንሰርሺፕ ልጭ ማስተራከዤ ታክሶ ይቀነሳል?",
+            "body": [
+              "Mary Joy Ethiopia is a dedicated local charity organization that focuses on supporting the community through various social initiatives. Due to its non-profit status and commitment to charitable work, it is exempt from taxation, allowing more resources to be directed towards its mission of helping those in need.",
+              "ሜሪ ጆይ ኢትዮጵያ በተለያዩ ማህበራዊ ተነሳሽነት ማህበረሰቡን በመደገፍ ላይ የሚያተኩር የአገር ውስጥ በጎ አድራጎት ድርጅት ነው። ለትርፍ ያልተቋቋመ እና በበጎ አድራጎት ሥራ ላይ ያለው ከቀረጥ ነፃ ነው፣ ይህም ከዓላማው የተጠበቀውን የርደት ተልእኮው ወደ ስራ ላይ ተልዋላይ ሆኖ አስችሎታችንን እንዲሰጥ ይችላል።"
+            ]
+          },
+          {
+            "title": "7. How can I be certain that my donation is making an impact?",
+            "title2": "ድጋፔዬ ውጤት እየመለጠ እንደሆነ እንዴት ማረጋገጥ እችላለሁ?",
+            "body": [
+              "We strive to create a comprehensive platform that fosters genuine family relationships between sponsors and their beneficiaries. Our approach involves conducting thorough impact assessments, where we illustrate the transformative effects of our initiatives. This is achieved by presenting a detailed comparison of the beneficiaries' status before and after receiving support. We utilize various forms of documentation, such as photographs and videos, along with reports on educational and health improvements, to effectively showcase the positive changes experienced by the families we serve.",
+              "በስፖንሰሮች እና በተጠቃሚዎቻቸው መካከል እውነተኛ የቤተሰብ ግንኙነቶችን የሚያጎለብት ሁሉን አቀፍ መድረክ ለመፍጠር እንጥራለን። አካቄዳችን ጥልቅ የተጽዑት የርደት ምዘናዎችን ማድረግን ያካትታል ይህም ተነሳሽኖቻችንን የሚያገልገው ተፅዕኖዎችን በግልጽ ለማሳየት ይችላል። ለእነዚህ የተገኘው ድጋፍ ከድጋፍ ከመቼት በፊት እና በኋላ ያለውን ሁኔታ በዝርዝር በማሳየት ነው። እኛ የምናገለግላቸው ቤተሰቦች የሚያዩቸውን አወንታዊ ለውጦች በብቃት ለማሳየት፣ እንደ ፎቶግራፎች እና ቪዲዮዎች፣ ከትምህርታዊ እና የጤና ማሻሻያዎች ሪፖርቶች ጋር የተገኙ ሰነዶችን እንጠቀማለን።"
+            ]
+          },
+          {
+            "title": "8. Can I visit the person I am sponsoring?",
+            "title2": "የሚደግፋትን ሰው መጎብኘት እችላለሁ?",
+            "body": [
+              "Absolutely, we can facilitate visits through our dedicated team. These arrangements will be made in strict accordance with guidelines designed to protect both children and elders. Prior coordination with our staff is essential to ensure a smooth and secure experience for everyone involved.",
+              "አዎ፣ በፍጹም፣ በተሰጠን ቡድናችን በኩል ጉብኝቶችን ማመቻቸት እንችላለን። እነዚህ ዝግጅቶች ህጻናትን እና አረጋውያንን ለመጠበቅ በተዘጋጁ መመሪያዎች መሰረት ይከናወናሉ። ለሁሉም ሰው ምቹ እና ደህንነቱ የተጠበቀ ጉብኝት ለማረጋገጥ ከሰራተኞቻችን ጋር ቅድመ ዝግጅት እናደርጋለን።"
+            ]
+          },
+          {
+            "title": "9. What happens if I can no longer continue my sponsorship?",
+            "title2": "ስፖንሰርነታዬን መቀጠል ካልቻልኩ ምን ይሆናል?",
+            "body": [
+              "Once you begin the sponsorship, it is advised to maintain support for as long as possible. However, if someone decides to discontinue their sponsorship, Mary Joy Ethiopia will quickly find a new sponsor. If they are unable to do so, Mary Joy Ethiopia will cover the support.",
+              "ስፖንሰርነትዎን ከጀመሩ በኋላ በተያዙት መጠን ለረጅም ጊዜ ድጋፍ እንዲያደርጉ እንመከራለን። ሆኖም አንድ ሰው ስፖንሰርነቱን ለማቋረጥ ከወሰነ ሜሪ ጆይ ኢትዮጵያ በፍጥነት አዲስ ስፖንሰር እናፈላልጋለን። ይህን ማድረግ ካልቻለ ሜሪ ጆይ ኢትዮጵያ ድጋፉን ሳናቋርጥ እንቀጥላለን።"
+            ]
+          },
+          {
+            "title": "10. How do I get started with sponsoring children or the elderly?",
+            "title2": "ልጆችን ወይም አረጋውያንን መርሐግ ለመርሐግ እንዴት እጀምራለሁ?",
+            "body": [
+              "To sponsor a child or elder in need, please visit our website and click the “Sponsor Now” button. From there, you can select an individual and complete the Google form. Alternatively, you are welcome to visit our office located at Piazza St. George Church, Gedam Sefer, inside Wodreda 5 compound. If you have any questions, feel free to call us at 0983636363. or info@maryjoyethiopia.org",
+              "በድረ ገጻችን ላይ የሚገኘውን ‘ስፖንሰር አሁን’ የሚለውን ቁልፍ ችግር ላይ ያለ ልጅን ወይም አረጋዊ ለመደገፍ እባኮትን ድህረ ገጻችንን ይጎብኙ እና “ስፖንሰር አሁኑኑ” የሚለውን ቁልፍ ይጫኑ። ከዚያ አንድን ድጋፍ ሚፈልግ መምረጥ እና የግል ቅጹን መሙላት ይችላሉ። በአማራጭ ጽዳቓን ገዳም ሰፈር ቤተክርስቲያን ገዳም ሰፈር ወረዳ 5 ቅጥር ግቢ የሚገኘውን ቢሮዓችንን እንድትጎበኙልን እንጋብቛለን። ማንኛውም አይነት ጥያቄ ካሎት በ 0983636363 ሊደውሉልን ይችላሉ፣ ወይም sponsorship@maryjoyethiopia.org ማግኘት ይችላሉ።"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "ሁሌም ስሰጥ የምቀበለው አለኝ!! ሜሪ ጆይ ኢትዮጵያ",
+        "align": "center"
+      },
+      {
+        "type": "stats",
+        "items": [
+          {
+            "value": "8000+",
+            "label": "NUMBER OF SPONSORED CHILDREN"
+          },
+          {
+            "value": "1000 +",
+            "label": "NUMBER OF SPONSORED ELDERS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "cash-donation",
+    "title": "Donation - Mary Joy Ethiopia",
+    "metaDescription": "DONATION I WILL RECEIVE IN RETURN OF MY BESTOWS. MAKE A DIFFIFFERENCE TODAY! At Mary Joy Ethiopia, we are dedicated to transforming the lives of street children and needy elders.",
+    "ogImage": "/uploads/2024/05/running-6.jpeg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/06/Donation-1.jpg",
+        "heading": "DONATION",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "gallery",
+        "heading": "",
+        "columns": 3,
+        "images": [
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/Donation-1.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/06/Donation-2.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/05/running-6.jpeg"
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "MAKE A DIFFIFFERENCE TODAY ! ❤️",
+        "align": "center"
+      },
+      {
+        "type": "split",
+        "imageSide": "left",
+        "heading": "",
+        "body": [
+          "At Mary Joy Ethiopia, we are dedicated to transforming the lives of street children and needy elders by providing them with shelter, education, healthcare, and emotional support. Thousands of children are forced to survive on the streets, facing hunger, abuse, and an uncertain future. Meanwhile, many elderly individuals, without family or financial support, struggle to meet their basic needs. Your donation ensures that these vulnerable groups receive the care and opportunities they deserve, helping them build a brighter future. By donating today, you are not just giving support—you are restoring hope, dignity, and a sense of belonging. Every cash donation, whether it is 1.00 Birr or 1 Dollar is essential and directly impacts those in desperate need. Join us in creating a compassionate community where no child is left to fend for themselves and no elder is forgotten. Together, we can change lives!",
+          "DONATE NOW❤️"
+        ]
+      },
+      {
+        "type": "bankList",
+        "heading": "LOCAL DONATION WAYS",
+        "subheading": "BANK / PAYMENT DETAILS",
+        "items": [
+          "1.CBE : 1000006578377",
+          "2.ABYSSINIA BANK : 01308267176100",
+          "3.ENAT BANK : 0251105279917001",
+          "4.BUNA BANK : 1209601000104",
+          "5.DASHEN BANK : 0025914084001"
+        ]
+      },
+      {
+        "type": "buttonRow",
+        "heading": "INTERNATIONAL DONATION ( FOR CREDIT CARD USERS )",
+        "buttons": [
+          {
+            "text": "CLICK AND DONATE NOW",
+            "href": "/donate_mpgs_solo.php"
+          }
+        ]
+      },
+      {
+        "type": "split",
+        "image": "/uploads/2024/05/iPhone9600OK.png",
+        "imageSide": "right",
+        "heading": "Donate ONLY 1 birr",
+        "body": [
+          "By receiving a daily SMS message from Mary Joy Ethiopia. You can donate Only 1 birr everyday through ethiotelecom charge. (*Only for ethiotelecom users)"
+        ],
+        "button": {
+          "text": "CLICK AND DONATE ONE BIRR!",
+          "href": "sms:9600?body=OK"
+        },
+        "extra": {
+          "heading": "",
+          "body": [
+            "Send SMS to 9600 then OK",
+            "↓ ↓",
+            "↑ ↑"
+          ]
+        }
+      },
+      {
+        "type": "gallery",
+        "heading": "",
+        "columns": 1,
+        "images": [
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/04/011dc49665658870d8a658c8260f925e-240x300.png"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "in-kind-donation",
+    "title": "In-kind Donation - Mary Joy Ethiopia",
+    "metaDescription": "IN-KIND DONATION I WILL RECEIVE IN RETURN OF MY BESTOWS. At Mary Joy Ethiopia, we believe that generosity comes in many forms.",
+    "ogImage": "/uploads/2024/05/donation-6.jpeg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2025/03/donation.jpg",
+        "heading": "IN- KIND DONATION",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "split",
+        "imageSide": "left",
+        "heading": "",
+        "body": [
+          "At Mary Joy Ethiopia, we believe that generosity comes in many forms. In-kind donations play a crucial role in supporting our mission to uplift vulnerable children, women, and elderly communities. Your contributions—whether food, clothing, educational materials, medical supplies, or household essentials—help us provide immediate relief and long-term support to those in need. By donating essential goods, you are directly improving the lives of countless individuals and empowering them with the resources to build a better future."
+        ],
+        "extra": {
+          "heading": "",
+          "body": [
+            "We welcome both individual and corporate in-kind donations and ensure that every item received is distributed to those who need it most. Whether you choose to drop off your donation, request a pickup, or ship items to our center, we strive to make the process simple and convenient. Your generosity makes a lasting impact, bringing hope and dignity to those facing difficult circumstances. Join us in making a difference—one donation at a time."
+          ]
+        }
+      },
+      {
+        "type": "embedForm",
+        "id": "in-kind-form",
+        "title": "ሜሪ ጆይ ኢትዮጵያ የዓይነት ልገሳ ለሚያደርጉ መመዝገቢያ ቅፅ",
+        "subtitle": "Mary Joy Ethiopia In-kind Donation Registration Form",
+        "note": "የእርሰዎን የልገሳ ድጋፍ አይነት ከስር ይሙሉ፤ እኛ ለመቀበል እንደውሎታለን! Fill you your donation and we will call you for a drop-off or pickup. 09-94-53-53-53 || 0962-00-37-77",
+        "src": "https://docs.google.com/forms/d/e/1FAIpQLSfDKx8I8sjxYV50hijgwwAiBnf505viYmnxmAM0ie8lDRMpdg/viewform?embedded=true",
+        "height": 3037,
+        "bgImage": "/uploads/2024/12/Jobs-2-scaled.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "feeding",
+    "title": "Feeding - Mary Joy Ethiopia",
+    "metaDescription": "Whether it's your birthday, wedding, graduation, Nika, or memorial, make your special day truly meaningful with Mary Joy Ethiopia.",
+    "ogImage": "/uploads/2024/05/donation-6.jpeg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2025/11/1-1-1024x1024.jpg",
+        "heading": "FEEDING",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "gallery",
+        "heading": "",
+        "columns": 3,
+        "images": [
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/11/3-1-1024x1024.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/11/1-1-1024x1024.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/11/2-1-1024x1024.jpg"
+        ]
+      },
+      {
+        "type": "split",
+        "imageSide": "left",
+        "heading": "",
+        "body": [
+          "Whether it's your birthday, wedding, graduation, Nika, or memorial, make your special day truly meaningful with Mary Joy Ethiopia. Instead of celebrating alone, share your joy with elders and children who need it most. Your celebration can bring warmth, love, and connection to those who rarely experience such moments of happiness.",
+          "USE THE FORM BELOW TO REGISTER"
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "",
+        "columns": 2,
+        "plain": true,
+        "items": [
+          {
+            "image": "",
+            "title": "GRADUATION",
+            "text": "Celebrate your achievement with Elders at Mary Joy Ethiopia – your success can feed a simle."
+          },
+          {
+            "image": "",
+            "title": "MEMORIAL",
+            "text": "Honor your loved ones by feeding and comforting those in need."
+          },
+          {
+            "image": "",
+            "title": "BIRTHDAY",
+            "text": "Celebrate your birthday with the children and elders at Mary Joy Ethiopia – where joy multipliles when shared."
+          },
+          {
+            "image": "",
+            "title": "WEDDING",
+            "text": "Celebrate your wedding or Nika by sharing love with children and elders at Mary Joy Ethiopia."
+          }
+        ]
+      },
+      {
+        "type": "embedForm",
+        "id": "feeding-form",
+        "title": "የሜሪጆይ ኢትዮጵያ የምገባ ፕሮግራም መመዝገቢያ ቅፅ",
+        "subtitle": "Mary Joy Ethiopia Elder Feeding Registration Form",
+        "note": "ምን ማክበር አስበዋል! ልደት፣ ምርቃት፣ ተዝካር፣ ሰደቃ፣ ኒካ ወይስ ሌሎች ፕሮግራሞችን፤ ከስር ይመዝገቡ! 0987-62-62-62 || 0983-63-63-63",
+        "src": "https://docs.google.com/forms/d/e/1FAIpQLScr8kTVHAhewN1XptPy4wrfTCMrfL0y_x7lcTR3g0sVU7sK1A/viewform?embedded=true",
+        "height": 2000
+      }
+    ]
+  },
+  {
+    "slug": "membership",
+    "title": "Membership - Mary Joy Ethiopia",
+    "metaDescription": "BE A MEMEBER I WILL RECEIVE IN RETURN OF MY BESTOWS. Mary Joy Ethiopia has developed comprehensive platforms designed to engage broader communities in support of important social causes.",
+    "ogImage": "/uploads/2024/05/donation-6.jpeg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2025/01/about-cover-1.jpg",
+        "heading": "BE A MEMEBER",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "gallery",
+        "heading": "",
+        "columns": 3,
+        "images": [
+          "https://maryjoyethiopia.org/wp-content/uploads/2025/01/about-cover-1.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/08/photo_2024-06-02_00-13-51.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/07/Ethiopian-Mother-photo.jpg"
+        ]
+      },
+      {
+        "type": "split",
+        "imageSide": "left",
+        "heading": "",
+        "body": [
+          "Mary Joy Ethiopia has developed comprehensive platforms designed to engage broader communities in support of important social causes. Membership in Mary Joy represents a commitment to philanthropic ideals, fostering transformative change in the lives of vulnerable populations."
+        ],
+        "extra": {
+          "heading": "",
+          "body": [
+            "By joining Mary Joy Ethiopia, members can expect to experience multifaceted benefits. These advantages extend not only to the beneficiaries of our initiatives but also enrich the members themselves, broaden networks, creating a symbiotic relationship that enhances community well-being and personal fulfillment. Upon successful registration, all members receive a personalized digital membership certificate with a unique verification link—recognizing their commitment and strengthening their identity as active change-makers."
+          ]
+        }
+      },
+      {
+        "type": "accordion",
+        "heading": "Frequently Asked Questions",
+        "heading2": "ተዘውትረው የሚጠየቁ ጥያቄዎች",
+        "firstOpen": false,
+        "items": [
+          {
+            "title": "1. What is the Mary Joy Ethiopia Membership Program?",
+            "title2": "የሜሪ ጆይ ኢትዮጵያ አባልነት ፕሮግራም ምንድን ነው?",
+            "body": [
+              "The Mary Joy Ethiopia Membership Program serves as a platform that enables individuals, groups, and companies to actively participate in organized and impactful social movements. This initiative aims to transform the lives of vulnerable community members by fostering engagement and collaboration across diverse sectors of society.",
+              "የሜሪ ጆይ ኢትዮጵያ አባልነት ፕሮግራም ግለሰቦች፣ ቡድኖች እና ኩባንያዎች በተደራጁ እና ተፅዕኖ ለውጥ ማህበራዊ እንቅስቃሴዎች ላይ በንቃት እንዲሳተፉ የሚያስችል መድረክ ሆኖ ያገለግላል። ይህ ተነሳሽነት በተለያዩ የህብረተሰብ ክፍሎች ውስጥ ተሳትፎን እና ትብብርን በማጎልበት የተጋላጭ የማህበረሰብ አባላትን ህይወት ለመለወጥ ያለመ ነው።"
+            ]
+          },
+          {
+            "title": "2. What are the Benefits of Becoming a Member?",
+            "title2": "አባል የመሆን ጥቅሞች ምንድ ናቸው?",
+            "body": [
+              "All members will receive an official digital membership certificate shortly after completing registration. This certificate includes a unique verification link.",
+              "Mary Joy Ethiopia will create a dedicated membership platform that facilitates the expansion and diversification of individual members' social networks.",
+              "Members will have the opportunity to exchange experiences, information, and knowledge, fostering the acquisition of new insights beneficial to their professional development.",
+              "የሜሪ ጆይ ኢትዮጵያ አባልነት ከተመዝገብዎ በኋላ፣ የአባልነት የእውቅና ዲጂታል ሰርተፍኬትዎ በቅርቡ ይላክሎታል",
+              "ሜሪ ጆይ ኢትዮጵያ የግለሰብ አባላትን ማህበራዊ ድረ-ገጾች ለማስፋፋትና ለማስተካከል የሚያስችል የአባልነት መድረክ ትፈጥራለች።",
+              "አባላት ለሙያዊ እድገታቸው ጠቃሚ የሆኑ አዳዲስ ግንዛቤዎችን እንዲያገኙ በማድረግ ልምድ፣ መረጃ እና እውቀት የመለዋወጥ እድል ይኖራቸው።"
+            ]
+          },
+          {
+            "title": "3. Can I get certificate after becoming member?",
+            "title2": "አባል ከሆንኩ በኋላ ሰርተፍኬት ካርድ ማግኘት እችላለሁን?",
+            "body": [
+              "• Yes, Members will receive an official digital membership certificate after completing their registration. The certificate includes a unique verification link.",
+              "• አዎ፤ የሜሪ ጆይ ኢትዮጵያ አባልነት ከተመዝገብዎ በኋላ፣ የአባልነት የእውቅና ዲጂታል ሰርተፍኬትዎ በቅርቡ ይላክሎታል፡፡"
+            ]
+          },
+          {
+            "title": "4. How can I become a member?",
+            "title2": "እንዴት አባል መሆን እችላለሁ?",
+            "body": [
+              "Interested individuals can access the membership form using this link https://maryjoyethiopia.org/membership/ and fil the information required and our team will reach out and guide you for the next step.",
+              "ፍላጎት ያላቸው ግለሰቦች የአባልነት ቅጹን በዚህ ሊንክ https://maryjoyethiopia.org/membership/ ማግኘት እና አስፈላጊውን መረጃ መሙላት ይችላሉ እና ቡድናችን አግኝቶ ለሚቀጥለው እርምጃ ይመራዎታል።"
+            ]
+          },
+          {
+            "title": "5. Is there a membership fee?",
+            "title2": "የአባልነት ክፍያ አለ?",
+            "body": [
+              "Yes, there is a membership fee:",
+              "• Individual Students: 200 Birr per year",
+              "• Individual Adults: 1,200 Birr per year",
+              "• Individual Students Living Outside of Ethiopia: 20 USD per year",
+              "• Individual Adults Living Outside of Ethiopia: 200 USD per year",
+              "• የግለሰብ ተማሪዎች፡ በዓመት 200 ብር",
+              "• ግለሰብ አዋቂ፡ 1,200 ብር በአመት",
+              "• ከኢትዮጵያ ውጪ የሚኖሩ ግለሰብ ተማሪዎች፡ በዓመት 20 ዶላር",
+              "• ግለሰቦች ከኢትዮጵያ ውጭ የሚኖሩ፡ በዓመት 200 ዶላር"
+            ]
+          },
+          {
+            "title": "6. How does my membership contribution make a difference?",
+            "title2": "የእኔ የአባልነት አስተዋፅዖ ለውጥ የሚያመጣው እንዴት ነው?",
+            "body": [
+              "• Your membership contribution will be invested in initiatives aimed at economically empowering vulnerable caregivers and women in need.",
+              "• የአባልነትዎ አስተዋፅዖ በኢኮኖሚ በአቅመ ደካሞችን ተንከባካቢዎችን እና የተጸገገ ሴቶችን ለማበረታታት በታለመ ተነሳሽነት ላይ ይውላል።"
+            ]
+          },
+          {
+            "title": "7. Will I receive updates on the impact of my contribution?",
+            "title2": "በእኔ አስተዋፅዖ ተጽዕኖ ላይ ማሻሻያዎችን ይደርሰኛል?",
+            "body": [
+              "Yes, you will. We will provide periodic updates on progress, achievements, and challenges through the membership platform established by Mary Joy Ethiopia.",
+              "አዎ፣ በሜሪ ጆይ ኢትዮጵያ በተቋቋመው የአባልነት መድረክ በየጊዜው ስለ እድገት፣ ስኬቶች እና ተግዳሮች ለውጥ መረጃዎችን ይሰጣሉ።"
+            ]
+          },
+          {
+            "title": "8. Can I cancel my membership?",
+            "title2": "አባልነቴን መሰረዝ እችላለሁ?",
+            "body": [
+              "Yes, you may cancel your membership at any time, as it is entirely voluntary. We welcome feedback regarding your decision to leave the platform, as it helps us improve our services.",
+              "አዎ፣ አባልነትዎን በማንኛውም ጊዜ መሰረዝ ይችላሉ፣ ምክንያቱም ሙሉ በሙሉ በፈቃደኝነት ነው። ከመድረክ ለመልቀቅ ያደረጉትን ውሳኔ በተመለከተ አገልግሎቶቻችንን ለማሻሻል ስለሚረዳን አስተያየት በደስታ እንቀበላለን።"
+            ]
+          },
+          {
+            "title": "9. How can I contact Mary Joy Ethiopia for more information?",
+            "title2": "ለበለጠ መረጃ ሜሪ ጆይ ኢትዮጵያ እንዴት ማግኘት እችላለሁ?",
+            "body": [
+              "• You can reach out via: info@maryjoyethiopia.org or sintayehuh@maryjoyethiopia.org",
+              "• Phone: +251987626262 / +251983636363 / +251116686792",
+              "• Address: Megenagna, Addis Ababa, Ethiopia",
+              "• በ info@maryjoyethiopia.org ወይም sintayehuh@maryjoyethiopia.org ማግኘት ይችላሉ።",
+              "• ስልክ፡ +251987626262 / +251983636363 / +251116686792",
+              "• አድራሻ፡ መገናኛ፣ አዲስ አበባ፣ ኢትዮጵያ"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "embedForm",
+        "id": "membership-form",
+        "title": "",
+        "subtitle": "",
+        "src": "https://docs.google.com/forms/d/e/1FAIpQLSciUixAQj7ndbAJD5r-2ToBruYh_vLLtH58IdL3No_3p-IU4Q/viewform?embedded=true",
+        "height": 2200,
+        "wide": true
+      }
+    ]
+  },
+  {
+    "slug": "event",
+    "title": "Events - Mary Joy Ethiopia",
+    "metaDescription": "EVENTS I WILL RECEIVE IN RETURN OF MY BESTOWS. UPCOMING EVENT 21 June 2025 (Sat) Arbaminch Charity Run.",
+    "ogImage": "/uploads/2024/07/photo_2024-07-11_14-28-29.jpg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/07/event-cover1-1.jpg",
+        "heading": "EVENTS",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "banner",
+        "kicker": "UPCOMING EVENT ※Date Changed to ↓",
+        "text": "21 June 2025 (Sat) Arbaminch Charity Run",
+        "href": "/event/arbaminch-charity-run2025/"
+      },
+      {
+        "type": "cards",
+        "heading": "UPCOMING EVENTS",
+        "columns": 3,
+        "items": [
+          {
+            "image": "/uploads/2024/07/photo_2024-07-11_10-56-03-1024x682.jpg",
+            "title": "Addis Ababa CHARITY RUN 2025",
+            "text": "※FINISHED※ 6 April 2025 (Sun)",
+            "href": "/event/arbaminch-charity-run2025/",
+            "linkText": "Read More"
+          },
+          {
+            "image": "/uploads/2024/07/photo1706787648.jpeg",
+            "title": "HAWSSA CHARITY RUN 2025",
+            "text": "※FINISHED※ 4 May 2025 (Sun)",
+            "href": "/event/arbaminch-charity-run2025/",
+            "linkText": "Read More"
+          },
+          {
+            "image": "/uploads/2024/07/photo_2024-07-11_14-28-29-1024x682.jpg",
+            "title": "ARBAMINCH RUN 2025",
+            "text": "※Date Changed to↓ 21 June 2025 (Sat) 17 May 2025 (Sat)",
+            "href": "/event/arbaminch-charity-run2025/",
+            "linkText": "Read More"
+          }
+        ]
+      },
+      {
+        "type": "bandImage",
+        "image": "/uploads/2024/07/event-middle-cover.jpg"
+      },
+      {
+        "type": "cards",
+        "heading": "RECENT EVENTS",
+        "columns": 3,
+        "items": [
+          {
+            "image": "/uploads/2024/07/photo_2024-07-11_10-56-03-1024x682.jpg",
+            "title": "A. A CHARITY RUN 2024",
+            "text": "",
+            "href": "/event/arbaminch-charity-run2025/",
+            "linkText": "BUY THE TICKET"
+          },
+          {
+            "image": "/uploads/2024/07/photo1706787648.jpeg",
+            "title": "HAWSSA CHARITY RUN 2024",
+            "text": "",
+            "href": "/event/arbaminch-charity-run2025/",
+            "linkText": "BUY THE TICKET"
+          },
+          {
+            "image": "/uploads/2024/07/photo_2024-07-11_14-28-29-1024x682.jpg",
+            "title": "ARBAMINCH RUN 2024",
+            "text": "",
+            "href": "/event/arbaminch-charity-run2025/",
+            "linkText": "BUY THE TICKET"
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "",
+        "columns": 4,
+        "items": [
+          {
+            "image": "/uploads/2024/07/photo1706787648.jpeg",
+            "title": "HAWSSA RUN 2023",
+            "text": "",
+            "href": "/event/arbaminch-charity-run2025/",
+            "linkText": "Read More"
+          },
+          {
+            "image": "/uploads/2024/07/photo_2024-07-11_14-28-29-1024x682.jpg",
+            "title": "ARBAMINCH RUN 2023",
+            "text": "",
+            "href": "/event/arbaminch-charity-run2025/",
+            "linkText": "Read More"
+          },
+          {
+            "image": "/uploads/2024/07/photo_2024-07-11_10-56-03-1024x682.jpg",
+            "title": "A.A CHARITY RUN 2023",
+            "text": "",
+            "href": "/event/arbaminch-charity-run2025/",
+            "linkText": "Read More"
+          },
+          {
+            "image": "/uploads/2024/08/hosana-charity-run-1024x576.jpg",
+            "title": "HOSANA CHARITY RUN 2024",
+            "text": "",
+            "href": "/event/arbaminch-charity-run2025/",
+            "linkText": "Read More"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "event-arbaminch-charity-run2025",
+    "title": "Arbaminch-Charity-Run 2025 - Mary Joy Ethiopia",
+    "metaDescription": "ARBAMINCH Charity RUN 2025 21/June/2025 Mary Joy Charity Run event is a heartwarming that brings together individuals, families, and businesses to make a positive impact.",
+    "ogImage": "/uploads/2024/08/Arbaminch-Run-3.jpg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/08/Arbaminch-Run-1.jpg",
+        "heading": "ARBAMINCH",
+        "subheading": "Charity RUN 2025"
+      },
+      {
+        "type": "dateChange",
+        "kicker": "※Date Changed to ↓",
+        "dates": [
+          "21/June/2025",
+          "17/May/2025"
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "",
+        "columns": 3,
+        "images": [
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/08/Arbaminch-Run-3-1024x682.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/08/Arbaminch-Run-4-1024x682.jpg",
+          "https://maryjoyethiopia.org/wp-content/uploads/2024/08/Arbaminch-Run-5-1024x682.jpg"
+        ]
+      },
+      {
+        "type": "dateChange",
+        "kicker": "※Date Changed to ↓",
+        "heading": "CHARITY RUN 2025",
+        "dates": [
+          "21 JUNE 2025 (Sat)",
+          "17 MAY 2025 (Sat)",
+          "ARBAMINCH"
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "",
+        "body": [
+          "Mary Joy Charity Run event is a heartwarming that brings together individuals, families, and businesses to make a positive impact in the lives of underprivileged children and elder in Addis Ababa. Our event is not just about running and walking; it is about coming together as a community to uplift and empower the most vulnerable among us."
+        ]
+      },
+      {
+        "type": "slogan",
+        "text": "LET YOUR FOOTSTEPS ECHO THE KINDNESS IN YOUR HEART"
+      },
+      {
+        "type": "text",
+        "heading": "",
+        "body": [
+          "By participating in the Mary Joy Charity Run, you are not only promoting health and fitness but also contributing to a brighter future for children who deserve a chance at a better life. Through this positively impact the lives of underprivileged children and elders even, we aim to create a plat promote health and fitness and contributes to compassion, unity, and social responsibility."
+        ]
+      },
+      {
+        "type": "slogan",
+        "text": "TO MAKE RUNNING A LIFESTYLE FOR EVERYONE."
+      },
+      {
+        "type": "text",
+        "heading": "",
+        "body": [
+          "The 2023 Mary Joy charity run in Addis Ababa was a monumental success, attracting an impressive 5000 participants who enthusiastically completed the 5km course. The city's energy was palpable, and the event brought together people from all walks of life, united by a shared passion for fitness and a spirit of community, all in support of a worthy cause."
+        ]
+      },
+      {
+        "type": "infoList",
+        "heading": "Charity Run 2025 Information",
+        "items": [
+          {
+            "label": "Start&Goal",
+            "value": "Dinguza square"
+          },
+          {
+            "label": "Turning Point",
+            "value": "Bekelle mola"
+          },
+          {
+            "label": "Expected Participant",
+            "value": "3,000 people"
+          }
+        ],
+        "body": [
+          "Fun, purpose-led events with a race designed for any age, experience level and ability. Also includes, Music & Entertainment, Water sprinkles, Games, Circus, Other. . .",
+          "The 2023 Mary Joy charity run in Arbaminch showcased the spirit of resilience and determination, with 2,000 participants taking on the challenge. Despite the challenging terrain, participants persevered, proving that nothing could stop them from achieving their goals, all while supporting a charitable cause. The community came together to support the event, making it a truly heartwarming experience."
+        ]
+      },
+      {
+        "type": "infoList",
+        "heading": "Time Schedule (Event day)",
+        "items": [
+          {
+            "label": "Date",
+            "value": "21 June 2025 (Sat) 17 May 2025 (Sat)"
+          },
+          {
+            "label": "Open time",
+            "value": "AM7:00 (GMT+3) / 1:00 (Ethiopian time)"
+          },
+          {
+            "label": "Start time",
+            "value": "AM8:00 (GMT+3) / 2:00 (Ethiopian time)"
+          },
+          {
+            "label": "Close time",
+            "value": "AM12:00 (GMT+3) / 6:00 (Ethiopian time)"
+          }
+        ]
+      },
+      {
+        "type": "infoList",
+        "heading": "How to Entry (How to get T-shirt)",
+        "items": [
+          {
+            "label": "Price",
+            "value": "300 Birr"
+          }
+        ],
+        "body": [
+          "To participate in Mary Joy Charity Run, please wear the T-shirt of this event. You can get it following places.",
+          "Arbaminch T-shirt Selling Place"
+        ],
+        "numbered": [
+          "Anbessa bank Sikilla Branch",
+          "Gamo zone Administration Office",
+          "Mary Joy Office"
+        ]
+      },
+      {
+        "type": "bandImage",
+        "image": "/uploads/2024/07/event-cover-3.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "volunteer",
+    "title": "Volunteer - Mary Joy Ethiopia",
+    "metaDescription": "VOLUNTEER I WILL RECEIVE IN RETURN OF MY BESTOWS. Volunteering at Mary Joy Ethiopia is more than just lending a helping hand; it's about making a tangible difference in the lives of children and the elderly.",
+    "ogImage": "/uploads/2024/05/donation-6.jpeg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/05/donation-6.jpeg",
+        "heading": "VOLUNTEER",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "text",
+        "heading": "",
+        "body": [
+          "Volunteering at Mary Joy Ethiopia is more than just lending a helping hand; it's about making a tangible difference in the lives of children and the elderly. By dedicating your time and skills, you become an integral part of a larger movement that strives to create a brighter future for vulnerable members of our community. Therefore, this form below is a form prepared to register the good-hearted people who are willing to volunteer for this good cause in Addis Ababa"
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "The Ripple Effect of Volunteering:",
+        "icon": "heart",
+        "items": [
+          "Empowering Children",
+          "Supporting the Elderly",
+          "Strengthening Communities",
+          "Personal Growth"
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "BE PART OF THE SOLUTION!",
+        "align": "center"
+      },
+      {
+        "type": "embedForm",
+        "id": "volunteer-form",
+        "title": "",
+        "subtitle": "",
+        "src": "https://docs.google.com/forms/d/e/1FAIpQLSel1inallet1QJuEWDKCjy2T_v-ui_34y4BsBwFTMQq0bVeRw/viewform?embedded=true",
+        "height": 1400,
+        "wide": true
+      },
+      {
+        "type": "text",
+        "heading": "THANK YOU FOR YOUR TIME",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "heading": "WE WILL CONTACT YOU SOON!",
+        "align": "center"
+      }
+    ]
+  },
+  {
+    "slug": "vacancy",
+    "title": "Vacancy - Mary Joy Ethiopia",
+    "metaDescription": "JOBS I WILL RECEIVE IN RETURN OF MY BESTOWS. NGO JOBS IN ETHIOPIA - Pharmacist – Hawassa. Job Title: Pharmacist. Location: Hawassa, Ethiopia – Medical & Support Center and Future Primary Hospital. Reports to: Medical Director. Employment Type: Full time.",
+    "ogImage": "/uploads/2024/06/Vacnacy.jpg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/06/Vacnacy.jpg",
+        "heading": "JOBS",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "text",
+        "heading": "NGO JOBS IN ETHIOPIA",
+        "body": [
+          "-"
+        ],
+        "align": "center"
+      }
+    ]
+  },
+  {
+    "slug": "news",
+    "title": "News - Mary Joy Ethiopia",
+    "metaDescription": "NEWS I WILL RECEIVE IN RETURN OF MY BESTOWS. Latest updates MARY JOY ETHIOPIA NEWS.",
+    "ogImage": "/uploads/2024/06/MJE-USA-Flyer-Design-final-1-215x300.jpg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/12/absolutvision-WYd_PkCa1BY-unsplash-scaled.jpg",
+        "heading": "NEWS",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "newsList",
+        "heading": "Latest updates",
+        "items": [
+          {
+            "title": "Mary Joy Ethiopia Launches Kidney Health Membership Program",
+            "date": "June 26, 2026",
+            "href": "#",
+            "image": "/uploads/2026/06/web-post-300x169.jpg",
+            "excerpt": "In response to the growing burden of kidney disease in Ethiopia, Mary Joy Ethiopia has officially launched its Kidney Health Membership Program, a community-centered initiative"
+          },
+          {
+            "title": "Mary Joy Ethiopia Completed its First Dialysis Session",
+            "date": "November 4, 2025",
+            "href": "#",
+            "image": "/uploads/2025/11/2-2-300x251.jpg",
+            "excerpt": "On November 5, 2025, our newly established Kidney Dialysis Center in Hawassa successfully completed its first dialysis session, serving patients who expressed deep satisfaction and relief after receiving the service."
+          },
+          {
+            "title": "Mary Joy Ethiopia Inaugurates the Hawassa Kidney Dialysis Center",
+            "date": "October 24, 2025",
+            "href": "#",
+            "image": "/uploads/2025/10/564009627_1122632026718471_2260076484655140624_n-300x200.jpg",
+            "excerpt": "Mary Joy Ethiopia is proud to announce the official inauguration of its Hawassa Kidney Dialysis Center, a landmark initiative that brings life-saving medical services to the Southern region of Ethiopia."
+          },
+          {
+            "title": "Hope for Ethiopia monthly sponsorship program journey",
+            "date": "October 23, 2025",
+            "href": "#",
+            "image": "/uploads/2025/10/20251023-1-300x190.jpg",
+            "excerpt": "Hope for Ethiopia monthly sponsorship program journey from spoil to start sponsorship to achieving survival and well-being."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "MARY JOY ETHIOPIA NEWS",
+        "align": "center"
+      },
+      {
+        "type": "newsGrid",
+        "items": [
+          {
+            "title": "Mary Joy Ethiopia Launches Kidney Health Membership Program",
+            "date": "June 26, 2026",
+            "href": "#",
+            "image": "/uploads/2026/06/web-post-300x169.jpg",
+            "excerpt": "In response to the growing burden of kidney disease in Ethiopia, Mary Joy Ethiopia has officially launched its Kidney Health Membership Program, a community-centered initiative",
+            "author": "admin"
+          },
+          {
+            "title": "Mary Joy Ethiopia Completed its First Dialysis Session",
+            "date": "November 4, 2025",
+            "href": "#",
+            "image": "/uploads/2025/11/2-2-300x251.jpg",
+            "excerpt": "On November 5, 2025, our newly established Kidney Dialysis Center in Hawassa successfully completed its first dialysis session, serving patients who expressed deep satisfaction and relief after receiving the service.",
+            "author": "Nathnael Nega"
+          },
+          {
+            "title": "Mary Joy Ethiopia Inaugurates the Hawassa Kidney Dialysis Center",
+            "date": "October 24, 2025",
+            "href": "#",
+            "image": "/uploads/2025/10/564009627_1122632026718471_2260076484655140624_n-300x200.jpg",
+            "excerpt": "Mary Joy Ethiopia is proud to announce the official inauguration of its Hawassa Kidney Dialysis Center, a landmark initiative that brings life-saving medical services to the Southern region of Ethiopia. The ceremony took place in Hawassa, with the presence of senior government officials, healthcare leaders, and Mary Joy's board members.",
+            "author": "Nathnael Nega"
+          },
+          {
+            "title": "Hope for Ethiopia monthly sponsorship program journey",
+            "date": "October 23, 2025",
+            "href": "#",
+            "image": "/uploads/2025/10/20251023-1-300x190.jpg",
+            "excerpt": "Hope for Ethiopia monthly sponsorship program journey from spoil to start sponsorship to achieving survival and well-being. Hope for Ethiopia's sponsorship program has been a",
+            "author": "Addis.Osamu Hotta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "contact",
+    "title": "Contact - Mary Joy Ethiopia",
+    "metaDescription": "CONTACT I WILL RECEIVE IN RETURN OF MY BESTOWS. Contact form. Hello, please use the form below in order to get in touch with our team.",
+    "ogImage": "/uploads/2024/06/contact-cover-1.jpg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/06/contact-cover-1.jpg",
+        "heading": "CONTACT",
+        "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+      },
+      {
+        "type": "contactForm",
+        "heading": "Contact form",
+        "subheading": "Hello, please use the form below in order to get in touch with our team.",
+        "fields": [
+          {
+            "label": "First Name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "label": "Last Name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "label": "Email",
+            "type": "email",
+            "required": true
+          },
+          {
+            "label": "Message",
+            "type": "textarea",
+            "required": true
+          }
+        ],
+        "submitText": "Send Message"
+      },
+      {
+        "type": "offices",
+        "heading": "",
+        "items": [
+          {
+            "name": "Head Office Contact",
+            "address": "(Addis Ababa, Megnagna )",
+            "phone": "+251 1 1668 6793 / +251 9 6200 9332"
+          },
+          {
+            "name": "ETEM (Ethiopian To Ethiopian Movement) Office",
+            "address": "(Addis Ababa, Piassa)",
+            "phone": "+251 1 1128 1870 /+251 9 8363 6363"
+          },
+          {
+            "name": "Asko Medical & Support Center",
+            "address": "(Asko, Addis Ababa)",
+            "phone": "+251 1 1668 6793 / +251 9 6200 9902"
+          },
+          {
+            "name": "Hossana Project Office",
+            "address": "(Central Ethiopia)",
+            "phone": "+251 9 2436 2507 /+251 1 1668 6793"
+          },
+          {
+            "name": "Arbaminch Office",
+            "address": "(South Ethiopia)",
+            "phone": "+251 4 6881 0179 / +251 9 0989 0929"
+          },
+          {
+            "name": "Hawassa Program Area",
+            "address": "(Sidama Region)",
+            "phone": "+251 5 6220 4705 / +251 4 6212 8714 / +251 9 7005 259"
+          }
+        ]
+      },
+      {
+        "type": "buttonRow",
+        "heading": "DO YOU Want to make a difference?",
+        "buttons": [
+          {
+            "text": "Donate",
+            "href": "/cash-donation/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "gallery",
+    "title": "Gallery - Mary Joy Ethiopia",
+    "metaDescription": "Moments forever Gallery We have gathered many beautiful moments during our journey.",
+    "ogImage": "/uploads/2024/05/donation-6.jpeg",
+    "sections": [
+      {
+        "type": "pageHero",
+        "image": "/uploads/2024/05/donation-6.jpeg",
+        "heading": "Gallery",
+        "subheading": "Moments forever"
+      },
+      {
+        "type": "text",
+        "heading": "We have gathered many beautiful moments during our journey",
+        "align": "center"
+      },
+      {
+        "type": "emptyGallery"
+      },
+      {
+        "type": "buttonRow",
+        "heading": "Want to make a difference?",
+        "text": "Help us raise money for our humanitarian causes",
+        "buttons": [
+          {
+            "text": "Donate",
+            "href": "/cash-donation/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "thank-you",
+    "title": "Thank you - Mary Joy Ethiopia",
+    "metaDescription": "8000+ NUMBER OF SPONSORED CHILDREN 1000+ NUMBER OF SPONSORED ELDERS WE WILL CONTACT YOU SOON!",
+    "ogImage": "/uploads/2025/01/pexels-photo-4439457-4439457-scaled.jpg",
+    "sections": [
+      {
+        "type": "stats",
+        "items": [
+          {
+            "value": "8000+",
+            "label": "NUMBER OF SPONSORED CHILDREN"
+          },
+          {
+            "value": "1000+",
+            "label": "NUMBER OF SPONSORED ELDERS"
+          }
+        ]
+      },
+      {
+        "type": "pageHero",
+        "image": "/uploads/2025/01/pexels-photo-4439457-4439457-scaled.jpg",
+        "heading": "WE WILL CONTACT YOU SOON!",
+        "subheading": ""
+      },
+      {
+        "type": "buttonRow",
+        "buttons": [
+          {
+            "text": "Read More About May Joy Ethiopia",
+            "href": "/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "order",
+    "title": "MJE Order - Mary Joy Ethiopia",
+    "metaDescription": "MJE Order purchase request recruitment request vehicle request Resignation request Travel request KPI report Form General Service Request Store Request Financial Report Submission Request payment request",
+    "ogImage": "/uploads/2024/07/puchase-300x200-1.png",
+    "sections": [
+      {
+        "type": "text",
+        "heading": "MJE Order",
+        "as": "h1",
+        "align": "left"
+      },
+      {
+        "type": "cards",
+        "heading": "",
+        "columns": 4,
+        "items": [
+          {
+            "image": "/uploads/2024/07/puchase-300x200-1.png",
+            "title": "purchase request",
+            "href": "https://docs.google.com/forms/d/e/1FAIpQLScXS8lYoez9HZJqu0bv5VKbtg-VkwwgbrbeXuWh9gs10hqqEw/viewform"
+          },
+          {
+            "image": "/uploads/2024/07/recitment-255x182-1.png",
+            "title": "recruitment request",
+            "href": "https://docs.google.com/forms/d/e/1FAIpQLSfR0BILq3oOVbIlxTMqTaU4Dm0r-0WLzdictc_EmPESp-OCXA/viewform"
+          },
+          {
+            "image": "",
+            "title": "vehicle request",
+            "href": "https://forms.gle/SXXSCrYSrTL1jNir8"
+          },
+          {
+            "image": "/uploads/2024/07/resignation-150x150-1.png",
+            "title": "Resignation request",
+            "href": "https://docs.google.com/forms/d/e/1FAIpQLScr8Dzb54X2UsiMhNNvMeGe_pbNZU20Lf9IawkB1KCShYQdbQ/viewform"
+          },
+          {
+            "image": "/uploads/2024/07/travel-300x129-1.png",
+            "title": "Travel request",
+            "href": "https://docs.google.com/forms/d/e/1FAIpQLSd9iubHiMV5AA07Tkr_pxykXw9zWNf8KeYUk5T1huVgOkcXhg/viewform"
+          },
+          {
+            "image": "/uploads/2024/07/kpi-300x200-1.png",
+            "title": "KPI report Form",
+            "href": "https://docs.google.com/forms/d/e/1FAIpQLSfe975NWw68Efi6_DikPc7P-fBgVy1Y2ddL-PBYTvh_f4UCKw/viewform?usp=send_form"
+          },
+          {
+            "image": "/uploads/2024/07/general-serive-300x231-1.png",
+            "title": "General Service Request",
+            "href": "#"
+          },
+          {
+            "image": "/uploads/2024/07/storee-300x200-1.png",
+            "title": "Store Request",
+            "href": "#"
+          },
+          {
+            "image": "/uploads/2024/07/finance-300x200-1.png",
+            "title": "Financial Report Submission Request",
+            "href": "https://docs.google.com/forms/d/e/1FAIpQLSdzbqQI6Igg8qMvTEOXih_GfjP-5lVEVc0xFJlGhmcIDezKxg/viewform"
+          },
+          {
+            "image": "/uploads/2024/07/payment-300x200-1.png",
+            "title": "payment request",
+            "href": "#"
+          }
+        ]
+      }
+    ]
+  }
+]

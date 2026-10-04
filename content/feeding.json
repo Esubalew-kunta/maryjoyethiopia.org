@@ -1,0 +1,54 @@
+{
+  "slug": "feeding",
+  "title": "Feeding - Mary Joy Ethiopia",
+  "metaDescription": "Whether it's your birthday, wedding, graduation, Nika, or memorial, make your special day truly meaningful with Mary Joy Ethiopia.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/donation-6.jpeg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/11/1-1-1024x1024.jpg",
+      "heading": "FEEDING",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "gallery",
+      "heading": "",
+      "columns": 3,
+      "images": [
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/11/3-1-1024x1024.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/11/1-1-1024x1024.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/11/2-1-1024x1024.jpg"
+      ]
+    },
+    {
+      "type": "split",
+      "imageSide": "left",
+      "heading": "",
+      "body": [
+        "Whether it's your birthday, wedding, graduation, Nika, or memorial, make your special day truly meaningful with Mary Joy Ethiopia. Instead of celebrating alone, share your joy with elders and children who need it most. Your celebration can bring warmth, love, and connection to those who rarely experience such moments of happiness.",
+        "USE THE FORM BELOW TO REGISTER"
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "",
+      "columns": 2,
+      "plain": true,
+      "items": [
+        { "image": "", "title": "GRADUATION", "text": "Celebrate your achievement with Elders at Mary Joy Ethiopia – your success can feed a simle." },
+        { "image": "", "title": "MEMORIAL", "text": "Honor your loved ones by feeding and comforting those in need." },
+        { "image": "", "title": "BIRTHDAY", "text": "Celebrate your birthday with the children and elders at Mary Joy Ethiopia – where joy multipliles when shared." },
+        { "image": "", "title": "WEDDING", "text": "Celebrate your wedding or Nika by sharing love with children and elders at Mary Joy Ethiopia." }
+      ]
+    },
+    {
+      "type": "embedForm",
+      "id": "feeding-form",
+      "title": "የሜሪጆይ ኢትዮጵያ የምገባ ፕሮግራም መመዝገቢያ ቅፅ",
+      "subtitle": "Mary Joy Ethiopia Elder Feeding Registration Form",
+      "note": "ምን ማክበር አስበዋል! ልደት፣ ምርቃት፣ ተዝካር፣ ሰደቃ፣ ኒካ ወይስ ሌሎች ፕሮግራሞችን፤ ከስር ይመዝገቡ! 0987-62-62-62 || 0983-63-63-63",
+      "src": "https://docs.google.com/forms/d/e/1FAIpQLScr8kTVHAhewN1XptPy4wrfTCMrfL0y_x7lcTR3g0sVU7sK1A/viewform?embedded=true",
+      "height": 2000
+    }
+  ]
+}

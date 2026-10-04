@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# scraper working data — raw HTML/CSS snapshots and a duplicate of public/uploads.
+# Regenerate with: node scripts/scrape.mjs && node scripts/build-content.mjs
+/scrape/
+
+# stray local artifacts
+/gen-out.json
+*.log
+*.err

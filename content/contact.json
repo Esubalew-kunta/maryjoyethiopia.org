@@ -1,0 +1,43 @@
+{
+  "slug": "contact",
+  "title": "Contact - Mary Joy Ethiopia",
+  "metaDescription": "CONTACT I WILL RECEIVE IN RETURN OF MY BESTOWS. Contact form. Hello, please use the form below in order to get in touch with our team.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/contact-cover-1.jpg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/contact-cover-1.jpg",
+      "heading": "CONTACT",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "contactForm",
+      "heading": "Contact form",
+      "subheading": "Hello, please use the form below in order to get in touch with our team.",
+      "fields": [
+        { "label": "First Name", "type": "text", "required": true },
+        { "label": "Last Name", "type": "text", "required": true },
+        { "label": "Email", "type": "email", "required": true },
+        { "label": "Message", "type": "textarea", "required": true }
+      ],
+      "submitText": "Send Message"
+    },
+    {
+      "type": "offices",
+      "heading": "",
+      "items": [
+        { "name": "Head Office Contact", "address": "(Addis Ababa, Megnagna )", "phone": "+251 1 1668 6793 / +251 9 6200 9332" },
+        { "name": "ETEM (Ethiopian To Ethiopian Movement) Office", "address": "(Addis Ababa, Piassa)", "phone": "+251 1 1128 1870 /+251 9 8363 6363" },
+        { "name": "Asko Medical & Support Center", "address": "(Asko, Addis Ababa)", "phone": "+251 1 1668 6793 / +251 9 6200 9902" },
+        { "name": "Hossana Project Office", "address": "(Central Ethiopia)", "phone": "+251 9 2436 2507 /+251 1 1668 6793" },
+        { "name": "Arbaminch Office", "address": "(South Ethiopia)", "phone": "+251 4 6881 0179 / +251 9 0989 0929" },
+        { "name": "Hawassa Program Area", "address": "(Sidama Region)", "phone": "+251 5 6220 4705 / +251 4 6212 8714 / +251 9 7005 259" }
+      ]
+    },
+    {
+      "type": "buttonRow",
+      "heading": "DO YOU Want to make a difference?",
+      "buttons": [{ "text": "Donate", "href": "/cash-donation/" }]
+    }
+  ]
+}

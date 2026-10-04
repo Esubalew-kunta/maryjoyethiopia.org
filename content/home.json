@@ -1,0 +1,196 @@
+{
+  "slug": "home",
+  "title": "Home - Mary Joy Ethiopia",
+  "metaDescription": "MARY JOY ETHIOPIA Is a non-governmental indigenous humanitarian organization established 30 years ago in 1994. Founded by Sr. Zebider Zewdie and other fellows to address the vulnerability of women in the Asko Area of Addis Ababa.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/Ethiopia-Local-NGO.jpg",
+  "sections": [
+    {
+      "type": "hero",
+      "slideshow": [
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/07/Ethiopian-Mother-photo.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/07/Ethiopian-Poor-Girl.jpg"
+      ],
+      "heading": "MARY JOY ETHIOPIA",
+      "subheading": "Is a non-governmental indigenous humanitarian organization established 30 years ago in 1994",
+      "duration": 5000
+    },
+    {
+      "type": "text",
+      "heading": "Latest News",
+      "align": "center"
+    },
+    {
+      "type": "cards",
+      "heading": "",
+      "columns": 3,
+      "showDate": true,
+      "items": [
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2026/06/web-post-300x169.jpg",
+          "title": "Mary Joy Ethiopia Launches Kidney Health Membership Program",
+          "text": "In response to the growing burden of kidney disease in Ethiopia, Mary Joy Ethiopia has officially launched its Kidney Health Membership Program, a community-centered initiative",
+          "date": "June 26, 2026",
+          "badge": "News",
+          "href": "/news/",
+          "linkText": "Read More »"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/11/2-2-300x251.jpg",
+          "title": "Mary Joy Ethiopia Completed its First Dialysis Session",
+          "text": "On November 5, 2025, our newly established Kidney Dialysis Center in Hawassa successfully completed its first dialysis session, serving patients who expressed deep satisfaction and relief after receiving the service.",
+          "date": "November 4, 2025",
+          "badge": "News",
+          "href": "/news/",
+          "linkText": "Read More »"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/564009627_1122632026718471_2260076484655140624_n-300x200.jpg",
+          "title": "Mary Joy Ethiopia Inaugurates the Hawassa Kidney Dialysis Center",
+          "text": "Mary Joy Ethiopia is proud to announce the official inauguration of its Hawassa Kidney Dialysis Center, a landmark initiative that brings life-saving medical services to the Southern region of Ethiopia. The ceremony took place in Hawassa, with the presence of senior government officials, healthcare leaders, and Mary Joy's board members.",
+          "date": "October 24, 2025",
+          "badge": "News",
+          "href": "/news/",
+          "linkText": "Read More »"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/20251023-1-300x190.jpg",
+          "title": "Hope for Ethiopia monthly sponsorship program journey",
+          "text": "Hope for Ethiopia monthly sponsorship program journey from spoil to start sponsorship to achieving survival and well-being. Hope for Ethiopia's sponsorship program has been a",
+          "date": "October 23, 2025",
+          "badge": "News",
+          "href": "/news/",
+          "linkText": "Read More »"
+        }
+      ]
+    },
+    {
+      "type": "socialFeed"
+    },
+    {
+      "type": "text",
+      "heading": "ABOUT US",
+      "align": "center"
+    },
+    {
+      "type": "split",
+      "imageSide": "left",
+      "heading": "",
+      "body": [
+        "Established in 1994, Mary Joy Ethiopia is an Ethiopian local NGO, legally registered and certified indigenous non-governmental organization (NGO) with the objective to reach the most affected and vulnerable needy communities with basic lifesaving support which is essential for their survival. It is committed to making a lasting impact on the lives of the most vulnerable and excluded children and elders while supporting their families/caregivers through sustainable livelihoods. Mary Joy Ethiopia is dedicated to strengthening community involvement and engaging with individuals and partners to empower street children, elders, and their families and caregivers. We do this by providing sustainable livelihood support to bring about significant changes in their lives by addressing the underlying causes of homelessness and vulnerability."
+      ],
+      "button": { "text": "READ MORE", "href": "/about-us/" },
+      "extra": {
+        "heading": "Our MISSION",
+        "body": [
+          "Mary Joy Ethiopia is an Ethiopian local NGO resident charity that works to empower vulnerable and underserved community groups through integrated development programs"
+        ]
+      },
+      "extra2": {
+        "heading": "Our VISION",
+        "body": [
+          "Mary Joy strives to be a sustainable organization that brings about lasting improvement"
+        ]
+      }
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "8000 +", "label": "NUMBER OF SPONSORED CHILDREN" },
+        { "value": "1000 +", "label": "NUMBER OF SPONSORED ELDERS" }
+      ],
+      "button": { "text": "CLICK & SPONSOR  NOW", "href": "/sponsor-child/#form" }
+    },
+    {
+      "type": "cards",
+      "heading": "",
+      "columns": 3,
+      "items": [
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/IMG-20240417-WA0005.jpg",
+          "title": "Education",
+          "text": ""
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/supply-5.jpeg",
+          "title": "Health component",
+          "text": ""
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/supply-3.jpeg",
+          "title": "Economic Strengthening",
+          "text": ""
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/donation-3.jpg",
+          "title": "Private-public-partnership",
+          "text": ""
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/supply-2.jpeg",
+          "title": "Street Children project",
+          "text": ""
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/Holiday-Support.jpg",
+          "title": "Holiday Support",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "buttonRow",
+      "buttons": [{ "text": "READ MORE", "href": "/programs/" }]
+    },
+    {
+      "type": "quote",
+      "text": "\" Not all of us can do gre",
+      "italic": "at things. But we can all do small things with great love. ",
+      "author": "MOTHER TERESA"
+    },
+    {
+      "type": "buttonRow",
+      "buttons": [
+        { "text": "DONATE IN KIND NOW", "href": "/in-kind-donation/" },
+        { "text": "SUPPORT WITH CASH ", "href": "/cash-donation/" }
+      ]
+    },
+    {
+      "type": "pdfList",
+      "heading": "Our Annual Reports",
+      "items": [
+        { "text": "2024 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2025/05/MJE-Annual-report-2024.pdf" },
+        { "text": "2023 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2023.pdf" },
+        { "text": "2022 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2022.pdf" },
+        { "text": "2021 - Annual Report - Amharic", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2021-Amharic.pdf" },
+        { "text": "2020 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2020-English.pdf" },
+        { "text": "2019 - Annual Report - Amharic", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2019-Amharic.pdf" },
+        { "text": "2018 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2018-English.pdf" },
+        { "text": "2017 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2017-English.pdf" },
+        { "text": "2016 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2016-English.pdf" }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Volunteers do not necessarily have the time,They have the heart.",
+      "author": "Come join us",
+      "button": { "text": "JOIN AS VOLUNTEER  NOW", "href": "/volunteer/" }
+    },
+    {
+      "type": "gallery",
+      "heading": "OUR PARTNERS",
+      "carousel": true,
+      "images": [
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/FDRE.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_usaid.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/Ethio-Teclom.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_fhi360_w.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_BMSF_w.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_WorldBank_w.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_SOS_w.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_OXFAM_w.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/12/logo_jica.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/12/logo_afriwork.jpg"
+      ]
+    }
+  ]
+}

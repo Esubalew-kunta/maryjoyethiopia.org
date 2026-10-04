@@ -1,0 +1,56 @@
+{
+  "slug": "volunteer",
+  "title": "Volunteer - Mary Joy Ethiopia",
+  "metaDescription": "VOLUNTEER I WILL RECEIVE IN RETURN OF MY BESTOWS. Volunteering at Mary Joy Ethiopia is more than just lending a helping hand; it's about making a tangible difference in the lives of children and the elderly.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/donation-6.jpeg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/donation-6.jpeg",
+      "heading": "VOLUNTEER",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "text",
+      "heading": "",
+      "body": [
+        "Volunteering at Mary Joy Ethiopia is more than just lending a helping hand; it's about making a tangible difference in the lives of children and the elderly. By dedicating your time and skills, you become an integral part of a larger movement that strives to create a brighter future for vulnerable members of our community. Therefore, this form below is a form prepared to register the good-hearted people who are willing to volunteer for this good cause in Addis Ababa"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "The Ripple Effect of Volunteering:",
+      "icon": "heart",
+      "items": [
+        "Empowering Children",
+        "Supporting the Elderly",
+        "Strengthening Communities",
+        "Personal Growth"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "BE PART OF THE SOLUTION!",
+      "align": "center"
+    },
+    {
+      "type": "embedForm",
+      "id": "volunteer-form",
+      "title": "",
+      "subtitle": "",
+      "src": "https://docs.google.com/forms/d/e/1FAIpQLSel1inallet1QJuEWDKCjy2T_v-ui_34y4BsBwFTMQq0bVeRw/viewform?embedded=true",
+      "height": 1400,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "heading": "THANK YOU FOR YOUR TIME",
+      "align": "center"
+    },
+    {
+      "type": "text",
+      "heading": "WE WILL CONTACT YOU SOON!",
+      "align": "center"
+    }
+  ]
+}

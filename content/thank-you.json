@@ -1,0 +1,25 @@
+{
+  "slug": "thank-you",
+  "title": "Thank you - Mary Joy Ethiopia",
+  "metaDescription": "8000+ NUMBER OF SPONSORED CHILDREN 1000+ NUMBER OF SPONSORED ELDERS WE WILL CONTACT YOU SOON!",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2025/01/pexels-photo-4439457-4439457-scaled.jpg",
+  "sections": [
+    {
+      "type": "stats",
+      "items": [
+        { "value": "8000+", "label": "NUMBER OF SPONSORED CHILDREN" },
+        { "value": "1000+", "label": "NUMBER OF SPONSORED ELDERS" }
+      ]
+    },
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/01/pexels-photo-4439457-4439457-scaled.jpg",
+      "heading": "WE WILL CONTACT YOU SOON!",
+      "subheading": ""
+    },
+    {
+      "type": "buttonRow",
+      "buttons": [{ "text": "Read More About May Joy Ethiopia", "href": "/" }]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "event",
+  "title": "Events - Mary Joy Ethiopia",
+  "metaDescription": "EVENTS I WILL RECEIVE IN RETURN OF MY BESTOWS. UPCOMING EVENT 21 June 2025 (Sat) Arbaminch Charity Run.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/photo_2024-07-11_14-28-29.jpg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/event-cover1-1.jpg",
+      "heading": "EVENTS",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "banner",
+      "kicker": "UPCOMING EVENT ※Date Changed to ↓",
+      "text": "21 June 2025 (Sat) Arbaminch Charity Run",
+      "href": "/event/arbaminch-charity-run2025/"
+    },
+    {
+      "type": "cards",
+      "heading": "UPCOMING EVENTS",
+      "columns": 3,
+      "items": [
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/photo_2024-07-11_10-56-03-1024x682.jpg",
+          "title": "Addis Ababa CHARITY RUN 2025",
+          "text": "※FINISHED※ 6 April 2025 (Sun)",
+          "href": "/event/arbaminch-charity-run2025/",
+          "linkText": "Read More"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/photo1706787648.jpeg",
+          "title": "HAWSSA CHARITY RUN 2025",
+          "text": "※FINISHED※ 4 May 2025 (Sun)",
+          "href": "/event/arbaminch-charity-run2025/",
+          "linkText": "Read More"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/photo_2024-07-11_14-28-29-1024x682.jpg",
+          "title": "ARBAMINCH RUN 2025",
+          "text": "※Date Changed to↓ 21 June 2025 (Sat) 17 May 2025 (Sat)",
+          "href": "/event/arbaminch-charity-run2025/",
+          "linkText": "Read More"
+        }
+      ]
+    },
+    {
+      "type": "bandImage",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/event-middle-cover.jpg"
+    },
+    {
+      "type": "cards",
+      "heading": "RECENT EVENTS",
+      "columns": 3,
+      "items": [
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/photo_2024-07-11_10-56-03-1024x682.jpg",
+          "title": "A. A CHARITY RUN 2024",
+          "text": "",
+          "href": "/event/arbaminch-charity-run2025/",
+          "linkText": "BUY THE TICKET"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/photo1706787648.jpeg",
+          "title": "HAWSSA CHARITY RUN 2024",
+          "text": "",
+          "href": "/event/arbaminch-charity-run2025/",
+          "linkText": "BUY THE TICKET"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/photo_2024-07-11_14-28-29-1024x682.jpg",
+          "title": "ARBAMINCH RUN 2024",
+          "text": "",
+          "href": "/event/arbaminch-charity-run2025/",
+          "linkText": "BUY THE TICKET"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "",
+      "columns": 4,
+      "items": [
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/photo1706787648.jpeg",
+          "title": "HAWSSA RUN 2023",
+          "text": "",
+          "href": "/event/arbaminch-charity-run2025/",
+          "linkText": "Read More"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/photo_2024-07-11_14-28-29-1024x682.jpg",
+          "title": "ARBAMINCH RUN 2023",
+          "text": "",
+          "href": "/event/arbaminch-charity-run2025/",
+          "linkText": "Read More"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/photo_2024-07-11_10-56-03-1024x682.jpg",
+          "title": "A.A CHARITY RUN 2023",
+          "text": "",
+          "href": "/event/arbaminch-charity-run2025/",
+          "linkText": "Read More"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/08/hosana-charity-run-1024x576.jpg",
+          "title": "HOSANA CHARITY RUN 2024",
+          "text": "",
+          "href": "/event/arbaminch-charity-run2025/",
+          "linkText": "Read More"
+        }
+      ]
+    }
+  ]
+}

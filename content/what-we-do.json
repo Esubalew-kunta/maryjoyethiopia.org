@@ -1,0 +1,170 @@
+{
+  "slug": "what-we-do",
+  "title": "What We Do - Mary Joy Ethiopia",
+  "metaDescription": "WHAT WE DO I WILL RECEIVE IN RETURN OF MY BESTOWS. OUR ACTIVITIES Health Component MJE's health initiatives aim to improve community access to preventive and curative services.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/IMG-20240417-WA0005.jpg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/about-cover-1.jpg",
+      "heading": "WHAT WE DO",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "text",
+      "heading": "OUR ACTIVITIES",
+      "align": "left"
+    },
+    {
+      "type": "cards",
+      "heading": "",
+      "columns": 2,
+      "items": [
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/hospital5-qycb3w24ho4j09ik6c0d7m2tnbk47hr8by5gbdgfew.jpg",
+          "title": "Health Component",
+          "text": "MJE's health initiatives aim to improve community access to preventive and curative services. The program supports maternal, newborn, and child health (MNCH), sexual and reproductive health education, HIV/AIDS awareness and prevention, sanitation and hygiene promotion, and access to essential healthcare through community-based outreach and health extension partnerships.",
+          "href": "/programs/#health",
+          "linkText": "READ MORE",
+          "linkSub": "about HEALTH COMPONET"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/IMG-20240417-WA0005.jpg",
+          "title": "Education",
+          "text": "Believing that education is a key to breaking the cycle of poverty, MJE provides access to quality education for disadvantaged children and youth. Support includes school supplies, tutoring, remedial classes, and life skills training. The program also fosters community-school linkages and parental engagement in education.",
+          "href": "/programs/#education",
+          "linkText": "READ MORE",
+          "linkSub": "about EDUCATION"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/economic-stregth.jpg",
+          "title": "Livelihood Enhancement & Economic Strengthening",
+          "text": "This program focuses on increasing the economic resilience of vulnerable households. Through vocational training, access to microfinance, entrepreneurship development, and savings groups, MJE enables families, especially women and youth to gain financial independence and reduce dependency.",
+          "href": "/programs/#livelihood",
+          "linkText": "READ MORE",
+          "linkSub": "about LIVELIHOOD ENHANCEMENT & ECONOMIC STRENGTHENING"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/supply-4-e1716275795179.jpeg",
+          "title": "Sponsorship Program",
+          "text": "MJE's sponsorship initiative connects children from low-income and at-risk families with sponsors who provide regular support to cover educational, health, and basic needs. This stable backing ensures that children can grow in a secure and nurturing environment, with improved opportunities for the future.",
+          "href": "/programs/#sponsorship",
+          "linkText": "READ MORE",
+          "linkSub": "about SPONSORSHIP PROGRAM"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/11/IMG_2937-scaled.jpg",
+          "title": "Feeding Program",
+          "text": "Addressing malnutrition and food insecurity, especially among children and the elderly, MJE provides nutritious meals through its community-based feeding initiatives. This program operates in schools and community centers, improving school attendance and learning capacity while enhancing overall health outcomes.",
+          "href": "/programs/#feeding",
+          "linkText": "READ MORE",
+          "linkSub": "about FEEDING PROGRAM"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/Contact-qtwfx5fyw93kaztb7q4h9gr00wmi9argsstaxnasqw.jpg",
+          "title": "Child-to-Child Program",
+          "text": "This child-rights-focused initiative empowers children to take active roles in their own development and that of their peers. Through peer learning, leadership training, and health and hygiene education, children become agents of change in their families and communities.",
+          "href": "/programs/#child",
+          "linkText": "READ MORE",
+          "linkSub": "about CHILD-TO-CHILD PROGRAM"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "",
+      "columns": 1,
+      "items": [
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/pg-socialprotection-success-r8lcpguxf6kz1j3ztfjnys1eyt8g7ff4784541nsfs.png",
+          "title": "Social Protection Program",
+          "text": "MJE's social protection framework provides psychosocial support, shelter assistance, legal aid, and emergency relief to individuals and families facing crises. The program particularly focuses on the elderly, survivors of gender-based violence, and households affected by poverty and displacement.",
+          "href": "/programs/#social",
+          "linkText": "READ MORE",
+          "linkSub": "about SOCIAL PROTECTION PROGRAM"
+        }
+      ]
+    },
+    {
+      "type": "buttonRow",
+      "buttons": [{ "text": "READ MORE", "href": "/programs/", "linkSub": "about OUR PROGRAMs" }]
+    },
+    {
+      "type": "list",
+      "heading": "WE WORK FOR",
+      "icon": "users",
+      "items": [
+        "Orphan and Vulnerable Children and their care givers",
+        "Destitute elder persons",
+        "Unemployed youth",
+        "People Living with HIV/AIDS",
+        "Children in general on capacity building and empowerment"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "OUR MAIN TARGETS",
+      "icon": "bullseye",
+      "items": [
+        "Schools",
+        "Health institutions",
+        "Community Based organizations and Faith Based Organizations",
+        "Factories on mainstreaming of HIV and AIDS and other socio-economic problems",
+        "Local government structure"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "WHERE WE WORK",
+      "align": "center"
+    },
+    {
+      "type": "list",
+      "heading": "ADDIS ABABA CITY ADMINISTRATION",
+      "icon": "pin",
+      "items": [
+        "In Addis Ababa MJE operates in six sub cities: Kolfe Keraniyo, Addis Ketema, Arada, Gulelie, Yeka and Bole covering 25 Woredas."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "SIDAMA REGION",
+      "icon": "pin",
+      "items": [
+        "Yirgalem, Town, Hawassa, Boricha Woreda, Malga Woreda, Wondo Genet Town, Wondo Genet Woreda, Aleta Chuko Woreda, Aleta Chuko Town, Dara Kebado Woreda, Darara Woreda, Dara Otolicho Woreda, and Bilate Zuria Woreda"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "SOUTH WEST ETHIOPIA REGION",
+      "icon": "pin",
+      "items": [
+        "Mizan Aman and Tepi towns"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "CENTRAL ETHIOPIA REGIONS",
+      "icon": "pin",
+      "items": [
+        "Hadiya zone, Guraghe zone, and Mareko special woreda"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "SOUTH CENTRAL ETHIOPIA REGION",
+      "icon": "pin",
+      "items": [
+        "Arbaminch, Dilla, Sodo, Jinka"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "OROMIA REGION",
+      "icon": "pin",
+      "items": [
+        "Dodola, Hassasa, Bishoftu,"
+      ]
+    }
+  ]
+}

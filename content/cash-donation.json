@@ -1,0 +1,77 @@
+{
+  "slug": "cash-donation",
+  "title": "Donation - Mary Joy Ethiopia",
+  "metaDescription": "DONATION I WILL RECEIVE IN RETURN OF MY BESTOWS. MAKE A DIFFIFFERENCE TODAY! At Mary Joy Ethiopia, we are dedicated to transforming the lives of street children and needy elders.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/running-6.jpeg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/Donation-1.jpg",
+      "heading": "DONATION",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "gallery",
+      "heading": "",
+      "columns": 3,
+      "images": [
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/Donation-1.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/Donation-2.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/05/running-6.jpeg"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "MAKE A DIFFIFFERENCE TODAY ! ❤️",
+      "align": "center"
+    },
+    {
+      "type": "split",
+      "imageSide": "left",
+      "heading": "",
+      "body": [
+        "At Mary Joy Ethiopia, we are dedicated to transforming the lives of street children and needy elders by providing them with shelter, education, healthcare, and emotional support. Thousands of children are forced to survive on the streets, facing hunger, abuse, and an uncertain future. Meanwhile, many elderly individuals, without family or financial support, struggle to meet their basic needs. Your donation ensures that these vulnerable groups receive the care and opportunities they deserve, helping them build a brighter future. By donating today, you are not just giving support—you are restoring hope, dignity, and a sense of belonging. Every cash donation, whether it is 1.00 Birr or 1 Dollar is essential and directly impacts those in desperate need. Join us in creating a compassionate community where no child is left to fend for themselves and no elder is forgotten. Together, we can change lives!",
+        "DONATE NOW❤️"
+      ]
+    },
+    {
+      "type": "bankList",
+      "heading": "LOCAL DONATION WAYS",
+      "subheading": "BANK / PAYMENT DETAILS",
+      "items": [
+        "1.CBE : 1000006578377",
+        "2.ABYSSINIA BANK : 01308267176100",
+        "3.ENAT BANK : 0251105279917001",
+        "4.BUNA BANK : 1209601000104",
+        "5.DASHEN BANK : 0025914084001"
+      ]
+    },
+    {
+      "type": "buttonRow",
+      "heading": "INTERNATIONAL DONATION ( FOR CREDIT CARD USERS )",
+      "buttons": [{ "text": "CLICK AND DONATE NOW", "href": "https://maryjoyethiopia.org/donate_mpgs_solo.php" }]
+    },
+    {
+      "type": "split",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/iPhone9600OK.png",
+      "imageSide": "right",
+      "heading": "Donate ONLY 1 birr",
+      "body": [
+        "By receiving a daily SMS message from Mary Joy Ethiopia. You can donate Only 1 birr everyday through ethiotelecom charge. (*Only for ethiotelecom users)"
+      ],
+      "button": { "text": "CLICK AND DONATE ONE BIRR!", "href": "sms:9600?body=OK" },
+      "extra": {
+        "heading": "",
+        "body": ["Send SMS to 9600 then OK", "↓ ↓", "↑ ↑"]
+      }
+    },
+    {
+      "type": "gallery",
+      "heading": "",
+      "columns": 1,
+      "images": [
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/04/011dc49665658870d8a658c8260f925e-240x300.png"
+      ]
+    }
+  ]
+}

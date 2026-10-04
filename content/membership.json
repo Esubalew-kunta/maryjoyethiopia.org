@@ -1,0 +1,142 @@
+{
+  "slug": "membership",
+  "title": "Membership - Mary Joy Ethiopia",
+  "metaDescription": "BE A MEMEBER I WILL RECEIVE IN RETURN OF MY BESTOWS. Mary Joy Ethiopia has developed comprehensive platforms designed to engage broader communities in support of important social causes.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/donation-6.jpeg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/01/about-cover-1.jpg",
+      "heading": "BE A MEMEBER",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "gallery",
+      "heading": "",
+      "columns": 3,
+      "images": [
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/about-cover-1.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/08/photo_2024-06-02_00-13-51.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/07/Ethiopian-Mother-photo.jpg"
+      ]
+    },
+    {
+      "type": "split",
+      "imageSide": "left",
+      "heading": "",
+      "body": [
+        "Mary Joy Ethiopia has developed comprehensive platforms designed to engage broader communities in support of important social causes. Membership in Mary Joy represents a commitment to philanthropic ideals, fostering transformative change in the lives of vulnerable populations."
+      ],
+      "extra": {
+        "heading": "",
+        "body": [
+          "By joining Mary Joy Ethiopia, members can expect to experience multifaceted benefits. These advantages extend not only to the beneficiaries of our initiatives but also enrich the members themselves, broaden networks, creating a symbiotic relationship that enhances community well-being and personal fulfillment. Upon successful registration, all members receive a personalized digital membership certificate with a unique verification link—recognizing their commitment and strengthening their identity as active change-makers."
+        ]
+      }
+    },
+    {
+      "type": "accordion",
+      "heading": "Frequently Asked Questions",
+      "heading2": "ተዘውትረው የሚጠየቁ ጥያቄዎች",
+      "firstOpen": false,
+      "items": [
+        {
+          "title": "1. What is the Mary Joy Ethiopia Membership Program?",
+          "title2": "የሜሪ ጆይ ኢትዮጵያ አባልነት ፕሮግራም ምንድን ነው?",
+          "body": [
+            "The Mary Joy Ethiopia Membership Program serves as a platform that enables individuals, groups, and companies to actively participate in organized and impactful social movements. This initiative aims to transform the lives of vulnerable community members by fostering engagement and collaboration across diverse sectors of society.",
+            "የሜሪ ጆይ ኢትዮጵያ አባልነት ፕሮግራም ግለሰቦች፣ ቡድኖች እና ኩባንያዎች በተደራጁ እና ተፅዕኖ ለውጥ ማህበራዊ እንቅስቃሴዎች ላይ በንቃት እንዲሳተፉ የሚያስችል መድረክ ሆኖ ያገለግላል። ይህ ተነሳሽነት በተለያዩ የህብረተሰብ ክፍሎች ውስጥ ተሳትፎን እና ትብብርን በማጎልበት የተጋላጭ የማህበረሰብ አባላትን ህይወት ለመለወጥ ያለመ ነው።"
+          ]
+        },
+        {
+          "title": "2. What are the Benefits of Becoming a Member?",
+          "title2": "አባል የመሆን ጥቅሞች ምንድ ናቸው?",
+          "body": [
+            "All members will receive an official digital membership certificate shortly after completing registration. This certificate includes a unique verification link.",
+            "Mary Joy Ethiopia will create a dedicated membership platform that facilitates the expansion and diversification of individual members' social networks.",
+            "Members will have the opportunity to exchange experiences, information, and knowledge, fostering the acquisition of new insights beneficial to their professional development.",
+            "የሜሪ ጆይ ኢትዮጵያ አባልነት ከተመዝገብዎ በኋላ፣ የአባልነት የእውቅና ዲጂታል ሰርተፍኬትዎ በቅርቡ ይላክሎታል",
+            "ሜሪ ጆይ ኢትዮጵያ የግለሰብ አባላትን ማህበራዊ ድረ-ገጾች ለማስፋፋትና ለማስተካከል የሚያስችል የአባልነት መድረክ ትፈጥራለች።",
+            "አባላት ለሙያዊ እድገታቸው ጠቃሚ የሆኑ አዳዲስ ግንዛቤዎችን እንዲያገኙ በማድረግ ልምድ፣ መረጃ እና እውቀት የመለዋወጥ እድል ይኖራቸው።"
+          ]
+        },
+        {
+          "title": "3. Can I get certificate after becoming member?",
+          "title2": "አባል ከሆንኩ በኋላ ሰርተፍኬት ካርድ ማግኘት እችላለሁን?",
+          "body": [
+            "• Yes, Members will receive an official digital membership certificate after completing their registration. The certificate includes a unique verification link.",
+            "• አዎ፤ የሜሪ ጆይ ኢትዮጵያ አባልነት ከተመዝገብዎ በኋላ፣ የአባልነት የእውቅና ዲጂታል ሰርተፍኬትዎ በቅርቡ ይላክሎታል፡፡"
+          ]
+        },
+        {
+          "title": "4. How can I become a member?",
+          "title2": "እንዴት አባል መሆን እችላለሁ?",
+          "body": [
+            "Interested individuals can access the membership form using this link https://maryjoyethiopia.org/membership/ and fil the information required and our team will reach out and guide you for the next step.",
+            "ፍላጎት ያላቸው ግለሰቦች የአባልነት ቅጹን በዚህ ሊንክ https://maryjoyethiopia.org/membership/ ማግኘት እና አስፈላጊውን መረጃ መሙላት ይችላሉ እና ቡድናችን አግኝቶ ለሚቀጥለው እርምጃ ይመራዎታል።"
+          ]
+        },
+        {
+          "title": "5. Is there a membership fee?",
+          "title2": "የአባልነት ክፍያ አለ?",
+          "body": [
+            "Yes, there is a membership fee:",
+            "• Individual Students: 200 Birr per year",
+            "• Individual Adults: 1,200 Birr per year",
+            "• Individual Students Living Outside of Ethiopia: 20 USD per year",
+            "• Individual Adults Living Outside of Ethiopia: 200 USD per year",
+            "• የግለሰብ ተማሪዎች፡ በዓመት 200 ብር",
+            "• ግለሰብ አዋቂ፡ 1,200 ብር በአመት",
+            "• ከኢትዮጵያ ውጪ የሚኖሩ ግለሰብ ተማሪዎች፡ በዓመት 20 ዶላር",
+            "• ግለሰቦች ከኢትዮጵያ ውጭ የሚኖሩ፡ በዓመት 200 ዶላር"
+          ]
+        },
+        {
+          "title": "6. How does my membership contribution make a difference?",
+          "title2": "የእኔ የአባልነት አስተዋፅዖ ለውጥ የሚያመጣው እንዴት ነው?",
+          "body": [
+            "• Your membership contribution will be invested in initiatives aimed at economically empowering vulnerable caregivers and women in need.",
+            "• የአባልነትዎ አስተዋፅዖ በኢኮኖሚ በአቅመ ደካሞችን ተንከባካቢዎችን እና የተጸገገ ሴቶችን ለማበረታታት በታለመ ተነሳሽነት ላይ ይውላል።"
+          ]
+        },
+        {
+          "title": "7. Will I receive updates on the impact of my contribution?",
+          "title2": "በእኔ አስተዋፅዖ ተጽዕኖ ላይ ማሻሻያዎችን ይደርሰኛል?",
+          "body": [
+            "Yes, you will. We will provide periodic updates on progress, achievements, and challenges through the membership platform established by Mary Joy Ethiopia.",
+            "አዎ፣ በሜሪ ጆይ ኢትዮጵያ በተቋቋመው የአባልነት መድረክ በየጊዜው ስለ እድገት፣ ስኬቶች እና ተግዳሮች ለውጥ መረጃዎችን ይሰጣሉ።"
+          ]
+        },
+        {
+          "title": "8. Can I cancel my membership?",
+          "title2": "አባልነቴን መሰረዝ እችላለሁ?",
+          "body": [
+            "Yes, you may cancel your membership at any time, as it is entirely voluntary. We welcome feedback regarding your decision to leave the platform, as it helps us improve our services.",
+            "አዎ፣ አባልነትዎን በማንኛውም ጊዜ መሰረዝ ይችላሉ፣ ምክንያቱም ሙሉ በሙሉ በፈቃደኝነት ነው። ከመድረክ ለመልቀቅ ያደረጉትን ውሳኔ በተመለከተ አገልግሎቶቻችንን ለማሻሻል ስለሚረዳን አስተያየት በደስታ እንቀበላለን።"
+          ]
+        },
+        {
+          "title": "9. How can I contact Mary Joy Ethiopia for more information?",
+          "title2": "ለበለጠ መረጃ ሜሪ ጆይ ኢትዮጵያ እንዴት ማግኘት እችላለሁ?",
+          "body": [
+            "• You can reach out via: info@maryjoyethiopia.org or sintayehuh@maryjoyethiopia.org",
+            "• Phone: +251987626262 / +251983636363 / +251116686792",
+            "• Address: Megenagna, Addis Ababa, Ethiopia",
+            "• በ info@maryjoyethiopia.org ወይም sintayehuh@maryjoyethiopia.org ማግኘት ይችላሉ።",
+            "• ስልክ፡ +251987626262 / +251983636363 / +251116686792",
+            "• አድራሻ፡ መገናኛ፣ አዲስ አበባ፣ ኢትዮጵያ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "embedForm",
+      "id": "membership-form",
+      "title": "",
+      "subtitle": "",
+      "src": "https://docs.google.com/forms/d/e/1FAIpQLSciUixAQj7ndbAJD5r-2ToBruYh_vLLtH58IdL3No_3p-IU4Q/viewform?embedded=true",
+      "height": 2200,
+      "wide": true
+    }
+  ]
+}

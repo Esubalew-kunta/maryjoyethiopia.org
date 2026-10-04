@@ -1,0 +1,28 @@
+{
+  "slug": "gallery",
+  "title": "Gallery - Mary Joy Ethiopia",
+  "metaDescription": "Moments forever Gallery We have gathered many beautiful moments during our journey.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/donation-6.jpeg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/donation-6.jpeg",
+      "heading": "Gallery",
+      "subheading": "Moments forever"
+    },
+    {
+      "type": "text",
+      "heading": "We have gathered many beautiful moments during our journey",
+      "align": "center"
+    },
+    {
+      "type": "emptyGallery"
+    },
+    {
+      "type": "buttonRow",
+      "heading": "Want to make a difference?",
+      "text": "Help us raise money for our humanitarian causes",
+      "buttons": [{ "text": "Donate", "href": "/cash-donation/" }]
+    }
+  ]
+}

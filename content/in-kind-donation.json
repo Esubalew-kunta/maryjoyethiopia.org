@@ -1,0 +1,38 @@
+{
+  "slug": "in-kind-donation",
+  "title": "In-kind Donation - Mary Joy Ethiopia",
+  "metaDescription": "IN-KIND DONATION I WILL RECEIVE IN RETURN OF MY BESTOWS. At Mary Joy Ethiopia, we believe that generosity comes in many forms.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/donation-6.jpeg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/03/donation.jpg",
+      "heading": "IN- KIND DONATION",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "split",
+      "imageSide": "left",
+      "heading": "",
+      "body": [
+        "At Mary Joy Ethiopia, we believe that generosity comes in many forms. In-kind donations play a crucial role in supporting our mission to uplift vulnerable children, women, and elderly communities. Your contributions—whether food, clothing, educational materials, medical supplies, or household essentials—help us provide immediate relief and long-term support to those in need. By donating essential goods, you are directly improving the lives of countless individuals and empowering them with the resources to build a better future."
+      ],
+      "extra": {
+        "heading": "",
+        "body": [
+          "We welcome both individual and corporate in-kind donations and ensure that every item received is distributed to those who need it most. Whether you choose to drop off your donation, request a pickup, or ship items to our center, we strive to make the process simple and convenient. Your generosity makes a lasting impact, bringing hope and dignity to those facing difficult circumstances. Join us in making a difference—one donation at a time."
+        ]
+      }
+    },
+    {
+      "type": "embedForm",
+      "id": "in-kind-form",
+      "title": "ሜሪ ጆይ ኢትዮጵያ የዓይነት ልገሳ ለሚያደርጉ መመዝገቢያ ቅፅ",
+      "subtitle": "Mary Joy Ethiopia In-kind Donation Registration Form",
+      "note": "የእርሰዎን የልገሳ ድጋፍ አይነት ከስር ይሙሉ፤ እኛ ለመቀበል እንደውሎታለን! Fill you your donation and we will call you for a drop-off or pickup. 09-94-53-53-53 || 0962-00-37-77",
+      "src": "https://docs.google.com/forms/d/e/1FAIpQLSfDKx8I8sjxYV50hijgwwAiBnf505viYmnxmAM0ie8lDRMpdg/viewform?embedded=true",
+      "height": 3037,
+      "bgImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/12/Jobs-2-scaled.jpg"
+    }
+  ]
+}

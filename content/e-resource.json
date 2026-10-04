@@ -1,0 +1,52 @@
+{
+  "slug": "e-resource",
+  "title": "e-Resource - Mary Joy Ethiopia",
+  "metaDescription": "E-RESOURCES I WILL RECEIVE IN RETURN OF MY BESTOWS. OUR ANNUAL REPORTS 2024 - Annual Report 2023 - Annual Report 2022 - Annual Report",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/MJ-USA-Campaign-Broachure-Design-final-1-scaled.jpg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/contact-cover.jpg",
+      "heading": "E-RESOURCES",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "pdfViewer",
+      "src": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/MJ-USA-Campaign-Broachure-Design-final-1-scaled.jpg"
+    },
+    {
+      "type": "pdfList",
+      "heading": "OUR ANNUAL REPORTS",
+      "items": [
+        { "text": "2024 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2025/05/MJE-Annual-report-2024.pdf" },
+        { "text": "2023 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2023.pdf" },
+        { "text": "2022 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2022.pdf" },
+        { "text": "2021 - Annual Report - Amharic", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2021-Amharic.pdf" },
+        { "text": "2020 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2020-English.pdf" },
+        { "text": "2019 - Annual Report - Amharic", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2019-Amharic.pdf" },
+        { "text": "2018 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2018-English.pdf" },
+        { "text": "2017 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2017-English.pdf" },
+        { "text": "2016 - Annual Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/MJE-Annual-report-2016-English.pdf" }
+      ]
+    },
+    {
+      "type": "gallery",
+      "heading": "",
+      "columns": 3,
+      "images": [
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/MJ-USA-Campaign-Broachure-Design-final-1-1024x749.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/MJ-USA-Campaign-Broachure-Design-final-2-1024x725.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/Gedam-Sefer-Promotional-Material.jpg"
+      ]
+    },
+    {
+      "type": "pdfList",
+      "heading": "OUR RECENT AUDIT REPORTS",
+      "items": [
+        { "text": "2023 - Audit Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/2023-MJE-Audit-Report_compressed.pdf" },
+        { "text": "2022 - Audit Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/2022-MJE-Audit-Report_compressed.pdf" },
+        { "text": "2021 - Audit Report", "href": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/2021-MJE-Audit-Report_compressed.pdf" }
+      ]
+    }
+  ]
+}

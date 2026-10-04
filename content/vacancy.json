@@ -1,0 +1,20 @@
+{
+  "slug": "vacancy",
+  "title": "Vacancy - Mary Joy Ethiopia",
+  "metaDescription": "JOBS I WILL RECEIVE IN RETURN OF MY BESTOWS. NGO JOBS IN ETHIOPIA - Pharmacist \u2013 Hawassa. Job Title: Pharmacist. Location: Hawassa, Ethiopia \u2013 Medical & Support Center and Future Primary Hospital. Reports to: Medical Director. Employment Type: Full time.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/Vacnacy.jpg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/Vacnacy.jpg",
+      "heading": "JOBS",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "text",
+      "heading": "NGO JOBS IN ETHIOPIA",
+      "body": ["-"],
+      "align": "center"
+    }
+  ]
+}

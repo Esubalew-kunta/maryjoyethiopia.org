@@ -1,0 +1,90 @@
+{
+  "slug": "news",
+  "title": "News - Mary Joy Ethiopia",
+  "metaDescription": "NEWS I WILL RECEIVE IN RETURN OF MY BESTOWS. Latest updates MARY JOY ETHIOPIA NEWS.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/06/MJE-USA-Flyer-Design-final-1-215x300.jpg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/12/absolutvision-WYd_PkCa1BY-unsplash-scaled.jpg",
+      "heading": "NEWS",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "newsList",
+      "heading": "Latest updates",
+      "items": [
+        {
+          "title": "Mary Joy Ethiopia Launches Kidney Health Membership Program",
+          "date": "June 26, 2026",
+          "href": "#",
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2026/06/web-post-300x169.jpg",
+          "excerpt": "In response to the growing burden of kidney disease in Ethiopia, Mary Joy Ethiopia has officially launched its Kidney Health Membership Program, a community-centered initiative"
+        },
+        {
+          "title": "Mary Joy Ethiopia Completed its First Dialysis Session",
+          "date": "November 4, 2025",
+          "href": "#",
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/11/2-2-300x251.jpg",
+          "excerpt": "On November 5, 2025, our newly established Kidney Dialysis Center in Hawassa successfully completed its first dialysis session, serving patients who expressed deep satisfaction and relief after receiving the service."
+        },
+        {
+          "title": "Mary Joy Ethiopia Inaugurates the Hawassa Kidney Dialysis Center",
+          "date": "October 24, 2025",
+          "href": "#",
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/564009627_1122632026718471_2260076484655140624_n-300x200.jpg",
+          "excerpt": "Mary Joy Ethiopia is proud to announce the official inauguration of its Hawassa Kidney Dialysis Center, a landmark initiative that brings life-saving medical services to the Southern region of Ethiopia."
+        },
+        {
+          "title": "Hope for Ethiopia monthly sponsorship program journey",
+          "date": "October 23, 2025",
+          "href": "#",
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/20251023-1-300x190.jpg",
+          "excerpt": "Hope for Ethiopia monthly sponsorship program journey from spoil to start sponsorship to achieving survival and well-being."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "MARY JOY ETHIOPIA NEWS",
+      "align": "center"
+    },
+    {
+      "type": "newsGrid",
+      "items": [
+        {
+          "title": "Mary Joy Ethiopia Launches Kidney Health Membership Program",
+          "date": "June 26, 2026",
+          "href": "#",
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2026/06/web-post-300x169.jpg",
+          "excerpt": "In response to the growing burden of kidney disease in Ethiopia, Mary Joy Ethiopia has officially launched its Kidney Health Membership Program, a community-centered initiative",
+          "author": "admin"
+        },
+        {
+          "title": "Mary Joy Ethiopia Completed its First Dialysis Session",
+          "date": "November 4, 2025",
+          "href": "#",
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/11/2-2-300x251.jpg",
+          "excerpt": "On November 5, 2025, our newly established Kidney Dialysis Center in Hawassa successfully completed its first dialysis session, serving patients who expressed deep satisfaction and relief after receiving the service.",
+          "author": "Nathnael Nega"
+        },
+        {
+          "title": "Mary Joy Ethiopia Inaugurates the Hawassa Kidney Dialysis Center",
+          "date": "October 24, 2025",
+          "href": "#",
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/564009627_1122632026718471_2260076484655140624_n-300x200.jpg",
+          "excerpt": "Mary Joy Ethiopia is proud to announce the official inauguration of its Hawassa Kidney Dialysis Center, a landmark initiative that brings life-saving medical services to the Southern region of Ethiopia. The ceremony took place in Hawassa, with the presence of senior government officials, healthcare leaders, and Mary Joy's board members.",
+          "author": "Nathnael Nega"
+        },
+        {
+          "title": "Hope for Ethiopia monthly sponsorship program journey",
+          "date": "October 23, 2025",
+          "href": "#",
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/20251023-1-300x190.jpg",
+          "excerpt": "Hope for Ethiopia monthly sponsorship program journey from spoil to start sponsorship to achieving survival and well-being. Hope for Ethiopia's sponsorship program has been a",
+          "author": "Addis.Osamu Hotta"
+        }
+      ]
+    }
+  ]
+}

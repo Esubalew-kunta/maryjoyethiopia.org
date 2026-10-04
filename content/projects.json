@@ -1,0 +1,116 @@
+{
+  "slug": "projects",
+  "title": "Projects - Mary Joy Ethiopia",
+  "metaDescription": "COLLABORATE PROJECTS I WILL RECEIVE IN RETURN OF MY BESTOWS. OUR PROJECT COLLABORATORS We collaborate with international NGOs and Ethiopian governments to carry out various projects.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_usaid-qtwg45cj2ncb3rg08rlagtgjpq70kguo1b5wqkk2w0.png",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/12/Project-page-1.jpg",
+      "heading": "COLLABORATE PROJECTS",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "text",
+      "heading": "OUR PROJECT COLLABORATORS",
+      "body": [
+        "We collaborate with international NGOs and Ethiopian governments to carry out various projects. As a local NGO, we directly provide practical support to vulnerable people."
+      ]
+    },
+    {
+      "type": "gallery",
+      "heading": "",
+      "columns": 3,
+      "images": [
+        "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_usaid-qtwg45cj2ncb3rg08rlagtgjpq70kguo1b5wqkk2vq.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_fhi360_w-qtwfx5fs71rgo9lx3qp9wl10igon9l2lqobs4exl7a.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_WorldBank_w-qtwfxa4z57xwabf3caqer1ubhe1hc2l9fbl7isqmc6.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_BMSF_w-qtwfx5fs71rgo9lx3qp9wl10igon9l2lqobs4exl7a.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_ethiotelecom-qtwg1hgzpjp27jb9sm5cehnj4fbkrca1o4mdsci8ie.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_mathiwos-qtwg32t5afvjvqzzhsxl4l6ncxgysvlo80f02857yu.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_ministry-qtwg15938p8c0lt0ryv702qjeezsz9xjag52jr0cra.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_ethiopia-qtwfw4s2sida3h361sutpca1cfpbxe12lmvuemfxxy.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/elementor/thumbs/logo_merci-hands-europe-qyxj1bw0vw6r33xmyzxv7u82ucirxwvj1ba280fhqu.png"
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "148,986", "label": "NUMBER OF BENEFICIARIES" },
+        { "value": "11", "label": "NUMBER OF COLLABOLATE PROJECTS" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "",
+      "columns": [
+        "Donor /Source of budget",
+        "Name of current projects",
+        "Sector",
+        "Region/Zone",
+        "Name of Implementation towns",
+        "Number of Beneficiaries"
+      ],
+      "rows": [
+        ["USAID", "Family Focused HIV Prevention Care & Treatment", "Health", "Sidama / Hawassa", "Hawassa", "39,017"],
+        ["USAID", "Family Focused HIV Prevention Care & Treatment", "Health", "Sidama / Central Sidama", "Yirgalem", "39,017"],
+        ["USAID", "Family Focused HIV Prevention Care & Treatment", "Health", "Central Ethiopia / East Gurage", "Butajira", "39,017"],
+        ["USAID", "Family Focused HIV Prevention Care & Treatment", "Health", "Central Ethiopia / Hadiya", "Hossaena", "39,017"],
+        ["USAID", "Family Focused HIV Prevention Care & Treatment", "Health", "South Ethiopia/ Gedeo", "Dilla", "39,017"],
+        ["USAID", "Family Focused HIV Prevention Care & Treatment", "Health", "South Ethiopia/ Wolaita", "Wolaita Sodo", "39,017"],
+        ["USAID", "Family Focused HIV Prevention Care & Treatment", "Health", "South Ethiopia/ Ari", "Jinka", "39,017"],
+        ["USAID", "Family Focused HIV Prevention Care & Treatment", "Health", "South Ethiopia/ Gamo", "Arbaminch", "39,017"],
+        ["USAID", "Family Focused HIV Prevention Care & Treatment", "Health", "South West Ethiopia/ Sheka", "Tepi town", "39,017"],
+        ["USAID", "Family Focused HIV Prevention Care & Treatment", "Health", "South West Ethiopia/ Bench Sheko", "Mizan Aman town", "39,017"],
+        ["USAID", "Family Focused HIV Prevention Care & Treatment", "Health", "South West Ethiopia/ Kefa", "Bonga town", "39,017"],
+        ["USAID / FHI360", "SBC for Healthy Behavior Activity", "Health", "Central Ethiopia / Guraghe", "Endegegn", "32,809"],
+        ["USAID / FHI360", "SBC for Healthy Behavior Activity", "Health", "Central Ethiopia / Guraghe", "Enor", "32,809"],
+        ["USAID / FHI360", "SBC for Healthy Behavior Activity", "Health", "Central Ethiopia / Guraghe", "Mareko Special Woreda", "32,809"],
+        ["World Bank / Ministry of Women and Social Affairs", "Urban productive safety net and job project (UPSNJP)", "Livelihood and social protection", "Sidama / North Sidama", "Hawassa", "60"],
+        ["World Bank / Ministry of Women and Social Affairs", "Urban productive safety net and job project (UPSNJP)", "Livelihood and social protection", "Central Ethiopia / Hadiya", "Hossaena", "101"],
+        ["Mercy Hands Europe", "Child & youth center services", "Education & empowerment", "Sidama / North Sidama", "Hawassa", "9,447"],
+        ["Bristol Myers Squibb / The Mathiwos Wondu Ethiopian Cancer Society", "Prevention, care and treatment of lung cancer", "Health", "Addis Ababa / Addis Ketema, Kolfe Keraniyo, Sheger city", "Addis Ababa & Burayu town", "6,495"],
+        ["ethiotelecom, private sector, AA Feeding Agency", "Street children and street mothers rehabilitation center care services and reintegration , elders feeding services", "Livelihood enhancement & social protection", "Addis Ababa / Arada", "Addis Ababa", "274"],
+        ["ethiotelecom, private sector, AA Feeding Agency", "Street children center care, reintegration services", "Livelihood enhancement & social protection", "Addis Ababa / Arada", "Addis Ababa & Burayu town", "40"],
+        ["Ethiopian Government., private sector, individuals, Diaspora", "Public-Private-Partnership Program, Elder center services", "Livelihood enhancement & education", "South Ethiopia/ Gamo", "Arbaminch", "47"],
+        ["Ethiopian Government., private sector, individuals, Diaspora", "Preventive and curative health care services = facility", "Health", "Addis Ababa / Addis Ketema, Kolfe Keraniyo, Sheger city", "Addis Ababa & Burayu town", "9,400"],
+        ["Ethiopian Government., private sector, individuals, Diaspora", "Public-Private-Partnership Program (ETEM)", "Livelihood enhancement & education", "Sidama / North Sidama", "Hawassa", "1,180"],
+        ["Ethiopian Government., private sector, individuals, Diaspora", "Public-Private-Partnership Program (ETEM)", "Livelihood enhancement & education", "Central Ethiopia / Hadiya", "Hossaena", "17"],
+        ["Ethiopian Government., private sector, individuals, Diaspora", "Public-Private -Partnership Program for OVC and elders care and support services (ETEM)", "Livelihood enhancement & education", "Addis Ababa / Addis Ketema, Gulele, Yeka, Bole, Arada, Kolfe Keraniyo", "Addis Ababa", "10,623"],
+        ["Ethiopian Government., private sector, individuals, Diaspora", "Public-Private -Partnership Program for OVC and elders care and support services (ETEM)", "Livelihood enhancement & education", "Oromia / West Arsi & Bishoftu", "Dodola , Hassassa", "200"],
+        ["Ethiopian Government., private sector, individuals, Diaspora", "Public-Private -Partnership Program for OVC and elders care and support services (ETEM)", "Livelihood enhancement & education", "Oromia / Bishoftu", "Bishoftu", "316"],
+        ["Ethiopian Government, Health Sectors, HFs, schools, communities", "Feed the Future Community Nutrition Activity", "Nutrition & Health", "Sidama / North Sidama", "Wondo Genet town", "39,000"],
+        ["Ethiopian Government, Health Sectors, HFs, schools, communities", "Feed the Future Community Nutrition Activity", "Nutrition & Health", "Sidama / Central Sidama", "", "39,000"],
+        ["Ethiopian Government, Health Sectors, HFs, schools, communities", "Feed the Future Community Nutrition Activity", "Nutrition & Health", "Sidama / South Sidama", "Aleta Chuko town", "39,000"],
+        ["", "", "", "", "Total Beneficiaries", "148,670"]
+      ]
+    },
+    {
+      "type": "gallery",
+      "heading": "",
+      "columns": 6,
+      "images": [
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_usaid.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_usaid.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_fhi360_w.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_WorldBank_w.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_ministry.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/12/logo_merci-hands-europe.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/06/logo_BMSF_w.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_mathiwos.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_ethiotelecom.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_ethiopia.png",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/05/logo_ethiopia.png"
+      ]
+    },
+    {
+      "type": "map",
+      "heading": "Project Locations",
+      "src": "https://www.google.com/maps/d/u/0/embed?mid=1BvXnGm1X_PU1EyjHOM953LElKpJ05fo&ehbc=2E312F&noprof=1"
+    },
+    {
+      "type": "buttonRow",
+      "buttons": [{ "text": "READ MORE", "href": "/about-us/", "linkSub": "about Mary Joy Ethiopia" }]
+    }
+  ]
+}

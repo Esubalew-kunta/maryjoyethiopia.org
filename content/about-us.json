@@ -1,0 +1,207 @@
+{
+  "slug": "about-us",
+  "title": "About Us - Mary Joy Ethiopia",
+  "metaDescription": "ABOUT US I WILL RECEIVE IN RETURN OF MY BESTOWS. Mary Joy Ethiopia The charity idea was initiated in 1992 by Sr. Zebider Zewdie and other fellows to address the vulnerability of women in the Asko Area of Addis Ababa.",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/story-1.jpg",
+  "sections": [
+    {
+      "type": "pageHero",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/10/P_20241028_153947-EDIT-scaled.jpg",
+      "heading": "ABOUT US",
+      "subheading": "I WILL RECEIVE IN RETURN OF MY BESTOWS."
+    },
+    {
+      "type": "text",
+      "heading": "Mary Joy Ethiopia",
+      "body": [
+        "The charity idea was initiated in 1992 by Sr. Zebider Zewdie and other fellows to address the vulnerability of women in the Asko Area of Addis Ababa. We provided support for women during delivery in a private clinic founded by Sr. Zebider out of philanthropic motivation. Over time, the community's demand increased beyond what individual efforts could handle, leading to the establishment of Mary Joy Ethiopia, and the expansion of its programs and geographic reach."
+      ]
+    },
+    {
+      "type": "timeline",
+      "items": [
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/story-1.jpg",
+          "title": "After the initiation of the charity idea In 1994 Mary Joy Ethiopia is established as non-profit, non-governmental organization."
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/story-2.jpg",
+          "title": "In 2010 the organization is re-registered as Mary Joy Development Association and with the new Federal Democratic Republic of Ethiopia Charities ans Societies Proclamation page #4521 as Ethiopian resident Charity with Reg. no. 0060 under the Federal Charity and Society Agency."
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/story-3-1.jpg",
+          "title": "In 2021 the organization is registered as Mary Joy Ethiopia with the new Proclamation No.1113/2019 with the new Agency of Civil Society Organization with the same registration number."
+        }
+      ]
+    },
+    {
+      "type": "buttonRow",
+      "buttons": [
+        { "text": "READ MORE", "href": "/what-we-do/" },
+        { "text": "READ MORE", "href": "/programs/" }
+      ]
+    },
+    {
+      "type": "branches",
+      "heading": "OUR BRANCHES",
+      "intro": "Mary Joy Ethiopia has following branches in Ethiopia.",
+      "items": [
+        { "name": "(Addis Ababa, Megenagna )", "phone": "+251 1 1668 6793 / +251 9 6200 9332" },
+        { "name": "(Addis Ababa, Piassa)", "phone": "+251 1 1128 1870 /+251 9 8363 6363" },
+        { "name": "(Asko, Addis Ababa)", "phone": "+251 1 1668 6793 / +251 9 6200 9902" },
+        { "name": "(Sidama Region)", "phone": "+251 5 6220 4705/+251 4 6212 8714 / +251 9 7005 259" },
+        { "name": "(Central Ethiopia)", "phone": "+251 9 2436 2507 /+251 1 1668 6793" },
+        { "name": "(South Ethiopia)", "phone": "+251 4 6881 0179 / +251 9 0989 0929" }
+      ]
+    },
+    {
+      "type": "gallery",
+      "heading": "",
+      "columns": 8,
+      "images": [
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_163109-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_163339-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_163800-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_151900-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_151748-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_153927-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_153828-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_153815-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241120_160611-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2024/12/P_20241120_153959-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241115_091427-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241115_090847-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241115_090914-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241115_093822-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241115_154227-s-150x150.jpg",
+        "https://maryjoyethiopia.org/wp-content/uploads/2025/01/P_20241113_143429-s-150x150.jpg"
+      ]
+    },
+    {
+      "type": "founder",
+      "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/05/photo_2024-05-23_22-09-46-1024x682.jpg",
+      "heading": "Our Founder: Sister Zebider Zewdie",
+      "intro": "Sister Zebider Zewdie, the visionary Founder and Executive Director of Mary Joy Ethiopia, has dedicated her life to transforming vulnerable communities through compassion, resilience, and service.",
+      "sections": [
+        {
+          "heading": "Early Life and Education",
+          "body": [
+            "Born in 1963 in Chincha Woreda, Gammo Goffa (SNNPR), Sister Zebider began her journey as a healthcare professional. She pursued nursing at the Addis Ababa Nursing School and later served in major hospitals including Tikur Anbessa, Yekatit 12, and St. Paul's."
+          ]
+        },
+        {
+          "heading": "Impact and Programs",
+          "body": [
+            "Under her leadership, Mary Joy Ethiopia delivers holistic support through:"
+          ],
+          "bullets": [
+            "Free maternal care, HIV/AIDS services, and lung cancer screening.",
+            "Scholarships, vocational training, and school materials for disadvantaged youth.",
+            "Food, shelter, and care for orphans, the elderly, and vulnerable women.",
+            "Microfinance, skills training, and women's leadership initiatives."
+          ]
+        },
+        {
+          "heading": "Her Legacy",
+          "body": [
+            "Sister Zebider continues to inspire countless individuals through her unwavering commitment to social justice. Her leadership model combines service, sustainability, and spirituality — offering a beacon of hope for generations to come."
+          ]
+        },
+        {
+          "heading": "The Birth of Mary Joy Ethiopia",
+          "body": [
+            "After working with Save the Children Norway, Sister Zebider was moved by the hardships she witnessed. In 1994, she founded Mary Joy Ethiopia, starting with only 100 children. Today, the organization has served over 8,000 children and 1,000 elders across Ethiopia."
+          ]
+        },
+        {
+          "heading": "Faith and Personal Strength",
+          "body": [
+            "A devout Orthodox Christian, Sister Zebider attributes her strength to faith. Surviving a life-threatening illness early in her career, she believes her recovery was through the mercy of the Holy Virgin, St. Mary — the inspiration behind the name Mary Joy Ethiopia."
+          ]
+        },
+        {
+          "heading": "Awards and Recognition",
+          "body": [
+            "Sister Zebider's work has been celebrated both nationally and internationally:"
+          ],
+          "bullets": [
+            "AWiB Ethiopia, Recognition Award",
+            "Ministry of Peace",
+            "From Prime Minister Abiy Ahmed and other government bodies",
+            "Including the Araya Sew Award in Dallas, Texas"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "people",
+      "heading": "BOARD OF DIRECTION",
+      "columns": 3,
+      "items": [
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/09/tigist--e1760341892625.jpg",
+          "title": "W/ro Tigist Abate",
+          "subtitle": "Chairperson",
+          "text": ""
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/09/Salahadin-Khalifa-e1760342116799-300x300.jpg",
+          "title": "Mr.Salahdin Kalifa",
+          "subtitle": "Vice Chairperson",
+          "text": "Addis Ababa, Ethiopia\n\nAto Salahadin Khalifa is a senior executive with over 35 years of leadership experience across healthcare, manufacturing, logistics, and real estate. He currently serves as CEO of Kadisco General Hospital and Vice Chairperson of the Board of Mary Joy Ethiopia, following a 14 year tenure as a Board Member during the organization's earlier growth phase.\n\nHe holds an MBA from Birmingham University and a BA in Management from the American University in London. Ato Salahadin has previously led Kadisco Paint Factory, Samatra Logistics, and Sachem Import & Export PLC, and currently serves as Board Member of ZamZam Bank, Kadisco Paints, and the Children's Heart Fund of Ethiopia.\n\nHis long standing commitment to Mary Joy Ethiopia continues to strengthen its governance, strategy, and sustainability."
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/09/dr-debebe-e1760342227306-300x300.jpg",
+          "title": "Dr. Debebe Ero",
+          "subtitle": "Board Member",
+          "text": "Addis Ababa, Ethiopia\n\nDr. Debebe Ero joined the Board of Mary Joy Ethiopia in 2025, bringing over two decades of leadership in social work, community development, and institutional governance. He holds Bachelor's, Master's, and PhD degrees in Social Work and Community Development, and has served in senior roles at the Ministry of Labor and Social Affairs, Ethiopia Children's Parliament, and international child protection networks. He also served as Program Manager at Mary Joy Ethiopia and Pact Ethiopia, contributing to national coordination and program implementation.\n\nCurrently, Dr. Debebe is a faculty member and Assistant Dean at Addis Ababa University's School of Social Work. He previously served as Dean of the College of Social Sciences and is an active member of the University Senate. His academic leadership is complemented by service on multiple boards and advisory bodies, with a focus on strategic planning, resource mobilization, and resilience programming. As a board member, he is committed to advancing Mary Joy Ethiopia's mission through transparent governance and collaborative leadership."
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/09/atomi-e1760342372765-300x300.jpg",
+          "title": "Dr. Atomi Abebe",
+          "subtitle": "Board Member",
+          "text": "Addis Ababa, Ethiopia\n\nDr. Atomi Abebe joined the Board of Mary Joy Ethiopia in 2025. She holds academic degrees in Geography, Political Science, and International Relations, and earned her PhD in Social and Economic Development Planning. Her career spans senior leadership roles in government institutions including the Ministry of Trade and Industry, Land Administration, and Addis Ababa City Council, as well as advisory and teaching positions in higher education.\n\nShe has completed advanced training in transformational leadership and actively contributes to civic organizations such as the Addis Ababa Women's Caucus, Ethiopian Public Diplomacy Network, and the Scout Association. Dr. Atomi brings deep expertise in strategic planning, gender equity, and institutional development, strengthening the board's governance and commitment to sustainable community impact."
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/photo_2025-10-15_18-07-55-300x261.jpg",
+          "title": "Ato Anteneh",
+          "subtitle": "Board Member",
+          "text": "Addis Ababa, Ethiopia\n\nAnteneh is an entrepreneur, academician and a versatile leader with more than 18 years of senior-level management experience in different industries. (i.e., Healthcare, Higher Education, Information Technology, Coffee Export, and Medical Equipment ) in the region of East Africa.\n\nHe is the cofounder and chief strategist of Starchain Medical and Heal Venture Medical and Surgical Center\n\nAnteneh possess a comprehensive knowledge of Strategic Management, Sales and Marketing, Resource Mobilization, Project Management, Information Technology, and Operations Management\n\nAnteneh graduated from St Mark & St John University (UK), MBA in Marketing Management ( with merit), and from Sikkim Manipal University, MSc"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/09/alemayehu-e1760342508202-300x300.jpg",
+          "title": "Alemayehu Yilma",
+          "subtitle": "Board Member",
+          "text": "Addis Ababa, Ethiopia\n\nAlemayehu Yilma joined the Board of Mary Joy Ethiopia in 2025, bringing over 20 years of distinguished experience in financial management, institutional auditing, and strategic governance. He holds both Bachelor's and Master's degrees in Accounting and Finance from Addis Ababa University. Alemayehu began his career at the Ministry of Revenue, where he served as Auditor and later Audit Team Leader, overseeing tax compliance, mentoring audit teams, and producing high-impact financial reports that strengthened public accountability.\n\nHe currently serves as Finance Director at Century Business Group, where he has led financial strategy, budgeting, and regulatory compliance for over six years. His previous roles include Chief Accountant and Board Member at the same institution, where he played a pivotal role in shaping internal controls and supporting executive decision-making. As a board member of Mary Joy Ethiopia, Alemayehu contributes deep financial insight, ethical leadership, and a commitment to transparent governance advancing the organization's mission with precision and purpose."
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/09/Nigist-240x300.jpg",
+          "title": "W/ro Nigist W/Silase",
+          "subtitle": "Board Member",
+          "text": "Addis Ababa, Ethiopia\n\nW/ro Nigist is a seasoned finance and leadership professional with over 30 years of experience across government, development, and civil society institutions. She holds a Master's degree in Finance and Leadership and has served in senior roles at the Ministry of Finance, Addis Ababa Finance Bureau, Awash Wine Company, and CARE Ethiopia. Her expertise includes financial management, auditing, and strategic leadership, with a proven track record of delivering results in both public and private sectors.\n\nShe has served on the boards of Enat Bank, Lion Bank, and Ethiopian Marble Products, and remains an active member of the General Assembly of Mary Joy Ethiopia. As a board member, W/ro Nigist is committed to strengthening the organization's strategic direction and impact, contributing her deep experience and dedication to institutional resilience and community development."
+        }
+      ]
+    },
+    {
+      "type": "people",
+      "heading": "MANAGEMENT TEAM",
+      "columns": 3,
+      "items": [
+        { "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/09/Sister-Zebider-Zewdie.jpeg", "title": "", "subtitle": "", "text": "" },
+        { "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/09/Sintaheyu-Hailu-e1760340034914.jpg", "title": "", "subtitle": "", "text": "" },
+        { "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/Dr.-Abdu-Dawud-scaled-e1760340549919.jpg", "title": "", "subtitle": "", "text": "" },
+        { "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/photo_2025-10-15_18-05-02.jpg", "title": "", "subtitle": "", "text": "" },
+        { "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/09/5938158939944372343-e1760340970535.jpg", "title": "", "subtitle": "", "text": "" },
+        { "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/09/5938158939944372338-e1760341199335.jpg", "title": "", "subtitle": "", "text": "" },
+        { "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/DrDawit-e1760340813386.jpg", "title": "", "subtitle": "", "text": "" },
+        { "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/photo_2025-10-15_18-05-06.jpg", "title": "", "subtitle": "", "text": "" },
+        { "image": "https://maryjoyethiopia.org/wp-content/uploads/2025/10/Dagnachew.jpg", "title": "", "subtitle": "", "text": "" }
+      ]
+    },
+    {
+      "type": "buttonRow",
+      "heading": "OUR PROGRAMS",
+      "buttons": [{ "text": "– READ MORE –", "href": "/programs/" }]
+    }
+  ]
+}

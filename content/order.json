@@ -1,0 +1,71 @@
+{
+  "slug": "order",
+  "title": "MJE Order - Mary Joy Ethiopia",
+  "metaDescription": "MJE Order purchase request recruitment request vehicle request Resignation request Travel request KPI report Form General Service Request Store Request Financial Report Submission Request payment request",
+  "ogImage": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/puchase-300x200-1.png",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "MJE Order",
+      "as": "h1",
+      "align": "left"
+    },
+    {
+      "type": "cards",
+      "heading": "",
+      "columns": 4,
+      "items": [
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/puchase-300x200-1.png",
+          "title": "purchase request",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLScXS8lYoez9HZJqu0bv5VKbtg-VkwwgbrbeXuWh9gs10hqqEw/viewform"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/recitment-255x182-1.png",
+          "title": "recruitment request",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfR0BILq3oOVbIlxTMqTaU4Dm0r-0WLzdictc_EmPESp-OCXA/viewform"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/vhicle-300x200-1.png",
+          "title": "vehicle request",
+          "href": "https://forms.gle/SXXSCrYSrTL1jNir8"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/resignation-150x150-1.png",
+          "title": "Resignation request",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLScr8Dzb54X2UsiMhNNvMeGe_pbNZU20Lf9IawkB1KCShYQdbQ/viewform"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/travel-300x129-1.png",
+          "title": "Travel request",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSd9iubHiMV5AA07Tkr_pxykXw9zWNf8KeYUk5T1huVgOkcXhg/viewform"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/kpi-300x200-1.png",
+          "title": "KPI report Form",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfe975NWw68Efi6_DikPc7P-fBgVy1Y2ddL-PBYTvh_f4UCKw/viewform?usp=send_form"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/general-serive-300x231-1.png",
+          "title": "General Service Request",
+          "href": "#"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/storee-300x200-1.png",
+          "title": "Store Request",
+          "href": "#"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/finance-300x200-1.png",
+          "title": "Financial Report Submission Request",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSdzbqQI6Igg8qMvTEOXih_GfjP-5lVEVc0xFJlGhmcIDezKxg/viewform"
+        },
+        {
+          "image": "https://maryjoyethiopia.org/wp-content/uploads/2024/07/payment-300x200-1.png",
+          "title": "payment request",
+          "href": "#"
+        }
+      ]
+    }
+  ]
+}
